@@ -1,7 +1,6 @@
 
----
-title: Receitas
----
+
+
 
 Repositório de receitas e experiências na cozinha
 
