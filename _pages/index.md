@@ -14,6 +14,11 @@ Henry David Thoreau, Walden.
 </p>
 
 Foi com estas palavras que Thoreau justificou sua fuga para longe da civilização e em busca de uma autossuficiência ética junto à natureza. É neste sentido também que surge a ideia dos Jardins Digitais, espaços contrapostos às redes sociais e às plataformas que extensamente exploram o tutano de nossa vida para gerar lucro e, principalmente, dados. Em resposta às plataformas que jogam nossa vida, nossas relações pessoais, nossos sentimentos e visões de mundo em um loop agressivo e acelerado de regurgitação sugam nossa energia e nos aceleram a formar, regurgitar, rebater e solidificar opiniões,   
+
+
+<img src="/assets/jardim1.png"/>
+
+
 ☕️
 
 
