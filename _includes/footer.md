@@ -1,2 +1,0 @@
-Este Jardim Digital é minha versão do jardim disponibilizado por Maxime Vaillancourt, disponível [aqui](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
-
