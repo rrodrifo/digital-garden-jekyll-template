@@ -1,2 +1,5 @@
 Privacidade
 
+[[ANPD]]
+[[GDPR]]
+[[LGPD]]
