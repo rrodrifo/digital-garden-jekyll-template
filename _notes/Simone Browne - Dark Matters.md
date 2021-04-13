@@ -4,6 +4,8 @@ title: Simone Browne - Dark Matters
 
 A obra "Dark Matters" publicada por Simone Browne em 2015 rapidamente se tornou um dos mais importantes e influentes estudos acerca dos Surveillance Studies. Ao envolver sua revisão completa dos textos seminais da área de estudos com seu recorte racial, a autora reestrutura as discussões acerca dos modelos panópticos e pós-panópticos de maneira a revolucionar seus significados e potencialidades de compreensão. Uma vez desvelado, o poder exercido pelos mecanismos de controle racial em cima dos mecanismos de vigilânicias não pode ser mais ignorado, motivo pelo qual o presente texto, ainda que recente, já se torna leitura obrigatória que deve influenciar todos os estudos sobre vigilância posteriores à sua publicação. 
 
+<img src="/assets/browne.jpeg"/>
+
 
 Browne se utiliza de diversos mecanismos didáticos para demonstrar como os dispositivos de vigilância moderno são indissociáveis do policiamento e perseguição da população negra durante e após a escravidão. 
 
