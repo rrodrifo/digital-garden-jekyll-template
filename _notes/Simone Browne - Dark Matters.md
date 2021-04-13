@@ -1,9 +1,16 @@
 Dark Matters
 
 A obra "Dark Matters" publicada por Simone Browne em 2015 rapidamente se tornou uma dos mais importantes e influentes estudos acerca dos Surveillance Studies. Ao envolver sua revisão completa dos textos seminais da área de estudos com seu recorte racial, a autora reestrutura as discussões acerca dos modelos panópticos e pós-panópticos de maneira a revolucionar seus significados e potencialidades de compreensão. Uma vez desvelado, o poder exercido pelos mecanismos de controle racial em cima dos mecanismos de vigilânicias não pode ser mais ignorado, motivo pelo qual o presente texto, ainda que recente, já se torna leitura obrigatória que deve influenciar todos os estudos sobre vigilância posteriores à sua publicação. 
+
+
 Browne se utiliza de diversos mecanismos didáticos para demonstrar como os dispositivos de vigilância moderno são indissociáveis do policiamento e perseguição da população negra durante e após a escravidão. 
+
+
 Um exemplo de como a inserção desta chave de compreensão modifica a nossa compreensão acerca destes dispositivos e escancara a incompletude de qualquer análise dos dispositivos de vigilância que não considere a dimensão do racismo na formulação e implementação da vigilância é o caso do Panóptico de Bentham. 
+
+
 Nos meios acadêmicos se atribui à releitura do panóptico de Bentham por Foucault o surgimento dos chamados “Surveillance Studies”, ou estudos sobre vigilância, como disciplina autônoma. Porém, Browne nos demonstra que, antes mesmo do surgimento do panóptico ou mesmo da prisão moderna em solo europeu, tecnologias de vigilância estruturadas de maneira moderna e buscando a ubiquidade já eram impostas aos corpos negros que eram escravizados, fato que é exacerbado pela comparação da planta do navio negreiro Brooks com a planta das prisões em formato panóptico desenvolvida por Bentham, ou pela constatação de que o utilitarista inglês havia passado os anos anteriores ao desenvolvimento do panóptico estudando e comentando os métodos de tortura, punição e vigilância impostos aos escravizados em seus diários e cartas com seu irmão. 
+
 
 Apresento aqui algumas citações da obra de Browne que considero relevantes:
 
