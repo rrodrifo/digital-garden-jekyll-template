@@ -9,9 +9,8 @@ A medida, que surge no momento em que o Google e diversas outras Big Techs estã
 Esta mudança, caso bem sucedida, representa um dos maiores passos já tomados por qualquer empresa para de uma vez só modificar completamente o ambiente da web. A publicidade online é o motor para todo o conteúdo gratuito disponível online, assim como parte essencial da economia dos dados e do chamado Capitalismo de Vigilância. Ao mesmo tempo, o investimento de empresas em publicidade online já representa <a href="https://www.emarketer.com/content/global-digital-ad-spending-2019">mais da metade de todo o investimento em marketing global</a>. Para entender melhor como funciona a publicidade online, porém, precisamos falar sobre Cookies.
 
 ---
----
-title: Cookies
----
+### Cookies
+
 
 Ainda que tenham se tornado mais visíveis ao usuário após a entrada em vigor das novas leis de proteção de dados como a [[GDPR]], os Cookies já estavam presentes na navegação online da grande maioria dos usuários há anos. 
 
@@ -32,9 +31,8 @@ Atualmente os anúncios personalizados na web aberta (ou seja, fora dos sites em
 
 ---
 
----
-title: O que o Google ganha com o fim dos Cookies de Terceiros?
----
+### O que o Google ganha com o fim dos Cookies de Terceiros?
+
 
 Mas então se o Google é uma empresa que oferece seus serviços de forma (relativamente) gratuita e lucra com base na publicidade digital, qual o motivo para terem declarado que pretendem banir os cookies de terceiros, tão importantes para o ambiente de marketing digital, até 2022?
 
