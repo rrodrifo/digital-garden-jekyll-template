@@ -6,7 +6,6 @@ Repositório de links para textos, artigos e matérias sobre as Big Techs.
 
 [[FloC]]
 
-[[Essential Platforms]]
 
 - Essential Platforms - Nikolas Guggenberger:
 
