@@ -9,7 +9,7 @@ A receita básica do bolo Chiffon consiste de uma massa feita com poucos ingredi
 [[Bolo Chiffon de Café com cobertura de Caramelo Salgado]]
 
 
-<img src="/assets/bolo2.jpeg"/>
+<img src="/assets/bolo2.jpg"/>
 
 
 
@@ -52,6 +52,6 @@ A receita básica do bolo Chiffon consiste de uma massa feita com poucos ingredi
 
  - Assim que retirar o bolo do forno, após conferir com um espeto se ele está assado, solte a forma no balcão da cozinha gentilmente para parar o processo de encolhimento do bolo. Posicione a forma de ponta cabeça, de preferência de modo que fique suspenso do balcão ou prato em que será servido. 
 
-<img src="/assets/bolo1.jpeg"/>
+<img src="/assets/bolo1.jpg"/>
 
  - Depois que o bolo esfriar completamente de ponta cabeça, passe uma faca gentilmente pelas laterais e retire da forma. Despeje o glacê e um pouco de açúcar de confeiteiro para ornamentar. Bom apetite!
