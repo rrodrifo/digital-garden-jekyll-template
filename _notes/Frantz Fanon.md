@@ -1,0 +1,4 @@
+---
+title: Frantz Fanon
+---
+
