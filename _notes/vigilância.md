@@ -6,3 +6,5 @@ Repositório de links e fichamentos sobre vigilância
 
 
 [[The Surveillant Assemblage - Haggerty e Ericson]]
+
+[[O Slave Ship como paradigma de análise dos aparatos de vigilância]]
