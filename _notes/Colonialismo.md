@@ -4,7 +4,7 @@ title: Colonialismo
 
 Repositórios de links, terxtos, artigos sobre colonialismo e colonialismo de dados
 
-[[Aimé Cesaire]]
+[[Aimé Césaire]]
 
 [[Frantz Fanon]]
 
