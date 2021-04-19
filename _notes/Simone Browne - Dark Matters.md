@@ -7,7 +7,7 @@ A obra "Dark Matters" publicada por Simone Browne em 2015 rapidamente se tornou 
 <img src="/assets/browne.jpeg"/>
 
 
-Browne se utiliza de diversos mecanismos didáticos para demonstrar como os dispositivos de vigilância moderno são indissociáveis do policiamento e perseguição da população negra durante e após a escravidão. 
+Browne se utiliza de diversos mecanismos didáticos para demonstrar como os dispositivos de vigilância moderno são indissociáveis do policiamento e perseguição da população negra durante e após a escravidão. Com base nos conceitos de [[Frantz Fanon]] a autora desenvolve seu conceito principal de digital epidermalization, que resume a experiência de inserção da raça no corpo do sujeito a partir desta inserção em seus dados, que são tornados racializados. 
 
 
 Um exemplo de como a inserção desta chave de compreensão modifica a nossa compreensão acerca destes dispositivos e escancara a incompletude de qualquer análise dos dispositivos de vigilância que não considere a dimensão do racismo na formulação e implementação da vigilância é o caso do Panóptico de Bentham. 
