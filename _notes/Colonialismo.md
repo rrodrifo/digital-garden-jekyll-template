@@ -10,6 +10,8 @@ Repositórios de links, terxtos, artigos sobre colonialismo e colonialismo de da
 
 [[O Slave Ship como paradigma de análise dos aparatos de vigilância]]
 
+[[Comunidades, Algoritmos e Ativismos Digitais]]
+
 > <a href="https://www.youtube.com/watch?v=NJ3cFjlAVBs">Colonização Algorítmica da Africa</a>
 
 > <a href="https://jacobin.com.br/2020/12/o-movimento-das-tecnologias-nao-alinhadas-contra-o-colonialismo-de-dados/">O Movimento das Tecnologias não alinhadas contra o colonialismo de dados</a>
