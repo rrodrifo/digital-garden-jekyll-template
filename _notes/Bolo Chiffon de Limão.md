@@ -9,6 +9,9 @@ A receita básica do bolo Chiffon consiste de uma massa feita com poucos ingredi
 [[Bolo Chiffon de Café com cobertura de Caramelo Salgado]]
 
 
+<img src="/assets/bolo2.jpeg"/>
+
+
 
 ### Ingredientes
 
@@ -23,6 +26,7 @@ A receita básica do bolo Chiffon consiste de uma massa feita com poucos ingredi
 > 75g de farinha para bolo (a farinha para bolo é uma mistura de ⅔ de farinha de trigo com ⅓ de maizena. Neste caso, duas colheres de sopa de farinha de trigo misturadas com uma colher de sopa de maizena)
 
 > 1 colher de chá de fermento
+
 
 
 ### Modo de Preparo
@@ -47,5 +51,7 @@ A receita básica do bolo Chiffon consiste de uma massa feita com poucos ingredi
  - Enquanto o bolo assa, misture bem o suco de meio limão com duas colheres de sopa de açúcar para formar um glacê de limão.
 
  - Assim que retirar o bolo do forno, após conferir com um espeto se ele está assado, solte a forma no balcão da cozinha gentilmente para parar o processo de encolhimento do bolo. Posicione a forma de ponta cabeça, de preferência de modo que fique suspenso do balcão ou prato em que será servido. 
+
+<img src="/assets/bolo1.jpeg"/>
 
  - Depois que o bolo esfriar completamente de ponta cabeça, passe uma faca gentilmente pelas laterais e retire da forma. Despeje o glacê e um pouco de açúcar de confeiteiro para ornamentar. Bom apetite!
