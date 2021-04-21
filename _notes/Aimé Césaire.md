@@ -2,7 +2,7 @@
 title: Aimé Césaire - Discurso sobre o Colonialismo
 ---
 
-Lançado em 1950, poucos anos após o fim da Segunda Guerra Mundial, Discurso Sobre o Colonialismo é um ataque incisivo ao colonialismo e aos intelectuais franceses que o suportavam ideologicamente. Sem meias palavras, o poeta Martiniquês escancara a violência colonial e sua tácita aceitação nos comportados e civilizados espaços acadêmicos da metrópole. 
+Lançado em 1950, poucos anos após o fim da Segunda Guerra Mundial, Discurso Sobre o Colonialismo é um ataque incisivo ao colonialismo e aos intelectuais franceses que o suportavam ideologicamente. Sem meias palavras, o poeta Martinicano escancara a violência colonial e sua tácita aceitação nos comportados e civilizados espaços acadêmicos da metrópole. 
 
 Questionando a própria noção de civilização em relação ao colonialismo, Césaire apresenta a tese de que o colonialismo é fonte da decadência da Europa e de sua classe média e que a dominação colonial, ao invés de "civilizar" os "selvagens" desumaniza os colonizadores. 
 
