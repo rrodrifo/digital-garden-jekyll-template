@@ -23,7 +23,7 @@ A abertura do livro resume suas ideias e objetivo com tamanha potência e assert
 
 O primeiro ponto levantado por Césaire consiste em perguntar se a colonização é civilização. Responde afirmando que, sendo um objetivo positivo colocar diferentes civilizações em contato, da colonização à civilização a distância é infinita.
 
-Para Césaire, na verdade, a colonização é capaz de descivilizar o colonizador, de embrutece-lo, despertando nele a violência, o ódio racial, o relativismo moral. Neste sentido, o nazismo que poucos anos da publicação deste livro havia abalado a Europa e chocado os europeus, em realidade não é nada mais do que o resultado da cotidianidade das barbáries tornada possível pelo colonialismo. 
+Para Césaire, na verdade, a colonização é capaz de descivilizar o colonizador, tornando-o bruto, despertando nele a violência, o ódio racial, o relativismo moral. Neste sentido, o nazismo que poucos anos da publicação deste livro havia abalado a Europa e chocado os europeus, em realidade não é nada mais do que o resultado da cotidianidade das barbáries tornada possível pelo colonialismo. 
 
 > Pode-se matar na Indochina, torturar em Madagascar, prender na África negra, seviciar nas Antilhas. Os colonizados sabem, a partir de agora, que têm uma vantagem sobre os colonialistas.  Sabem que os seus ‘amos’ provisórios mentem. 
 > Logo, que os seus amos são fracos”. p. 14
@@ -61,7 +61,7 @@ Césaire cita Baudelaire para relembrar de como já havia a sensação do mal na
 
 Assim como Buck-Morss expõe os filósofos que pregavam a liberdade universal do homem enquanto conviviam tranquilamente com os horrores da escravidão, Césaire expõe os antropólogos franceses que justificam a diferença entre o homem branco e os africanos com base no “respeito pela dignidade humana” inerente aos europeus, ao mesmo tempo em que nas colônias predomina a morte, a tortura e toda natureza de desrespeito à dignidade. 
 
-### A Nação e o colonialismo Estadunidense
+### A Nação e o Colonialismo Estadunidenses
 
 > “Dos valores inventados outrora pela burguesia e que ela lançou através do mundo, um é o do homem e do humanismo - e já vimos no que se tornou -, o outro é o da nação” p. 65
 
