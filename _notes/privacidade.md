@@ -10,4 +10,6 @@ Privacidade
 
 [[Proteção de Dados]]
 
+[[Regulação da IA na União Europeia]]
+
 [[Big Tech]]
