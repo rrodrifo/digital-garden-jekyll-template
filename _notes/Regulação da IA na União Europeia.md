@@ -6,13 +6,13 @@ Em 21 de abril de 2021 a Comissão Europeia propôs ao Parlamento Europeu uma at
 
 Considerando que os mesmos elementos e técnicas que proporcionam os benefícios socioeconômicos possíveis a partir da Inteligência Artificial (IA) também podem apresentar grandes riscos para indivíduos e para a sociedade, a Comissão Europeia desenvolveu uma legislação com o objetivo de proporcionar um framework de equilíbrio entre os riscos e benefícios da tecnologia. O objetivo central da regulação é que, a partir deste equilíbrio entre as possibilidades positivas e negativas da IA floresça um ambiente de desenvolvimento tecnológico baseado na confiança na tecnologia, confiança essa que só é possível a partir da criação de limites e diretrizes para seu desenvolvimento e aplicação. A Regulação se aplica a toda e qualquer empresa na União Europeia e também a empresas em quaisquer outros países que venham a vender ou oferecer seus sistemas de IA para entidades dentro da União Europeia ou que afetem cidadãos europeus. 
 
-Os objetivos específicos deste framework regulatório são:
-Garantir que os sistemas de IA utilizados no mercado único europeu são seguros e respeitam leis existentes sobre os direitos fundamentais e os valores da União Europeia;
-Garantir segurança jurídica para facilitar o investimento em inovação em IA;
-Desenvolver melhor a governança e a aplicação efetiva das leis já existentes nos contextos aplicáveis à IA;
-Facilitar o desenvolvimento de um mercado único para aplicações legais, seguras e confiáveis de IA, impedindo a fragmentação do mercado. 
-
 ### Objetivos:
+
+Os objetivos específicos deste framework regulatório são:
+- Garantir que os sistemas de IA utilizados no mercado único europeu são seguros e respeitam leis existentes sobre os direitos fundamentais e os valores da União Europeia;
+- Garantir segurança jurídica para facilitar o investimento em inovação em IA;
+- Desenvolver melhor a governança e a aplicação efetiva das leis já existentes nos contextos aplicáveis à IA;
+- Facilitar o desenvolvimento de um mercado único para aplicações legais, seguras e confiáveis de IA, impedindo a fragmentação do mercado. 
 
 Segundo o Artigo 1 da regulação, os objetivos da legislação é de providenciar:
 Regras harmonizadas para a disponibilização no mercado único europeu de tecnologias e sistemas de IA;
