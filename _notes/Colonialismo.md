@@ -33,6 +33,10 @@ Repositórios de links, terxtos, artigos sobre colonialismo e colonialismo de da
  
 > <a href="https://www.animalpolitico.com/blog-invitado/impuestos-a-corporaciones-digitales-y-la-fragmentacion-de-la-web-hacia-un-movimiento-de-paises-no-alineados">Impuestos a corporaciones digitales y la fragmentación de la web: ¿hacia un Movimiento de Países No Alineados?</a>
 
+[[Abeba Birhane]]
+
+> <a href="https://www.engadget.com/deepmind-oxford-decolonial-ai-paper-161535009.html">DeepMind and Oxford University researchers on how to ‘decolonize’ AI
+Algorithmic Colonization of Africa</a>
 
 [[O Slave Ship como paradigma de análise dos aparatos de vigilância]]
 
@@ -50,8 +54,6 @@ Repositórios de links, terxtos, artigos sobre colonialismo e colonialismo de da
 
 > <a href="https://revistas.unila.edu.br/epistemologiasdosul/article/view/1584">O fatalismo como estratégia colonial</a>
 
-> <a href="https://www.engadget.com/deepmind-oxford-decolonial-ai-paper-161535009.html">DeepMind and Oxford University researchers on how to ‘decolonize’ AI
-Algorithmic Colonization of Africa</a>
 
 > <a href="http://twentyseven.fibreculturejournal.org/2016/03/08/fcj-198-new-international-information-order-niio-revisited-global-algorithmic-governance-and-neocolonialism/">New International Information Order (NIIO) Revisited: Global Argorithmic Governance and Neocolonialism</a>
  
