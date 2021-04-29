@@ -4,7 +4,7 @@ title: Raça e Tecnologia
 
 Repositório de Textos sobre Raça, racismo e tecnologia
 
-[[Simone Browne]]
+[[Simone Browne - Dark Matters]]
 
 [[O Slave Ship como paradigma de análise dos aparatos de vigilância]]
 
