@@ -1,5 +1,5 @@
 --- 
-title: The Surveillant Assemblage - Haggerty e Ericson
+title: The Surveillant Assemblage 
 ---
-
+### Haggerty e Ericson
 
