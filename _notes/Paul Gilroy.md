@@ -80,7 +80,7 @@ Este tópico do livro trata das nuances sobre a possibilidade do nacionalismo se
 
 Ainda usando Delany como exemplo, Gilroy apresenta duas visões que para ele são duas facetas do essencialismo:
 
-> “They can be loosely identified as the essentialist and the pluralist standpoints though they are in fact two different varieties of essentialism: one ontological, the other strategic.
+> “They can be loosely identified as the essentialist and the pluralist standpoints though they are in fact two different varieties of essentialism: one ontological, the other strategic." (p. 31)
 
 Sobre a posição essencialista ontológica:
 
