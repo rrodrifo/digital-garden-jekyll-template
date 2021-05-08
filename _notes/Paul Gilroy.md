@@ -88,7 +88,7 @@ Sobre a posição essencialista ontológica:
 
 E sobre a visão pluralista:
 
-> “This perspective currently confronts a pluralistic position which affirms blackness as an open signifier and seeks to celebrate complex representa-tions of a black particularity that is internally divided: by dass, sexuality, gender, age, ethnicity, economics, and political consciousness. The difficulty with this second tendency is that in leaving racial essentialism behind by viewing "race" itself as a social and cultural construction, it has been insufficiently alive to the lingering power of specifically racialised forms of power and subordination. ” (p. 32)
+> “This perspective currently confronts a pluralistic position which affirms blackness as an open signifier and seeks to celebrate complex representations of a black particularity that is internally divided: by class, sexuality, gender, age, ethnicity, economics, and political consciousness. The difficulty with this second tendency is that in leaving racial essentialism behind by viewing "race" itself as a social and cultural construction, it has been insufficiently alive to the lingering power of specifically racialised forms of power and subordination. ” (p. 32)
 
 > “No less than their predecessor Martin Delany, today's black intellectuals have persistently succumbed to the lure of those romantic conceptions of "race," "people," and "nation" which place themselves, rather than the people they supposedly represent, in charge of the strategies for nation building, state formation, and racial uplift” (p. 34)
 
