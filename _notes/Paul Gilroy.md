@@ -54,7 +54,7 @@ O autor começa a expor a importância do Atlântico, das navegações e do inte
 
 Neste sistema, o navio toma posição central: 
 
-> Linebaugh: "the ship remained perhaps the most important conduit of Pan-African communication before the ap-pearance of the long-playing record." (p. 13)
+> Linebaugh: "the ship remained perhaps the most important conduit of Pan-African communication before the appearance of the long-playing record." (p. 13)
 
 <img src="/assets/slaveship.jpeg"/>
 
