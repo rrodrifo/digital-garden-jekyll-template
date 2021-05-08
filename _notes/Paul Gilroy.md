@@ -64,7 +64,7 @@ Neste sistema, o navio toma posição central:
 
 Gilroy cita diversos autores e figuras históricas negras que, partindo de diferentes países, tiveram o contato com o estrangeiro como parte formante de suas visões que futuramente viriam a pautar o pensamento negro moderno. Exemplo mais extensamente tratado disso é a vida de Martin Delany. 
 
-> “The specificity of the modem political and cultural formation I want to call the black Atlantic can be defined, on one level, through this desire to transcend both the structures of the nation state and the constraints of ethnicity and national particularity.” (p. 19)
+> “The specificity of the modern political and cultural formation I want to call the black Atlantic can be defined, on one level, through this desire to transcend both the structures of the nation state and the constraints of ethnicity and national particularity.” (p. 19)
 
 Gilroy relata como a viagem de Delany para África trouxe sentimentos sóbrios de que uma conexão espiritual com a terra não seriam fonte de uma conexão automática e consistente entre todos os negros diaspóricos. A noção iluminista de “civilização” já estava de certo modo impregnada na visão de Delany, inclusive em suas utopias e planos futuros para a população negra norte-americana. Como diz Gilroy, o simples retorno à África não serviria. 
 
@@ -74,11 +74,11 @@ Na obra “Blake”, de Delany, Gilroy encontra a negritude como uma questão de
 
 Este tópico do livro trata das nuances sobre a possibilidade do nacionalismo servir como fonte e forma de resistência negra. 
 
-> “The recent history of blacks, as people in but not necessarily of the modem, western world, a history which involves processes of political organisation that are explicitly transnational and international in nature, demands that this question is considered very carefully.” (p. 29)
+> “The recent history of blacks, as people in but not necessarily of the modern, western world, a history which involves processes of political organisation that are explicitly transnational and international in nature, demands that this question is considered very carefully.” (p. 29)
 
 > “Are the inescapable pluralities involved in the movements of black peoples, in Africa and in exile, ever to be synchronised?” (p. 30)
 
-Ainda usando Delany como exemplo, Gilroy apresenta duas visões que, para ele são duas facetas do essencialismo:
+Ainda usando Delany como exemplo, Gilroy apresenta duas visões que para ele são duas facetas do essencialismo:
 
 > “They can be loosely identified as the essentialist and the pluralist standpoints though they are in fact two different varieties of essentialism: one ontological, the other strategic.
 
