@@ -42,14 +42,17 @@ O Atlântico Negro é, para Gilroy, uma formação transcultural e internacional
 Gilroy aponta para os problemas conspícuos dos chamados “estudos culturais” referentes ao nacionalismo e etnocentrismo. A própria questão de “a cultura de quem?” por muitas vezes define a atenção que será dada aos estudos culturais. 
 Há, para o autor, uma disputa entre negar estudos culturais que sejam pautados pela racialização do outro como objeto de conhecimento, de poder e de crítica cultural e entre valorizar a importância de as expressões culturais negras serem levadas a sério na academia. 
 
+> “It is significant that prior to the consolidation of scientific racism in the nineteenth century the term "race" was used very much in the way that the word "culture" is used today. (...) As far as the future of cultural studies is concerned, it should be equally important that both were centrally employed in those European attempts to think through beauty, taste, and aesthetic judgement that are the precursors of contemporary cultural criticism.” (p. 8)
+
 Gilroy propõe a superação das perspectivas nacionais e nacionalistas de análise da cultura negra: 
 
 > “Getting beyond these national and nationalistic perspectives has become essential for two additional reasons. The first arises from the urgent obligation to reevaluate the significance of the modern nation state as a political, economic, and cultural unit. (...) The second reason relates to the tragic popularity of ideas about the integrity and purity of cultures. In particular, it concerns the relationship between nationality and ethnicity.” (p. 7)
 
-> “It is significant that prior to the consolidation of scientific racism in the nineteenth century the term "race" was used very much in the way that the word "culture" is used today. (...) As far as the future of cultural studies is concerned, it should be equally important that both were centrally employed in those European attempts to think through beauty, taste, and aesthetic judgement that are the precursors of contemporary cultural criticism.” (p. 8)
+O autor começa a expor a importância do Atlântico, das navegações e do intercâmbio de leituras radicais e vivências entre os negros marinheiros e/ou que viajam entre o novo e velho mundo para a formação intelectual das identidades. 
 
-> “(T)he Morant Bay Rebellion in Jamaica in 1865 (...) is doubly significant because it represents an instance of metropolitan, internal conflict that emanates directly from an external colonial experience. These crises in imperial power demonstrate their continuity. It is part of my argument that this inside/outside relationship should be recognised as a more powerful, more complex, and more contested element in the historical, social, and cultural memory of our glorious nation than has previously been supposed.” (p. 11)
+> “the Morant Bay Rebellion in Jamaica in 1865 (...) is doubly significant because it represents an instance of metropolitan, internal conflict that emanates directly from an external colonial experience. These crises in imperial power demonstrate their continuity. It is part of my argument that this inside/outside relationship should be recognised as a more powerful, more complex, and more contested element in the historical, social, and cultural memory of our glorious nation than has previously been supposed.” (p. 11)
 
+Neste sistema, o navio toma posição central: 
 
 > Linebaugh: "the ship remained perhaps the most important conduit of Pan-African communication before the ap-pearance of the long-playing record." (p. 13)
 
