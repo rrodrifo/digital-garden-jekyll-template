@@ -3,7 +3,7 @@ title: Paul Gilroy
 ---
 ### O Atlântico Negro e dupla consciência
 
-> “It is the struggle to have blacks perceived as agents, as people with cognitive capacities and even with an intellectual history - attributes denied by modem racism - that is for me the primary reason for writing this book.” (p. 6)
+> “It is the struggle to have blacks perceived as agents, as people with cognitive capacities and even with an intellectual history - attributes denied by modern racism - that is for me the primary reason for writing this book.” (p. 6)
 
 ### Prefácio
 
