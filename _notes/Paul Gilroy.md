@@ -72,7 +72,7 @@ Na obra “Blake”, de Delany, Gilroy encontra a negritude como uma questão de
 
 → Black Politics and Modernity
 
-Este tópico do livro trata das nuances sobre a possibilidade do nacionalismo tomar forma de resistência negra. 
+Este tópico do livro trata das nuances sobre a possibilidade do nacionalismo servir como fonte e forma de resistência negra. 
 
 > “The recent history of blacks, as people in but not necessarily of the modem, western world, a history which involves processes of political organisation that are explicitly transnational and international in nature, demands that this question is considered very carefully.” (p. 29)
 
