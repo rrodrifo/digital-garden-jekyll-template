@@ -60,7 +60,7 @@ Neste sistema, o navio toma posição central:
 
 > “Turner's extraordinary painting of the slave ship remains a useful image not only for its self-conscious moral power and the striking way that it aims directly for the sublime in its invocation of racial terror, commerce, and England's ethico-political degeneration. It should be emphasised that ships were the living means by which the points within that Atlantic world were joined. They were mobile elements that stood for the shifting spaces in between the fixed places that they connected (...) They were something more - a means to conduct political dissent and possibly a distinct mode of cultural production.” (p. 16-17)
 
-> “In opposition to both of these nationalist or ethnically absolute approaches, I want to develop the suggestion that cultural historians could take the Atlantic as one single, complex unit of analysis in their discussions of the modem world and use it to produce an explicitly transnational and intercultural perspective.” (p. 15)
+> “In opposition to both of these nationalist or ethnically absolute approaches, I want to develop the suggestion that cultural historians could take the Atlantic as one single, complex unit of analysis in their discussions of the modern world and use it to produce an explicitly transnational and intercultural perspective.” (p. 15)
 
 Gilroy cita diversos autores e figuras históricas negras que, partindo de diferentes países, tiveram o contato com o estrangeiro como parte formante de suas visões que futuramente viriam a pautar o pensamento negro moderno. Exemplo mais extensamente tratado disso é a vida de Martin Delany. 
 
