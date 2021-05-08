@@ -42,6 +42,8 @@ O Atlântico Negro é, para Gilroy, uma formação transcultural e internacional
 Gilroy aponta para os problemas conspícuos dos chamados “estudos culturais” referentes ao nacionalismo e etnocentrismo. A própria questão de “a cultura de quem?” por muitas vezes define a atenção que será dada aos estudos culturais. 
 Há, para o autor, uma disputa entre negar estudos culturais que sejam pautados pela racialização do outro como objeto de conhecimento, de poder e de crítica cultural e entre valorizar a importância de as expressões culturais negras serem levadas a sério na academia. 
 
+Gilroy propõe a superação das perspectivas nacionais e nacionalistas de análise da cultura negra: 
+
 > “Getting beyond these national and nationalistic perspectives has become essential for two additional reasons. The first arises from the urgent obligation to reevaluate the significance of the modern nation state as a political, economic, and cultural unit. (...) The second reason relates to the tragic popularity of ideas about the integrity and purity of cultures. In particular, it concerns the relationship between nationality and ethnicity.” (p. 7)
 
 > “It is significant that prior to the consolidation of scientific racism in the nineteenth century the term "race" was used very much in the way that the word "culture" is used today. (...) As far as the future of cultural studies is concerned, it should be equally important that both were centrally employed in those European attempts to think through beauty, taste, and aesthetic judgement that are the precursors of contemporary cultural criticism.” (p. 8)
