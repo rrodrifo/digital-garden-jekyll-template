@@ -7,7 +7,7 @@ title: Paul Gilroy
 
 ### Prefácio
 
-A obra parte da tentativa de Gilroy de situar os pensadores negros em relação ao iluminismo, constatando a influência do iluminismo em seus pensamentos mas também a posição única dos pensadores negros frente ao paradigma moderno. 
+A obra parte da tentativa de Gilroy de situar os pensadores negros em relação ao iluminismo, constatando a influência do movimento filosófico e intelectual em seus pensamentos mas também a posição única dos pensadores negros frente ao paradigma moderno. 
 
 > “The Black Atlantic developed from my uneven attempts to show these students that the experiences of black people were part of the abstract modernity they found so puzzling and to produce as evidence some of the things that black intellectuals had said - sometimes as defenders of the West, sometimes as its sharpest critics - about their sense of embeddedness in the modem world.” (p. ix)
 
