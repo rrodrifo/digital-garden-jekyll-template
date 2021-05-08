@@ -29,9 +29,9 @@ Porém:
 
 > “Any shift towards a postmodern condition should not, however, mean that the conspicuous power of these modern subjectivities and the movements they articulated has been left behind. Their power has, if anything, grown, and their ubiquity as a means to make political sense of the world is currently unparalleled by the languages of class and socialism by which they once appeared to have been surpassed.” (p. 2)
 
-Em contraponto às ideias de nacionalismo cultural que o autor vê se reproduzindo por todo o espectro político, Gilroy reflete sobre a “mestiçagem” e hibridez de culturas. Noções de nacionalidade, etnicidade, integridade cultural são subjetividades modernas.
+Em contraponto às ideias de nacionalismo cultural que o autor vê se reproduzindo por todo o espectro político, Gilroy reflete sobre a “mestiçagem” e hibridez de culturas. Afinal, oções de nacionalidade, etnicidade, integridade cultural são subjetividades modernas pautadas pelo racismo e colonialismo.
 
-Gilroy apresenta os navios, sistemas vivos, micro-culturais e micro-políticos móveis, representações do movimento, da ida e do retorno, da exportação e importação de ideias, e artefatos, como eixo central de sua conceituação da identidade:
+Gilroy apresenta então os navios, sistemas vivos, micro-culturais e micro-políticos móveis, representações do movimento, da ida e do retorno, da exportação e importação de ideias, e artefatos, como eixo central de sua conceituação da identidade:
  
 > “I have settled on the image of ships in motion across the spaces between Europe, America, Africa, and the Caribbean as a central organising symbol for this enterprise and as my starting point.” (p. 4)
 
