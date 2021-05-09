@@ -61,6 +61,8 @@ Neste sistema, o navio toma posição central:
 <img src="/assets/slaveship.jpeg"/>
 
 > “Turner's extraordinary painting of the slave ship remains a useful image not only for its self-conscious moral power and the striking way that it aims directly for the sublime in its invocation of racial terror, commerce, and England's ethico-political degeneration. It should be emphasised that ships were the living means by which the points within that Atlantic world were joined. They were mobile elements that stood for the shifting spaces in between the fixed places that they connected (...) They were something more - a means to conduct political dissent and possibly a distinct mode of cultural production.” (p. 16-17)
+ 
+[[O Slave Ship como paradigma de análise dos aparatos de vigilância]]
 
 > “In opposition to both of these nationalist or ethnically absolute approaches, I want to develop the suggestion that cultural historians could take the Atlantic as one single, complex unit of analysis in their discussions of the modern world and use it to produce an explicitly transnational and intercultural perspective.” (p. 15)
 
@@ -144,7 +146,7 @@ Definição de Modernidade para Gilroy:
 
 > “Modernity is understood as a distinct configuration with its own spatial and temporal characteristics defined above all through the consciousness of novelty that surrounds the emergence of civil society, the modern state, and industrial capitalism.” (p. 49)
 
-O autor comenta sobre o apagamento de questões e temas referentes ao colonialismo e à escravidão como parte formante da modernidade, indissociável até mesmo da vida e obra dos exponentes filosóficos do iluminismo e das grandes figuras históricas. Este apagamento, bem como a hipocrisia dos autores iluministas ao tratar das colônias e dos escravizados é tratado de modo profundo em [[Hegel e o Haiti]].
+O autor comenta sobre o apagamento de questões e temas referentes ao colonialismo e à escravidão como parte formante da modernidade, indissociável até mesmo da vida e obra dos exponentes filosóficos do iluminismo e das grandes figuras históricas. Este apagamento, bem como a hipocrisia dos autores iluministas ao tratar das colônias e dos escravizados é tratado de modo profundo em [[Susan Buck-Morss]].
 
 Este apagamento faz com que, por esta ótica, a escravidão seja vista como parte da história dos negros, e não como parte da história da Europa:
 
