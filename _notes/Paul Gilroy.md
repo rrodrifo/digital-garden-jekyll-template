@@ -3,6 +3,8 @@ title: Paul Gilroy
 ---
 ### O Atlântico Negro e dupla consciência
 
+> “The time has come for the primal history of modernity to be reconstructed from the slaves' points of view.” (p. 55)
+
 > “It is the struggle to have blacks perceived as agents, as people with cognitive capacities and even with an intellectual history - attributes denied by modern racism - that is for me the primary reason for writing this book.” (p. 6)
 
 ### Prefácio
@@ -92,6 +94,12 @@ E sobre a visão pluralista:
 
 > “No less than their predecessor Martin Delany, today's black intellectuals have persistently succumbed to the lure of those romantic conceptions of "race," "people," and "nation" which place themselves, rather than the people they supposedly represent, in charge of the strategies for nation building, state formation, and racial uplift” (p. 34)
 
+Essencialismo e pluralismo como perspectivas distintas mas simbióticas. Para Gilroy, ambas são variedades de essencialismo, uma ontológica e outra estratégica. A visão ontológica é caracterizada por um pan-Africanismo bruto, na qual há um descompasso entre “o intelectual” e a “massa”, e que é o trabalho do intelectual apresentar às massas a consciência racial. Por outro lado, a posição pluralista afirma a negritude como um significante aberto, podendo ser o negro internamente dividido por classe, sexualidade, gênero, etc. Não há uma noção unitária de comunidade negra. 
+
+A noção dos negros como um grupo nacional ou proto-nacional com sua cultura própria isolada serve a função de mistificação, que para o autor impede e censura quaisquer debates sobre as inconsistências e incoerências do discurso Africológico. 
+
+
+
 Para concluir o capítulo o autor afirma que a expressão musical negra foi responsável pela reprodução do que Bauman chama de uma contracultura da modernidade. 
 
 > “The vitality and complexity of this musical culture offers a means to get beyond the related oppositions between essentialists and pseudo-pluralists on the one hand and between totalising conceptions of tradition, modernity, and post-modernity on the other.” (p. 36)
@@ -109,3 +117,80 @@ Sobre a posição do marxismo para a interpretação da situação desta socieda
 > “However, where lived crisis and systemic crisis come together, Marxism allocates priority to the latter while the memory of slavery insists on the priority of the former.” (p. 40)
 
 ### Masters, Mistresses, Slaves, and the Antinomies of Modernity 
+
+O segundo capítulo da obra trata principalmente de como os conceitos teóricos de modernidade ignoram de forma gritante a questão da “raça”. Para o autor, a escravidão racial foi essencial para a civilização ocidental e para a própria formação da modernidade. 
+
+A discussão se inicia pelas teorias contemporâneas à Gilroy sobre a pós-modernidade, como as trazidas por Habermas e Lyotard, entre outros. Gilroy aponta que alguns destes teóricos retornaram à modernidade como meio de identificar e demarcar o que seria novo ou original na chamada pós-modernidade. Outros, como Lyotard, analisam o pós-moderno como uma simples substituição do moderno, sem maior aprofundamento entre os momentos históricos que separam a modernidade da pós-modernidade ou a relação desta com os processos de modernização.
+
+> “Defenders and critics of modernity seem to be equally unconcerned that the history and expressive culture of the African diaspora, the practice of racial slavery, or the narratives of European imperial conquest may require all simple periodisations of the modern and the postmodern to be drastically rethought.” (p. 42)
+
+Analisando a pós-modernidade como o que Habermas chama de “continuidade do projeto iluminista”, Gilroy questiona se a chamada crise da modernidade e dos valores modernos não seria realmente uma crise dos intelectuais cuja consciência era anteriormente embasada nestes valores. 
+
+> “It can be argued that much of the supposed novelty of the post-modern evaporates when it is viewed in the unforgiving historical light of the brutal encounters between Europeans and those they conquered, slaughtered, and enslaved. The periodisation of the modern and the postmodern is thus of the most profound importance for the history of blacks in the West and for chronicling the shifting relations of domination and subordination between Europeans and the rest of the world. It is essential for our understanding of the category of "race" itself and of the genesis and development of successive forms of racist ideology. It is relevant, above all, in elaborating an interpretation of the origins and evolution of black politics. A concept of modernity that is worth its salt ought, for example, to have something 'to contribute to an analysis of how the particular varieties of radicalism articulated through the revolts of enslaved people made selective use of the ideologies of the western Age of Revolution and then flowed into social movements of an anti-colonial and decidedly anti-capitalist type. Lastly, the overcoming of scientific racism (one of modernity's more durable intellectual products) and its post-war transmutation into newer, cultural forms that stress complex difference rather than simple biological hierarchy may provide a telling, concrete example of what scepticism towards the grand narratives of scientific reason adds up to.” (p. 43)
+
+A análise de modernidade para Gilroy não deve somente incluir os intelectuais negros relegados ao esquecimento ou propositalmente omitidos, mas também inverter a relação entre margem e centro presente dentro dos discursos de supremacia racial. Para tal, faz-se necessário repensar a relação moderna entre o mestre e o escravo. 
+
+→ Slavery and the Enlightenment Project
+
+> “I propose that the history of the African diaspora and a reassessment of the relationship between modernity and slavery may require a more complete revision of the terms in which the modernity debates have been constructed than any of its academic participants may be willing to concede.” (p. 46)
+
+Em contraposição à Berman, Gilroy afirma que a modernidade não pode ser vista como um movimento uniforme e que atingia a todos, mas como experiências cheias de variação e descontinuidade, e com uma inescapável pluralidade de subjetividades e identidades. 
+
+Gilroy demonstra como Berman em sua obra anexa as formas culturais do Atlântico Negro à imagem da classe trabalhadora ocidental, por meio de uma inabilidade de dar o devido peso à pluralidade que, para Gilroy, é integral para o moderno e contraria a proposta de Berman de uma identidade moderna totalizante. Existem diversas identidades possíveis, e as diferenças entre a “identidade negra” e a identidade homogênea moderna não se dão pela exclusão dos negros do esquema da modernidade. Afinal, as expressões culturais da identidade negra surgem das plantações e engenhos de cana, instituições distintivamente modernas. 
+
+> “The key to comprehending this lies not in the overhasty separation of the cultural forms particular to both groups into some ethnic typology but in a detailed and comprehensive grasp of their complex interpenetration. The intellectual and cultural achievements of the black Atlantic populations exist partly inside and not always against the grand narrative of Enlightenment and its operational principles” (p. 48)
+
+Definição de Modernidade para Gilroy:
+
+> “Modernity is understood as a distinct configuration with its own spatial and temporal characteristics defined above all through the consciousness of novelty that surrounds the emergence of civil society, the modern state, and industrial capitalism.” (p. 49)
+
+O autor comenta sobre o apagamento de questões e temas referentes ao colonialismo e à escravidão como parte formante da modernidade, indissociável até mesmo da vida e obra dos exponentes filosóficos do iluminismo e das grandes figuras históricas. Este apagamento, bem como a hipocrisia dos autores iluministas ao tratar das colônias e dos escravizados é tratado de modo profundo em [[Hegel e o Haiti]].
+
+Este apagamento faz com que, por esta ótica, a escravidão seja vista como parte da história dos negros, e não como parte da história da Europa:
+
+> “In this setting, it is hardly surprising that if it is perceived to be relevant at all, the history of slavery is somehow assigned to blacks. It becomes our special property rather than a part of the ethical and intellectual heritage of the West as a whole. This is only just preferable to the conventional alternative response which views plantation slavery as a premodern residue that disappears once it is revealed to be fundamentally incompatible with enlightened rationality and capitalist industrial production.” (p. 49)
+
+Gilroy encontra dois pontos significativos a serem analisados na “fenomenologia da mente” de Hegel. Primeiro, afirma que o início da obra aponta diretamente para a associação íntima entre a modernidade e a escravidão. O segundo ponto relevante diz respeito aos conflitos e formas de dependência inerentes à relação entre senhor e escravo trabalhados pelo autor que abrem caminho para tratar do brutalismo e do terror modernos que são comumente ignorados. 
+
+> “Taken together, these problems offer an opportunity to transcend the unproductive debate between a Eurocentric rationalism which banishes the slave experience from its accounts of modernity while arguing that the crises of modernity can be resolved from within, and an equally occidental anti-humanism which locates the origins of modernity's current crises in the shortcomings of the Enlightenment project” (p. 54)
+  
+A força criativa das populações do Atlântico Negro oferece uma saída para esta situação:
+
+> “The way these populations continue to make creative, communicative use of the memory of slavery points constructively away from the twin positions that have overdetermined the debate on modernity so far - an uncritical and complacent rationalism and a self-conscious and rhetorical anti-humanism which simply trivialises the potency of the negative.” (p. 55)
+
+Sobre a escravidão e a forma econômica das Plantations:
+
+> “Plantation slavery was more than just a system of labour and a distinct mode of racial domination. Whether it encapsulates the inner essence of capitalism or was a vestigial, essentially precapitalist element in a dependant relationship to capitalism proper, it provided the foundations for a distinctive network of economic, social, and political relation” (p. 54-55)
+
+> “The slaves' perspectives require a discrete view not just of the dynamics of power and domination in plantation societies dedicated to the pursuit of commercial profit but of such central categories of the Enlightenment project as the idea of universality, the fixity of meaning, the coherence of the subject, and, of course, the foundational ethnocentrism in which these have all tended to be anchored.” (p. 55)
+
+> “They provocatively suggest that many of the advances of modernity are in fact insubstantial or pseudo-advances contingent on the power of the racially dominant grouping and that, as a result, the critique of modernity cannot be satisfactorily completed from within its own philosophical and political norms, that is, immanently.” (p. 56)
+
+> “Racial terror is not merely compatible with occidental rationality but cheerfully complicit with it.” (p. 56)
+
+> “We must remember that however modern they may appear to be, the artistic practices of the slaves and their descendants are also grounded outside modernity. (...) This artistic practice is therefore inescapably both inside and outside the dubious protection modernity offers.” (p. 57)
+
+→ Lord and bondsman in a Black Idiom
+
+Gilroy trata da vida e das autobiografias de Frederick Douglass, afirmando que sua relação com a modernidade era uma complexa e mutável. 
+
+Tratando da viagem de Douglass ao Egito, Gilroy apresenta o poder da civilização egípcia sobre o imaginário diaspórico:
+ 
+> “Egypt also provided the symbolic means to locate the diaspora's critique of Enlightenment universals outside the philosophical repertoire of the West.”  (p. 60)
+
+Sobre Hegel, Gilroy afirma que Douglass inverteu a metanarrativa do poder de Hegel em uma metanarrativa de emancipação.
+
+> “Douglass can be read as if he is systematically reworking the encounter between master and slave in a striking manner which inverts Hegel's own allegorical scheme. It is the slave rather than the master who emerges from Douglass's account possessed of "consciousness that exists for itself," while his master becomes the representative of a "consciousness that is repressed within itself."” (p. 60)
+
+> “In Hegel's allegory, which correctly places slavery at the natal core of modern sociality, we see that one solipsistic combatant in the elemental struggle prefers his conqueror's version of reality to death and submits. He becomes the slave while the other achieves mastery. Douglass's version is quite different. For him, the slave actively prefers the possibility of death to the continuing condition of inhumanity on which plantation slavery depends.” (p. 63)
+
+Sobre a violência e a luta:
+
+“Douglass's departure from the pacifism that had marked his early work is directly relevant to his critical understanding of modernity. It underscored the complicity of civilisation and brutality while emphasising that the order of authority on which the slave plantation relied cannot be undone Without recourse to the counter-violence of the oppressed.” (p. 63)
+
+A partir dos relatos da vida de Douglass e de outros escravizados fugidos, incluindo o trágico caso de uma mãe escravizada que, encurralada pelos capatazes de seu senhor após uma fuga mal sucedida, mata a própria filha, Gilroy demonstra como a realidade dos escravos contradiz a tese de Hegel de que estes prefeririam a submissão à morte, de modo a concluir a inversão da teoria Hegeliana a partir da vivência de Frederick Douglass. 
+
+
+### Jewels Brought from Bondage: Black Music and the Politics of Authenticity
+
+
