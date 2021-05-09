@@ -31,7 +31,7 @@ Apresento aqui algumas citações da obra de Browne que considero relevantes:
 > “Talking back is, as hooks puts it, “the expression of our movement from object to subject” and a “gesture of defiance that heals, that makes new life and new growth possible.”  Talking back, then, is one way of challenging surveillance and its imposition of norms.”
 
 > “Biometric information technology, or biometrics, in its simplest form, is a means of body measurement that is put to use to allow the body, or parts and pieces and performances of the human body, to function as identification”
-> “Epidermalization, Paul Gilroy tells us, stems from “a historically specific system for making bodies meaningful by endowing in them qualities of ‘colour.’”
+> “Epidermalization, [[Paul Gilroy]] tells us, stems from “a historically specific system for making bodies meaningful by endowing in them qualities of ‘colour.’”
 > “Epidermalization, Stuart Hall writes, is “literally the inscription of race on the skin.”
 > “I am taking epidermalization here as the moment of fracture of the body from its humanness, refracted into a new subject position (“Look, a Negro!” or “Look, an illegal alien!” or some other negatively racialized subject position). In other words, it is the moment of contact with the white gaze — a moment where, as Fanon describes, “all this whiteness burns me to a cinder” — that produces these moments of fracture for the racial Other, indeed making and marking one as racial Other, experiencing its “being for others.”
 > “with biometrics it is the moments of observation, calibration, and application that sometimes reveal themselves as racializing."
