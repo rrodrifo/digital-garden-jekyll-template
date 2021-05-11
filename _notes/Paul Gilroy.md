@@ -195,4 +195,44 @@ A partir dos relatos da vida de Douglass e de outros escravizados fugidos, inclu
 
 ### Jewels Brought from Bondage: Black Music and the Politics of Authenticity
 
+Este capítulo traz os conceitos tratados pela obra a partir dos exemplos e da análise com a música negra. A partir desta conexão, o capítulo tenta demonstrar as razões pelas quais uma polarização entre as visões “essencialistas” e “não essencialistas” sobre raça não são mais úteis, propondo a utilização de conceitos anti-anti-essencialistas. 
+
+> “Through a discussion of music and its attendant social relations, I want to clarify some of the distinctive attributes of black cultural forms which are both modern and modernist. They are modern because they have been marked by their hybrid, creole origins in the West, because they have struggled to escape their status as commodities and the position within the cultural industries it specifies, and because they are produced by artists whose understanding of their own position relative to the racial group and of the role of art in mediating individual creativity with social dynamics is shaped by a sense of artistic practice as an autonomous domain either reluctantly or happily divorced from the everyday lifeworld.” (p. 73)
+
+Essas obras musicais tem um poder especial que deriva de uma duplicidade, de sua localização incerta simultaneamente dentro e fora das convenções e regras estéticas da modernidade. 
+
+Gilroy critica a noção moderna de que há uma primazia das conquistas políticas da burguesia em relação à ideologia e aos discursos culturais, criticando também o enfoque que essa visão dá à textualidade. 
+
+O autor afirma que trabalhar com as formas contemporâneas de cultura expressiva negra envolve um problema em particular, que é o problema de qual status analítico deve ser dado à variação presente entre comunidades negras e culturas negras que é revelada pelos seus hábitos culturais e musicais. 
+
+Esta questão nos leva diretamente à questão sobre o essencialismo do ser negro e novamente ao problema do nacionalismo na formação das identidades negras. 
+
+> “With a few noble exceptions, critical accounts of the dynamics of black subordination and resistance have been doggedly monocultural, national, and ethnocentric. This impoverishes modern black cultural history because the transnational structures which brought the black Atlantic world into being have themselves developed and now articulate its myriad forms into a system of global communications constituted by flows. ” (p. 80)
+
+Gilroy apresenta a proliferação de uma nova ortodoxia analítica que, em nome do anti-essencialismo e do rigor teórico, considera que como a particularidade negra é social e historicamente construída e a pluralidade é inescapável, não há então razão nem espaço para a tentativa de identificação de alguma dinâmica, estrutura ou sentimento unificador na cultura negra contemporânea. Periferia é periferia em todo lugar?
+
+Concordando que a consideração das similaridades e diferenças entre as culturas negras continua sendo uma necessidade urgente, Gilroy afirma que a ortodoxia analítica acima citada é prematura em sua rejeição do problema da teorização da identidade negra. 
+
+→ UK Blak 
+
+As comunidades negras no Reino Unido, por seu histórico de serem majoritariamente comunidades surgidas após a Segunda Guerra Mundial, acabam por ter mais em comum em relação à imigração do que à escravidão. Por essa razão é possível identificar subculturas dentro destas comunidades decorrentes de influências diretas do Caribe e da América negra. 
+
+> “In dealing with the relationship of race to class it has been commonplace to recall Stuart Hall's suggestive remark that the former is the modality in which the latter is lived.” (p. 85)
+
+> “What is more significant for present purposes is that in the Africentric discourse on which both sides of opinion draw, the idea of a diaspora composed of communities that are both similar and different tends to disappear somewhere between the invocations of an African motherland and the powerful critical commentaries on the immediate, local conditions in which a particular performance of a piece of music originates.” (p. 87)
+
+→ Music Criticism and the Politics od Racial Authenticity 
+
+> “My point here is that the unashamedly hybrid character of these black Atlantic cultures continually confounds any simplistic (essentialist or anti-essentialist) understanding of the relationship between racial identity and racial non-identity, between folk cultural authenticity and pop cultural betrayal.” (p. 99)
+
+
+→ Soul Music and the Making of Anti-Anti-Essentialism
+
+> “The syncretic complexity of black expressive cultures alone supplies powerful reasons for resisting the idea that an untouched, pristine Africanity resides inside these forms, working a powerful magic of alterity in order to trigger repeatedly the perception of absolute identity.” (p. 101)
+
+> “Comprehend the reproduction of cultural traditions not in the unproblematic transmission of a fixed essence through time but in the breaks and interruptions which suggest that the invocation of tradition may itself be a distinct, though covert, response to the destabilising flux of the post-contemporary world” (p. 101)
+
+> “Black identity is not simply a social and political category to be used or abandoned according to the extent to which the rhetoric that supports and legitimises it is persuasive or institutionally powerful.” (p. 102)
+
+> “They point towards an anti-anti-essentialism that sees racialized subjectivity as the product of the social practices that supposedly derive from it: "Rather than seeing the modern soul as the reactivated remnants of an ideology, one would see it as the present correlative of a certain technology of power over the body. It would be wrong to say that the soul is an illusion, or an ideological effect. On the contrary it exists, it has a reality, it is produced permanently around, on, within the body by the functioning of power that is exercised."” (p. 102)
 
