@@ -2,7 +2,8 @@
 title: Renata Avila
 ---
 
-### Soberania Digital ou Colonialismo Digital? Novas tensões relativas a privacidade, segurança e políticas nacionais
+### Soberania Digital ou Colonialismo Digital? Novas tensões relativas a Privacidade, Segurança e Políticas Nacionais
+
 
 > <a href="https://sur.conectas.org/en/digital-sovereignty-or-digital-colonialism/">Digital Sovereignity or Digital Colonialism</a>
 
