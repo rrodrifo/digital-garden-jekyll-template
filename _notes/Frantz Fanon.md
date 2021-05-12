@@ -82,7 +82,7 @@ O quarto capítulo de Peles Negras, Máscaras Brancas se dedica à crítica da o
 
 > “O problema da colonização comporta assim não apenas a intersecção de condições objetivas e históricas, mas também a atitude do homem diante dessas condições.” (p. 84)
 
-> “Precisamos ter a coragem de dizer: é o racista que cria o inferiorizado. Com essa conclusão, aproximamo-nos de Sartre: ‘O judeu é umhomem que os outros homens consideram judeu: eis a verdade simplesde onde se deve partir... É o anti-semita que faz o judeu’” (p. 90)
+> “Precisamos ter a coragem de dizer: é o racista que cria o inferiorizado. Com essa conclusão, aproximamo-nos de Sartre: ‘O judeu é um homem que os outros homens consideram judeu: eis a verdade simples de onde se deve partir... É o anti-semita que faz o judeu’” (p. 90)
 
 Aqui o ponto central de Fanon: não somente não há no homem negro uma predisposição à submissão ao branco, como não há homem negro antes da chegada do colonizador. 
 
