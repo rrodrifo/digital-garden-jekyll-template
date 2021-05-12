@@ -86,9 +86,9 @@ O quarto capítulo de Peles Negras, Máscaras Brancas se dedica à crítica da o
 
 Aqui o ponto central de Fanon: não somente não há no homem negro uma predisposição à submissão ao branco, como não há homem negro antes da chegada do colonizador. 
 
-> “Se ele é malgaxe, é porque o branco chegou, e se, em um dado momento da sua história, ele foi levado a se questionar se era ou não um homem, é que lhe contestavam sua humanidade. Em outras palavras, começo a sofrer por não ser branco, na medida que o homem branco me impõe uma discriminação, faz demim um colonizado, me extirpa qualquer valor, qualquer originalidade, pretende que seja um parasita no mundo, que é preciso que eu acompanhe o mais rapidamente possível o mundo branco, “que sou uma besta fera, que meu povo e eu somos um esterco ambulante, repugnantemente fornedor de cana macia e de algodão sedoso, que não tenho nada a fazer no mundo”. Então tentarei simplesmente fazer-me branco, isto é, obrigarei o branco a reconhecer minha humanidade.” (p. 94)
+> “Se ele é malgaxe, é porque o branco chegou, e se, em um dado momento da sua história, ele foi levado a se questionar se era ou não um homem, é que lhe contestavam sua humanidade. Em outras palavras, começo a sofrer por não ser branco, na medida que o homem branco me impõe uma discriminação, faz de mim um colonizado, me extirpa qualquer valor, qualquer originalidade, pretende que seja um parasita no mundo, que é preciso que eu acompanhe o mais rapidamente possível o mundo branco, “que sou uma besta fera, que meu povo e eu somos um esterco ambulante, repugnantemente fornedor de cana macia e de algodão sedoso, que não tenho nada a fazer no mundo”. Então tentarei simplesmente fazer-me branco, isto é, obrigarei o branco a reconhecer minha humanidade.” (p. 94)
 
-> “Em outras palavras, o negro não deve mais ser colocado diante deste dilema: branquear ou desaparecer, ele deve poder tomar consciência deuma nova possibilidade de existir; ou ainda, se a sociedade lhe criadificuldades por causa de sua cor, se encontro em seus sonhos a expressãode um desejo inconsciente de mudar de cor, meu objetivo não será dissuadi-lo, aconselhando-o a “manter as distâncias”; ao contrário, meuobjetivo será, uma vez esclarecidas as causas, torná-lo capaz de escolhera ação (ou a passividade) a respeito da verdadeira origem do conflito,isto é, as estruturas sociais.” (p. 95 - 96)
+> “Em outras palavras, o negro não deve mais ser colocado diante deste dilema: branquear ou desaparecer, ele deve poder tomar consciência de uma nova possibilidade de existir; ou ainda, se a sociedade lhe cria dificuldades por causa de sua cor, se encontro em seus sonhos a expressão de um desejo inconsciente de mudar de cor, meu objetivo não será dissuadi-lo, aconselhando-o a “manter as distâncias”; ao contrário, meu objetivo será, uma vez esclarecidas as causas, torná-lo capaz de escolhera ação (ou a passividade) a respeito da verdadeira origem do conflito,isto é, as estruturas sociais.” (p. 95 - 96)
 
 Fanon trata, então, do que ele chama de “repartição racial da culpa”, em que dentre as colônias francesas sempre se colocavam os árabes contra os negros, os negros contra os judeus, os judeus contra os árabes, etc. em um movimento que isenta o francês branco de culpa pelas mazelas do colonialismo.
 
@@ -112,10 +112,10 @@ Fanon trata sobre como sua ida à Europa desestabilizou seu esquema corporal, ce
 Este encontro com o racismo francês e com sua própria posição como homem negro fez com que se delimitasse para Fanon o campo de batalha. 
 > “Tendo o campo de batalha sido delimitado, entrei na luta.” (p. 107)
 
-> “Desde que era impossível livrar-mede um complexo inato, decidi me afirmar como Negro. Uma vez que o outro hesitava em me reconhecer, só havia uma solução: fazer-me conhecer.” (p. 108)
+> “Desde que era impossível livrar-me de um complexo inato, decidi me afirmar como Negro. Uma vez que o outro hesitava em me reconhecer, só havia uma solução: fazer-me conhecer.” (p. 108)
 > “O judeu só não é amado a partir do momento em que é detectado. Mas comigo tudo toma um aspecto novo. Nenhuma chance me é oferecida. Sou sobredeterminado pelo exterior. Não sou escravo da “idéia” que os outros fazem de mim, mas da minha aparição” (p. 108)
 
-> “Quando me amam,dizem que o fazem apesar da minha cor. Quando me detestam, acrescentamque não é pela minha cor…” (p.109)
+> “Quando me amam, dizem que o fazem apesar da minha cor. Quando me detestam, acrescentamque não é pela minha cor…” (p.109)
 
 > “Eu era odiado, detestado, desprezado, não pelo vizinho da frente ou pelo primo materno, mas por toda uma raça. Estava exposto a algo irracional. Os psicanalistas dizem que não há nada de mais traumatizante para a criança do que o contato com o racional. Pessoalmente eu diria que, para um homem que só tem como arma a razão, não há nada de mais neurotizante do que o contato com o irracional.” (p.110)
 
