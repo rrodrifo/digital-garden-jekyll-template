@@ -1,6 +1,7 @@
 ---
 title: Paul Gilroy
 ---
+
 ### O Atlântico Negro e dupla consciência
 
 > “The time has come for the primal history of modernity to be reconstructed from the slaves' points of view.” (p. 55)
@@ -15,6 +16,11 @@ A obra parte da tentativa de Gilroy de situar os pensadores negros em relação 
 
 Gilroy avisa que espera que sua obra não seja lida a partir de lentes de “pureza racial”, até porque o texto é essencialmente um ensaio sobre a hibridez inescapável e a mistura de ideias. Além disso, clama contra a limitação das identidades, as quais o Atlântico Negro demonstra como sempre inacabadas e sendo recriadas. 
 
+O prefácio da edição brasileira da obra demonstra, porém, uma das principais críticas que podem ser feitas ao livro de Gilroy. A edição original do "Atlântico Negro" foi severamente criticada por ignorar completamente o Brasil, a América Latina e basicamente toda a diáspora que não seja contida nos EUA, na Inglaterra e, quando muito, no Caribe.
+
+Em resposta às críticas Gilroy escreve uma autocrítica em seu prefácio à edição brasileira do livro. Nesta autocrítica, porém, um dos pontos mais relevantes de serem observados é o de que de certo modo uma das discussões centrais da obra é, segundo o próprio autor, irrelevante para o contexto brasileiro. Gilroy nos indica que toda sua crítica ao essencialismo racial não faz sentido em um paíse no qual os Movimentos Negros ainda lutam por se reconhecerem e serem reconhecidos como negros. Em um país que nega a negritude e força goela abaixo discursos de mestiçagem e democracia racial, talvez não seja produtivo questionar o essencialismo. 
+
+Ainda assim continua relevante a crítica à adoção de uma africanidade ou negritude de tamanho único, com um único molde, vinda dos EUA, que de acordo com ele destoa da realidade da sociedade globalizada. 
 
 ### The Black Atlantic as a Counterculture of Modernity
 
@@ -219,7 +225,7 @@ As comunidades negras no Reino Unido, por seu histórico de serem majoritariamen
 
 > “In dealing with the relationship of race to class it has been commonplace to recall Stuart Hall's suggestive remark that the former is the modality in which the latter is lived.” (p. 85)
 
-> “What is more significant for present purposes is that in the Africentric discourse on which both sides of opinion draw, the idea of a diaspora composed of communities that are both similar and different tends to disappear somewhere between the invocations of an African motherland and the powerful critical commentaries on the immediate, local conditions in which a particular performance of a piece of music originates.” (p. 87)
+> “What is more significant for present purposes is that in the Africentric discourse on which both sides of opinion draw the idea of a diaspora composed of communities that are both similar and different tends to disappear somewhere between the invocations of an African motherland and the powerful critical commentaries on the immediate, local conditions in which a particular performance of a piece of music originates.” (p. 87)
 
 → Music Criticism and the Politics od Racial Authenticity 
 
