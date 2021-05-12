@@ -2,10 +2,11 @@
 title: Renata Avila
 ---
 
+> <a href="https://sur.conectas.org/en/digital-sovereignty-or-digital-colonialism/">Digital Sovereignity or Digital Colonialism</a>
+
+
 ### Soberania Digital ou Colonialismo Digital? Novas tensões relativas a Privacidade, Segurança e Políticas Nacionais
 
-
-> <a href="https://sur.conectas.org/en/digital-sovereignty-or-digital-colonialism/">Digital Sovereignity or Digital Colonialism</a>
 
 Considerando o ambiente digital e a partir dos sistemas tecnológicos de coleção e tratamento massivo de dados, há hoje um conflito entre controle e liberdade que ultrapassa a esfera individual, tendo efeitos em populações e regiões inteiras. Renata Ávila questiona se estes efeitos podem ser considerados uma nova forma de colonialismo digital.
 
@@ -16,6 +17,7 @@ A partir desta proposição, a autora busca apresentar soluções regionais, nac
 Além da problemática já consolidada de que a vigilância se tornou ubíqua em anos recentes, sendo praticada tanto por governos quanto por empresas privadas, Ávila adiciona o fator de que tanto estes governos quanto empresas que praticam a vigilância são parte de um pequeno grupo de atores situados majoritariamente em uma única jurisdição e que estão causando uma rápida erosão da soberania estatal e da democracia. 
 
 > “Nunca um setor pequeno teve tanto poder sobre o mundo inteiro, para monitorar o presente e prever comportamentos futuros não apenas de indivíduos, mas de populações inteiras. O problema é mais alarmante quando consideramos como os setores público e privado estão se fundindo em corporações em busca da dominação global, penetrando em todos os governos, movimentos populares, mediando toda ação na vida de cada pessoa conectada por meio de dispositivos digitais e coleta de dados.” 
+
 → Noção de “surveillant symbiosis”, de [[Neil Richards]]
 
 A autora identifica 3 elementos presentes nos poucos países com posição de atores globais de vigilância:
@@ -27,7 +29,7 @@ A autora identifica 3 elementos presentes nos poucos países com posição de at
 
 A autora identifica os programas de gigantes da tecnologia como Google, Facebook e SpaceX para conectar o próximo bilhão de pessoas que atualmente não estão conectadas como uma corrida pelo controle da extração dos dados. Esta conexão já chega em um formato extremamente limitado para os usuários e focado na coleta de dados, sendo descartados programas que focam no desenvolvimento de tecnologia, no ensino de programação e na criação de hardware. Em troca, se tornam padrão programas nos quais todo o acesso e conexão à internet ocorre por meio de um único dispositivo celular (com SIM registrado) com acesso aos serviços de uma única empresa. 
 
-→ Shoshana Zuboff, “Dark Google”
+→ [[Shoshana Zuboff]], “Dark Google”
 
 A autora demonstra como não somente existe o problema da capacidade tecnológica e econômica de um país menor bancar os próprios softwares e hardwares mas também há o problema das possíveis sanções e penalidades aos países que ousam tentar. 
 
@@ -39,7 +41,7 @@ A autora demonstra como não somente existe o problema da capacidade tecnológic
 
 “A América Latina liderou os primeiros passos rumo à soberania digital no início dos anos 2000. Alguns países tomaram medidas adequadas para estar prontos para substituir os fornecedores estrangeiros pelos locais. Embora na Índia o uso de software de código aberto pelo Estado seja obrigatório desde 2005, países da América Latina como o Brasil e a Venezuela (Decreto nº 3.390 2004) promulgaram leis, ainda antes, em 2004, estabelecendo a migração de dados governamentais para softwares livres. Iniciativas semelhantes ocorreram posteriormente no Equador (Decreto nº 1014 2008), no Uruguai (Lei nº 19.179 2013) e na Bolívia (Decreto Presidencial nº 1793 de 2013).” 
 
-→ Sunil Abraham
+→ [[Sunil Abraham]]
 
 A autora cita o povo nativo [[Maori]]: 
 > ““…a substituição deliberada de tecnologias locais por tecnologias carregadas de lucros e valores eurocêntricos tem sido parte da agenda colonizadora por muitos séculos””
