@@ -37,7 +37,7 @@ Este problema, posto de modo resumido, é o de que ao homem negro é imposto soc
 > Que quer o homem negro?
 > Mesmo expondo-me ao ressentimento de meus irmãos de cor, direi que o negro não é um homem.” (p. 26)
 
-> “O negro é um homem negro; isto quer dizer que, devido a uma sériede aberrações afetivas, ele se estabeleceu no seio de um universo de onde será preciso retirá-lo.” (p. 26)
+> “O negro é um homem negro; isto quer dizer que, devido a uma série de aberrações afetivas, ele se estabeleceu no seio de um universo de onde será preciso retirá-lo.” (p. 26)
 > 
 > “Por mais dolorosa que possa ser esta constatação, somos obrigados a fazê-la: para o negro, há apenas um destino. E ele é branco.” (p. 28)
 
