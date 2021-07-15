@@ -15,7 +15,7 @@ Repositório de textos, artigos, fontes, notícias e exemplos relacionados ao Bl
 
 > No.
 
-> 2) But I keep seeing all this stuff in the news about them and how
+> 2) But I keep seeing all this stuff in the news about them and how...
 
 > No. Tech journalism is uniformly terrible, always remember this.
 
@@ -73,10 +73,15 @@ Sabendo o que é Proof-of-Work e considerando que um Node é um computador prese
 > The steps to run the network are as follows:
 
 > 1) New transactions are broadcast to all nodes.
+
 > 2) Each node collects new transactions into a block.
+
 > 3) Each node works on finding a difficult proof-of-work for its block.
+
 > 4) When a node finds a proof-of-work, it broadcasts the block to all nodes.
+
 > 5) Nodes accept the block only if all transactions in it are valid and not already spent.
+
 > 6) Nodes express their acceptance of the block by working on creating the next block in the chain, using the hash of the accepted block as the previous hash.
 
 > --- Satoshi Nakamoto, "Bitcoin: a peer-to-peer Electronic cash system"
