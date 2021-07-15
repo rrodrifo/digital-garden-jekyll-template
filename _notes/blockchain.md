@@ -6,20 +6,24 @@ Repositório de textos, artigos, fontes, notícias e exemplos relacionados ao Bl
 [[Attack of the 50 foot Blockchain]]
 [[Gasto energético do blockchain]]
 
----
-title: Bitcoin e Blockchain
----
 
 ### Bitcoin
 
 > Short Version
+
 > 1) Should I buy Bitcoins?
+
 > No.
+
 > 2) But I keep seeing all this stuff in the news about them and how
+
 > No. Tech journalism is uniformly terrible, always remember this.
+
 > 3) How does this work? It doesn’t make any sense!
+
 > No, it really doesn’t. It’s impossible to accurately explain Bitcoin in anything less than mind-numbingly boring technical terms so you should probably just not worry about it. Go do something useful instead.
-> - David Gerard, "Attack of the 50 foot Blockchain"
+
+> --- David Gerard, "Attack of the 50 foot Blockchain"
 
 O bitcoin surgiu durante a explosão da crise econômica de 2008 como uma resposta à desconfiança em relação aos bancos centrais e ao poder do Estado em interferir na economia por meio de política monetária. Seu objetivo inicial, conforme descrito no White Paper publicado pelo anônimo Satoshi Nakamoto, era o de permitir pagamentos online enviados diretamente de uma parte para a outra sem a necessidade de passar por instituições financeiras por meio de uma versão peer-to-peer do dinheiro eletrônico.  
 
@@ -39,7 +43,8 @@ Blockchain literalmente significa uma cadeia de blocos consecutivos. No caso do 
 
 Um “hash” é como uma representação numérica de uma parte de um arquivo, uma identidade única gerada quando se passa parte de um arquivo por uma função matemática hash (MORO; ZHANG; TSOTRAS, 2009). 
 
-Ao se passar a frase “The quick brown fox jumps over the lazy dog” pela função hash SHA-512, por exemplo, temos como resultado o resumo hash 07E547D9586F6A73F73FBAC0435ED76951218FB7D0C8D788A309D785436BBB642E9A252A954F23912547D1E8A3B5ED6E1BFD7097821233FA0538F3DB854FEE. 
+Ao se passar a frase “The quick brown fox jumps over the lazy dog” pela função hash SHA-512, por exemplo, temos como resultado o resumo hash 
+> 07E547D9586F6A73F73FBAC0435ED76951218FB7D0C8D788A309D785436BBB642E9A252A954F23912547D1E8A3B5ED6E1BFD7097821233FA0538F3DB854FEE. 
 
 Como cada hash é praticamente único, e como os hashes são criados a partir de pequenos recortes de cada bloco, qualquer ligeira modificação em um bloco modifica completamente o seu hash. 
 
@@ -62,13 +67,20 @@ Nos bancos tradicionais, o próprio banco mantém um registro das transações e
 Sabendo o que é Proof-of-Work e considerando que um Node é um computador presente na rede do bitcoin, podemos visualizar o funcionamento dessa rede da seguinte forma:
 
 > The steps to run the network are as follows:
+
 > 1) New transactions are broadcast to all nodes.
+
 > 2) Each node collects new transactions into a block.
+
 > 3) Each node works on finding a difficult proof-of-work for its block.
+
 > 4) When a node finds a proof-of-work, it broadcasts the block to all nodes.
+
 > 5) Nodes accept the block only if all transactions in it are valid and not already spent.
+
 > 6) Nodes express their acceptance of the block by working on creating the next block in the chain, using the hash of the accepted block as the previous hash.
-> - Satoshi Nakamoto, "Bitcoin: a peer-to-peer Electronic cash system"
+
+> --- Satoshi Nakamoto, "Bitcoin: a peer-to-peer Electronic cash system"
 
 <img src="/assets/bloco.png"/>
 
@@ -84,5 +96,4 @@ Ao pensar na aplicação do blockchain em outras áreas e projetos é importante
 
 Além disso, como já foi mostrado acima o Proof-of-Work é um método de garantia de confiança extremamente ineficiente é com alto custo energético, visto que o poder computacional é decorrente de gastos com energia elétrica. Não faz sentido implementar sistemas que se utilizem do PoW e tragam enorme gasto energético em ambientes nos quais já há uma autoridade confiável. 
 
-<img src="/assets/flow1.jpg"/>
-<img src="/assets/flowchart.png"/>
+<img src="/assets/flow1.jpg"/>     <img src="/assets/flowchart.png"/>
