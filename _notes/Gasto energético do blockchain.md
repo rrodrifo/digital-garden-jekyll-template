@@ -21,6 +21,7 @@ Para título exemplificativo, em 2016 cada Bitcoin “minado” exigia um gasto 
 
 Este aumento no gasto energético traz diversos problemas ambientais, existindo estimativas de que anualmente as emissões de CO2 relacionadas à mineração de blockchain ultrapassam as 20 toneladas, problema que traz também graves efeitos para a saúde da população.
 > <a href="https://www.researchgate.net/publication/331407183_The_Carbon_Footprint_of_Bitcoin">The Carbon Footprint of Bitcoin</a>
+
 > <a href="https://www.sciencedirect.com/science/article/abs/pii/S2214629618301750">Decarbonizing Bitcoin: Law and policy choices for reducing the energy consumption of Blockchain technologies and digital currencies</a>
 
 
