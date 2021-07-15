@@ -12,12 +12,15 @@ Repositório de textos, artigos, fontes, notícias e exemplos relacionados ao Bl
 > Short Version
 
 > 1) Should I buy Bitcoins?
+
 > No.
 
 > 2) But I keep seeing all this stuff in the news about them and how
+
 > No. Tech journalism is uniformly terrible, always remember this.
 
 > 3) How does this work? It doesn’t make any sense!
+
 > No, it really doesn’t. It’s impossible to accurately explain Bitcoin in anything less than mind-numbingly 
 > boring technical terms so you should probably just not worry about it. Go do something useful instead.
 
@@ -42,7 +45,10 @@ Blockchain literalmente significa uma cadeia de blocos consecutivos. No caso do 
 Um “hash” é como uma representação numérica de uma parte de um arquivo, uma identidade única gerada quando se passa parte de um arquivo por uma função matemática hash (MORO; ZHANG; TSOTRAS, 2009). 
 
 Ao se passar a frase “The quick brown fox jumps over the lazy dog” pela função hash SHA-512, por exemplo, temos como resultado o resumo hash 
-> 07E547D9586F6A73F73FBAC0435ED76951218FB7D0C8D788A309D785436BBB642E9A252A954F23912547D1E8A3B5ED6E1BFD7097821233FA0538F3DB854FEE. 
+> 07E547D9586F6A73F73FBAC0435ED76951
+> 218FB7D0C8D788A309D785436BBB642E9A
+> 252A954F23912547D1E8A3B5ED6E1BFD70
+> 97821233FA0538F3DB854FEE. 
 
 Como cada hash é praticamente único, e como os hashes são criados a partir de pequenos recortes de cada bloco, qualquer ligeira modificação em um bloco modifica completamente o seu hash. 
 
