@@ -3,7 +3,8 @@ Blockchain
 Repositório de textos, artigos, fontes, notícias e exemplos relacionados ao Blockchain.
 
 [[NFTs]]
-
+[[Attack of the 50 foot Blockchain]]
+[[Gasto energético do blockchain]]
 
 ---
 title: Bitcoin e Blockchain
