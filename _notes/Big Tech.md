@@ -7,7 +7,7 @@ Repositório de links para textos, artigos e matérias sobre as Big Techs.
 [[FloC]]
 
 
-- Essential Platforms - Nikolas Guggenberger:
+- [[Essential Platforms - Nikolas Guggenberger]]:
 
 > Artigo longo (83 páginas) de Nikolas Guggenberger em que o autor compara as plataformas digitais do século XXI com os monopólios do início do século XX, como as  empresas de linhas ferroviárias. 
 > 
