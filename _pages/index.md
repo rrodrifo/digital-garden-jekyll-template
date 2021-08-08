@@ -22,6 +22,8 @@ A proposta deste Jardim é pessoal. Meu jardim para jogar pensamentos, links e i
 
 <img src="/assets/jardim1.png"/>
 
+Este jardim é sobretudo uma coletânea dos meus registros de leituras e pensamentos. 
+> “Estes últimos registros costumam, na tradição acadêmica, ser dispensados ou arquivados após a sua conversão em texto, seja livro ou artigo. Tradição que privilegia levar ao público, e consequentemente ao debate, à reflexão e ao conhecimento coletivos, apenas os chamados resultados da atividade de pesquisa. Nas palavras de Bruno Latour e Michel Callon (1991), uma tradição que privilegia a ciência feita, acabada, e não a ciência se fazendo. Esses instrumentos com os quais fazemos ciência e produzimos conhecimento – notas, inscrições, testes etc. – são usualmente deixados nos bastidores e entregues a uma visibilidade limitada a circuitos restritos. A publicação exclusiva da ciência já feita é também a ocultação relativa do modo como se faz ciência. O argumento, certamente, pode ser estendido para toda pesquisa e produção de conhecimento. (pp. 11-12)
 
 ☕️
 
