@@ -4,7 +4,7 @@ title: Michel Foucault
 
 ### A História da Sexualidade I
 
-### ### 1 - O que está em jogo
+### 1 - O que está em jogo
 
 > “Que o sexo não seja ‘reprimido’, não é de fato uma asserção nova.”
 
