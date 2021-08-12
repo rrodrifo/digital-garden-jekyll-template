@@ -1,6 +1,3 @@
----
-title: Máquinas de ver, modos de ser: vigilância, tecnologia e subjetividade
----
 
 > “Uma ‘época’ não preexiste aos enunciados que a exprimem nem às
 visibilidades que a preenchem.” Gilles Deleuze
