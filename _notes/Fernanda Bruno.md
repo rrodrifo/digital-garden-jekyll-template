@@ -1,3 +1,6 @@
+---
+title: Máquinas de ver, modos de ser
+---
 
 > “Uma ‘época’ não preexiste aos enunciados que a exprimem nem às
 visibilidades que a preenchem.” Gilles Deleuze
