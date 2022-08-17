@@ -1,4 +1,7 @@
 ---
+title: Regulação da IA na União Europeia
+---
+---
 title: Comissão Europeia publica sua Proposta de Regulação para a Inteligência Artificial na Europa
 ---
 
