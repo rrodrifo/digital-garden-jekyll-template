@@ -2,7 +2,7 @@
 title: Regulação da IA na União Europeia
 ---
 ---
-#### Comissão Europeia publica sua Proposta de Regulação para a Inteligência Artificial na Europa
+## Comissão Europeia publica sua Proposta de Regulação para a Inteligência Artificial na Europa
 ---
 
 Em 21 de abril de 2021 a Comissão Europeia propôs ao Parlamento Europeu uma atualização das regulações sobre o desenvolvimento e utilização de Inteligência Artificial no bloco econômico. 
