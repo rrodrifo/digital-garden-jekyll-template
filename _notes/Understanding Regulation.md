@@ -96,3 +96,17 @@ Regulatory mixes combine multiple institutions and methods for optimal outcomes.
 Challenges: Difficulties in designing complementary systems and managing complexity across different regulatory bodies.
 Really responsive regulation emphasizes adaptability, attention to regulators' behavior, and the changing performance of regulatory systems.
 
+Essence of Risk-Based Regulation: Prioritizes regulatory actions based on an assessment of risks to achieving regulatory objectives, focusing on controlling risks rather than ensuring rule compliance. 
+Risk Assessment: Involves identifying objectives, assessing risks, and scoring them based on potential harm and probability of occurrence, considering both inherent risks and management/control risks.
+Challenges: Risk-based regulation requires subjective choices about which risks to focus on, and it may emphasize individual risks while neglecting systemic ones.
+Intervention Strategies: Risk scores help detect high-risk entities but do not always guide the best intervention method, which may vary between command-and-control or more flexible approaches.
+Cultural Shift: Regulatory bodies need to move away from strict rule-following towards a focus on risk assessment to avoid traditional methods overshadowing the risk-based framework.
+Coordination: Ensuring that different regulatory strategies do not conflict is crucial to maintaining the integrity of the risk-based approach.
+Regulator-Regulatee Dynamics: Firms may hesitate to cooperate fully due to fear that their information could be used against them in enforcement.
+Flexibility and Performance: Regulators need to be performance-sensitive, able to adjust strategies when necessary, and justify their decisions transparently.
+Opacity in Risk Evaluation: Layers of external codes and standards may disconnect regulators from actual risk evaluations, reducing transparency.
+Reputation vs. Societal Risks: Misalignment between the regulator's institutional risks and societal risks may hinder responsiveness to societal harm.
+Judgement and Political Nature: Choosing which risks to prioritize involves political decisions and judgments on resource allocation and acceptable risk levels.
+Transparency and Accountability: Although risk-based regulation claims transparency, its reliance on discretion and political judgments often obscures key decisions.
+Complementary Approach: Risk-based regulation should be seen as part of a broader strategy, combined with other regulatory approaches depending on the context.
+
