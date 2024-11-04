@@ -2,6 +2,7 @@
 title: Regulating Digita Technologies
 ---
 
+[[A Declaration of the Independence of Cyberspace - John Perry Barlow]]
 [[Hypernudge: Big Data as a Mode of Regulation by Design - Yeung]]
 [[Law and Borders - The Rise of Law in Cyberspace]]
 [[Nodes and Gravity in Virtual Space - Andrew Murray]]
