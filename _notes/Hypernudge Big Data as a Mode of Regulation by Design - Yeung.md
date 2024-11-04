@@ -1,6 +1,6 @@
 
 ---
-title: Hypernudge: Big Data as a Mode of Regulation by Design - Yeung
+title: Hypernudge Big Data as a Mode of Regulation by Design - Yeung
 ---
 
 [[Nudge: Improving Decisions About Health, Wealth, and Happiness - Thaler and Sunstein (Chapters 1-5)]]
