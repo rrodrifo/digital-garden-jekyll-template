@@ -7,8 +7,8 @@ title: Regulating Digita Technologies
 [[Nodes and Gravity in Virtual Space - Andrew Murray]]
 [[Nudge - Improving Decisions About Health, Wealth, and Happiness - Thaler and Sunstein (Chapters 1-5)]]
 [[Nudge and Manipulation of Choice - Hansen and Jespersen]]
-[[Understanding Regulation: theory, strategy and practice (chapters 1-3, 7-8, 13)]]
-[[What Larry Doesn’t Get: Code, Law and Liberty in Cyberspace - David Post]]
+[[Understanding Regulation theory, strategy and practice (chapters 1-3, 7-8, 13)]]
+[[What Larry Doesn’t Get Code, Law and Liberty in Cyberspace - David Post]]
 [[code 2.0]]
 
 
