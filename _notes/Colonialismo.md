@@ -1,8 +1,8 @@
 ---
-title: Colonialismo
+title: Colonialism
 ---
 
-Repositórios de links, terxtos, artigos sobre colonialismo e colonialismo de dados
+Repositories of links, texts, and articles on colonialism and data colonialism.
 
 [[Aimé Césaire]]
 
