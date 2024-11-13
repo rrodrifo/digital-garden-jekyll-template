@@ -2,71 +2,73 @@
 title: Aimé Césaire - Discurso sobre o Colonialismo
 ---
 
-Lançado em 1950, poucos anos após o fim da Segunda Guerra Mundial, Discurso Sobre o Colonialismo é um ataque incisivo ao colonialismo e aos intelectuais franceses que o suportavam ideologicamente. Sem meias palavras, o poeta Martinicano escancara a violência colonial e sua tácita aceitação nos comportados e civilizados espaços acadêmicos da metrópole. 
+Published in 1950, just a few years after the end of World War II, Discourse on Colonialism is a sharp critique of colonialism and of the French intellectuals who supported it ideologically. Without mincing words, the Martinican poet lays bare the violence of colonialism and its tacit acceptance within the polite and civilized academic spaces of the metropolis.
 
-Questionando a própria noção de civilização em relação ao colonialismo, Césaire apresenta a tese de que o colonialismo é fonte da decadência da Europa e de sua classe média e que a dominação colonial, ao invés de "civilizar" os "selvagens" desumaniza os colonizadores. 
+Questioning the very notion of civilization in relation to colonialism, Césaire presents the thesis that colonialism is a source of Europe’s decline and that of its middle class, arguing that colonial domination, rather than “civilizing” the “savages,” dehumanizes the colonizers.
 
-Este livro, que foi adotado como referência de luta e de desvelamento da hipocrisia europeia por diversos lideres anticolonialistas, como os do movimento pan-africano e os Panteras Negras, também foi de grande influência para [[Frantz Fanon]], tendo os dois entre si muitas similaridades. Conforme diz Mário de Andrade no prefácio da obra: 
+This book, which became a reference for resistance and for exposing European hypocrisy among various anti-colonialist leaders, including those in the Pan-African movement and the Black Panthers, was also highly influential to [[Frantz Fanon]], with whom Césaire shared many similarities. As Mário de Andrade states in the book's preface:
 
-> “Por toda parte onde comunidades de colonizados (especialmente dos países negro-africanos) se viam confrontados com a necessidade profunda de dizer a verdade das lutas populares, estes textos eram assimilados como fonte nutridora da revolta, a alavanca da consciência anticolonialista.” 
+> "Everywhere colonized communities (especially those in Black African countries) were confronted with the deep need to express the truth of popular struggles, these texts were taken up as a nourishing source of revolt, as a lever of anti-colonialist consciousness." 
 
-### A Europa é Indefensável
+### Europe is Indefensible
 
-A abertura do livro resume suas ideias e objetivo com tamanha potência e assertividade que seria contraprodutivo tentar resumir ou parafrasear seu texto:
+The opening of the book encapsulates its ideas and purpose with such force and clarity that it would be counterproductive to try to summarize or paraphrase his words:
 
-> “Uma civilização que se revela incapaz de resolver os problemas que o seu funcionamento suscita, é uma civilização decadente. 
-> Uma civilização que prefere fechar os olhos aos seus problemas mais cruciais, é uma civilização enferma.
-> Uma civilização que trapaceia com os seus princípios, é uma civilização moribunda.
-> A verdade é que a civilização dita ‘europeia’, a civilização ‘ocidental’, tal como a modelaram dois séculos de regime burguês, é incapaz de resolver os dois problemas maiores a que a sua existência deu origem: o problema do proletariado e o problema colonial; que, essa Europa acusada no tribunal da ‘razão’ como no tribunal da ‘consciência’, se vê impotente para se justificar e se refugia, cada vez mais, numa hipocrisia tanto mais odiosa quanto menos susceptível de ludibriar. 
+> “A civilization that proves incapable of solving the problems it creates is a decadent civilization.  
+> A civilization that chooses to close its eyes to its most crucial problems is a sick civilization.
+> A civilization that plays tricks with its own principles is a dying civilization.
+> The truth is that the so-called ‘European’ civilization, ‘Western’ civilization, as shaped by two centuries of bourgeois rule, is incapable of solving the two major problems that its existence has generated: the problem of the proletariat and the problem of colonialism; that this Europe, accused in the courts of both ‘reason’ and ‘conscience,’ finds itself powerless to justify itself and increasingly takes refuge in a hypocrisy all the more odious because it is ever less capable of deception. 
 
-> A Europa é indefensável.” p. 13
+> Europe is Indefensible p. 13
 
-O primeiro ponto levantado por Césaire consiste em perguntar se a colonização é civilização. Responde afirmando que, sendo um objetivo positivo colocar diferentes civilizações em contato, da colonização à civilização a distância é infinita.
+The first point raised by Césaire is to ask whether colonization is civilization. He answers by affirming that, while bringing different civilizations into contact is a positive goal, the distance between colonization and civilization is infinite.
 
-Para Césaire, na verdade, a colonização é capaz de descivilizar o colonizador, tornando-o bruto, despertando nele a violência, o ódio racial, o relativismo moral. Neste sentido, o nazismo que poucos anos da publicação deste livro havia abalado a Europa e chocado os europeus, em realidade não é nada mais do que o resultado da cotidianidade das barbáries tornada possível pelo colonialismo. 
+For Césaire, in fact, colonization is capable of decivilizing the colonizer, making him brutish, awakening in him violence, racial hatred, moral relativism. In this sense, Nazism, which had shocked Europeans and shaken Europe just a few years before the publication of this book, is actually nothing more than the result of the daily barbarities made possible by colonialism. 
 
-> Pode-se matar na Indochina, torturar em Madagascar, prender na África negra, seviciar nas Antilhas. Os colonizados sabem, a partir de agora, que têm uma vantagem sobre os colonialistas.  Sabem que os seus ‘amos’ provisórios mentem. 
-> Logo, que os seus amos são fracos”. p. 14
+> "You can kill in Indochina, torture in Madagascar, imprison in black Africa, assault in the Antilles. The colonized now know that they have an advantage over the colonialists. They know that their ‘temporary masters’ lie. 
 
-> “Queira-se ou não: no fim deste beco sem saída chamado Europa, quero dizer, a Europa de Adenáuer, de Schuman, Bidault e alguns outros, há Hitler. No fim do capitalismo, desejoso de sobreviver, há Hitler. No fim do humanismo formal e da renúncia filosófica, há Hitler.” p. 19
+> Therefore, that their masters are weak.” p. 14
 
->  “Onde eu quero chegar? A esta ideia: que ninguém coloniza inocentemente, nem ninguém coloniza impunemente; que uma nação que coloniza, que uma civilização que justifica a colonização - portanto, a força - é já uma civilização doente, uma civilização moralmente ferida que, irresistivelmente, de consequência em consequência, de negação em negação, chama o seu Hitler, isto é, o seu castigo.” p. 21
+> "Whether one likes it or not: at the end of this dead-end called Europe—that is, the Europe of Adenauer, Schuman, Bidault, and some others—there is Hitler. At the end of capitalism, eager to survive, there is Hitler. At the end of formal humanism and philosophical renunciation, there is Hitler.” p. 19
 
-Após citar heróis, intelectuais e religiosos franceses justificando massacres e torturas, Césaire conclui:
-> “(...) a colonização desumaniza, repito, mesmo o homem mais civilizado; que a ação colonial, a empresa colonial, a conquista colonial, fundada sobre o desprezo pelo homem indígena e justificada por esse desprezo, tende, inevitavelmente, a modificar quem a empreende; que o colonizador, para se dar boa consciência se habitua a ver no outro o animal, se exercita a tratá-lo como animal, tende objetivamente a transformar-se ele próprio em animal.” p. 23
+>  “Where am I going with this? To this idea: that no one colonizes innocently, nor does anyone colonize with impunity; that a nation that colonizes, a civilization that justifies colonization—and therefore, force—is already a sick civilization, a civilization morally wounded that, inevitably, consequence by consequence, denial by denial, calls for its own Hitler, that is, its own punishment.” p. 21
 
-Ao contrário do contato humano, que seria desejável, a colonização traz somente “(...) o trabalho forçado, a intimidação, a pressão, a polícia, o imposto, o roubo, a violação, as culturas obrigatórias, o desprezo, a desconfiança, a arrogância, a suficiência, a grosseria, as elites descerebradas, as massas aviltadas.” (p. 25)
+After quoting French heroes, intellectuals, and religious figures justifying massacres and torture, Césaire concludes:
 
-Colonização então não é sinônimo de civilização, mas sim de coisificação. 
+> “(...) colonization dehumanizes, I repeat, even the most civilized man; that colonial action, the colonial enterprise, the colonial conquest, founded on contempt for the native and justified by this contempt, inevitably tends to change whoever undertakes it; that the colonizer, to reassure himself, grows accustomed to seeing in the other an animal, practices treating him as an animal, and thus objectively tends to transform himself into an animal.” p. 23
 
 
-### As civilizações negras e a visão de futuro de Césaire
+Instead of fostering human contact, which would be desirable, colonization brings only “(...) forced labor, intimidation, pressure, police, taxes, theft, rape, compulsory crops, contempt, distrust, arrogance, smugness, rudeness, brainless elites, degraded masses.” (p. 25)
 
-Para Césaire, as sociedades antes do colonialismo eram sociedades comunitárias, não só pré-capitalistas, mas também anticapitalistas, democráticas. Porém, questionando se a resposta aos horrores do colonialismo é a volta às civilizações corteses que eram as velhas civilizações negras, Césaire discorda:
+Colonization, then, is not synonymous with civilization but with objectification.
 
-> “Nós não somos os homens do ‘ou isto ou aquilo’. Para nós, o problema não é de uma utópica e estéril tentativa de reduplicação, mas de uma superação. Não é uma sociedade morta que queremos fazer reviver. Deixamos isso aos amadores de exotismo. Não é tão-pouco a sociedade colonial actual que queremos prolongar, a carne mais imunda que jamais apodreceu debaixo do sol. É uma sociedade nova que precisamos criar, com a ajuda de nossos irmãos escravos, rica de toda a potência produtiva moderna, cálida de toda a fraternidade antiga”. p. 36
 
-Ainda sobre as antigas civilizações negras, Césaire chama o livro de [[Cheikh Anta Diop]] "Nations Nègres et Culture" o mais adacioso que um negro escreveu até a data.
+### Black Civilizations and Césaire’s Vision of the Future
 
-### A Hipocrisia dos Intelectuais Franceses
+For Césaire, pre-colonial societies were communal societies, not only pre-capitalist but also anti-capitalist and democratic. However, when questioning if the response to the horrors of colonialism is a return to the courteous civilizations that were the old Black civilizations, Césaire disagrees:
 
-Tratando então dos intelectuais que permitem, aceitam e se privilegiam do colonialismo, Césaire trata por nome exemplos de diversas áreas, trazendo à tona as contradições e violências de filósofos, antropólogos, religiosos, etc. 
+> “We are not people of ‘either this or that.’ For us, the problem is not a utopian and sterile attempt at duplication, but one of transcendence. It is not a dead society that we want to revive. We leave that to lovers of exotica. Nor is it the current colonial society that we wish to prolong, the filthiest flesh that has ever rotted under the sun. It is a new society that we need to create, with the help of our enslaved brothers, rich with all the productive power of the modern age, warm with all the ancient fraternity.” p. 36
 
-> “E não cuides de saber se esses senhores estão pessoalmente de boa ou má fé, se pessoalmente são bem ou mal intencionados, se pessoalmente, isto é, na consciência íntima de Pedro ou Paulo, são colonialistas ou não, o essencial é que a sua muito aleatória boa fé subjetiva não tem nenhuma relação com o alcance objetivo e social da reles tarefa que executam, de cães de guarda do colonialismo.” p. 40
+Still on the topic of ancient Black civilizations, Césaire calls [[Cheikh Anta Diop]]’s book Nations Nègres et Culture the boldest work ever written by a Black author at the time.
 
-Criticando os intelectuais franceses que justificam e apoiam as atrocidades colonialistas, resume:
-> “Eis onde chegou a burguesia francesa, cinco anos após a derrota de Hitler! E é aqui precisamente que reside o seu castigo histórico: ser condenada a ruminar o vômito de Hitler, aí regressando como por vício.” p. 50
+### The Hypocrisy of French Intellectuals
 
-Césaire cita Baudelaire para relembrar de como já havia a sensação do mal na Europa antes mesmo de Hitler. Do mesmo modo, a estratégia do autor de exaltar as hipocrisias dos intelectuais franceses frente ao colonialismo me lembra de “Hegel e o Haiti”, em que [[Susan Buck-Morss]] de modo igualmente genial demonstra a hipocrisia dos filósofos Iluministas frente à escravidão. Realmente, o mal da Europa é muito anterior a Hitler. 
+Addressing the intellectuals who enable, accept, and benefit from colonialism, Césaire names examples from various fields, exposing the contradictions and violence of philosophers, anthropologists, religious figures, and others.
 
-Assim como Buck-Morss expõe os filósofos que pregavam a liberdade universal do homem enquanto conviviam tranquilamente com os horrores da escravidão, Césaire expõe os antropólogos franceses que justificam a diferença entre o homem branco e os africanos com base no “respeito pela dignidade humana” inerente aos europeus, ao mesmo tempo em que nas colônias predomina a morte, a tortura e toda natureza de desrespeito à dignidade. 
+> “And don’t bother asking whether these gentlemen are personally in good or bad faith, whether personally they are well or ill-intentioned, whether personally—that is, in the private conscience of Peter or Paul—they are colonialists or not; the essential point is that their very unreliable subjective good faith has no relation whatsoever to the objective and social impact of the vile task they perform as watchdogs of colonialism.” p. 40
 
-### A Nação e o Colonialismo Estadunidenses
+Criticizing the French intellectuals who justify and support colonialist atrocities, he sums it up:
+> “This is where the French bourgeoisie has arrived, five years after Hitler’s defeat! And it is precisely here that their historical punishment lies: to be condemned to chew over Hitler’s vomit, returning to it as if by habit.” p. 50
 
-> “Dos valores inventados outrora pela burguesia e que ela lançou através do mundo, um é o do homem e do humanismo - e já vimos no que se tornou -, o outro é o da nação” p. 65
+Césaire quotes Baudelaire to remind us of how the sense of evil in Europe existed even before Hitler. Similarly, the author’s strategy of exposing the hypocrisies of French intellectuals on colonialism reminds me of Hegel and Haiti, in which [[Susan Buck-Morss]] brilliantly highlights the hypocrisy of Enlightenment philosophers on slavery. Indeed, Europe’s evil predates Hitler by far.
 
-A conclusão de Césaire traz uma breve reflexão sobre como o vácuo de poder causado pela destruição da Europa de todas as alianças que a poderiam proteger não deve ser preenchido pelos igualmente racistas e colonialistas Estados Unidos. 
+Just as Buck-Morss exposes the philosophers who preached universal freedom while comfortably coexisting with the horrors of slavery, Césaire exposes the French anthropologists who justify the difference between white men and Africans based on the supposed “respect for human dignity” inherent in Europeans, while death, torture, and every manner of disrespect for dignity prevail in the colonies. 
 
-Comparando a Europa colonial com Roma Antiga, o autor relembra que o motivo evidente da queda de Roma foi que, combatendo os povos vizinhos que antes formavam uma malha complexa de proteção por meio da não intervenção, os romanos abriram as portas para os ataques de outros povos com os quais não havia nenhum equilíbrio estabelecido. Para o autor, com o fim da Segunda Guerra surgia a oportunidade histórica de os Estados Unidos tomarem o vácuo de poder gerado pela queda eminente do colonialismo europeu, se tornando então o novo centro do colonialismo igualmente racista e violento. 
+### The Nation and U.S. Colonialism
 
+> “Among the values once invented by the bourgeoisie and which it spread throughout the world, one is that of man and of humanism—and we have already seen what it has become—the other is that of the nation.” p. 65
+
+Césaire’s conclusion offers a brief reflection on how the power vacuum caused by Europe’s destruction, along with the collapse of all alliances that might have protected it, must not be filled by the equally racist and colonialist United States.
+
+Comparing colonial Europe to Ancient Rome, the author recalls that the obvious reason for Rome’s fall was that, by fighting neighboring peoples who once formed a complex network of protection through non-intervention, the Romans opened the doors to attacks from other peoples with whom no balance had been established. For the author, with the end of the Second World War, a historic opportunity emerged for the United States to fill the power vacuum created by the imminent fall of European colonialism, thus becoming the new center of equally racist and violent colonialism.
 
