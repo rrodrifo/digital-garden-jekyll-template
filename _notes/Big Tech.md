@@ -2,17 +2,16 @@
 title: Big Tech
 ---
 
-Repositório de links para textos, artigos e matérias sobre as Big Techs.
+Repository of links to texts, articles, and materials about the Big Techs.
 
 [[FloC]]
 
 
 - [[Essential Platforms - Nikolas Guggenberger]]:
 
-> Artigo longo (83 páginas) de Nikolas Guggenberger em que o autor compara as plataformas digitais do século XXI com os monopólios do início do século XX, como as  empresas de linhas ferroviárias. 
-> 
-> Para o autor, assim como a rede ferroviária, a infraestrutura desenvolvida pelas plataformas digitais tem uma função de recursos esenciais para a economia  digital do século XXI. 
-> A partir disso, o autor apresenta a possibilidade de reviver a "Essential Facilities Doctrine", doutrina jurídica utilizada para abrir os mercados e impedir abusos dos monopólios ferroviários. Entre as ideias propostas para a aplicação desta doutrina no Século XXI estão a interoperabilidade entre plataformas, proibição e fiscalização para impedir discriminação e auto-promoção das plataformas. 
+> A long article (83 pages) by Nikolas Guggenberger in which the author compares 21st-century digital platforms with early 20th-century monopolies, such as railway companies.
+For the author, just like the railway network, the infrastructure developed by digital platforms serves as an essential resource for the 21st-century digital economy.
+> Based on this, the author presents the possibility of reviving the "Essential Facilities Doctrine," a legal doctrine used to open markets and prevent abuses by railway monopolies. Among the ideas proposed for applying this doctrine in the 21st century are interoperability between platforms, prohibition and enforcement to prevent discrimination, and self-promotion of platforms.
 
 > <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3703361">Link para o artigo</a>
 
