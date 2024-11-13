@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-# Bem Vind@! 🌱
+# Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #9fffb2; border-radius: 4px;">
   "I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived. I did not wish to live what was not life, living is so dear; nor did I wish to practice resignation, unless it was quite necessary. I wanted to live deep and suck out all the marrow of life."
