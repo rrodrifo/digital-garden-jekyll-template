@@ -5,225 +5,237 @@ title: Frantz Fanon
 [[Aimé Césaire]]
 
 
-Fanon é mais conhecido como um revolucionário. Nascido na ilha da Martinica em 20 de julho de 1925, era um homem carismático de grande coragem e brilho, tendo lutado junto às forças de resistência no norte da África e na Europa durante a Segunda Guerra Mundial, ocasião em que foi por duas vezes condecorado por bravura. 
-Após completar seus estudos em psiquiatria e filosofia na França, dirigiu o Departamento de Psiquiatria do Hospital Blida-Joinville na Argélia (hoje renomeado como Hospital Frantz Fanon) e tornou-se membro da Frente de Libertação Nacional da Argélia, entrando, assim, na lista de cidadãos procurado pela polícia em todo o território francês. Todo o resto de sua vida foi dedicado a esta batalha, enfatizando sua importância na luta para transformar as vidas dos condenados pelas instituições coloniais e racistas do mundo moderno. Fanon morreu de pneumonia em 6 de dezembro de 1961 em Bethesda, estado de Maryland, nos Estados Unidos, enquanto buscava tratamento para sua leucemia. 
+Fanon is best known as a revolutionary. Born on the island of Martinique on July 20, 1925, he was a charismatic man of great courage and brilliance, having fought alongside resistance forces in North Africa and Europe during World War II, an occasion on which he was twice decorated for bravery.
 
-Existem quatro livros impressos sob sua autoria. Cada um deles é um clássico, marcando presença no cânone filosófico da Diáspora Africana. O mais conhecido dentre eles é Les damnés de la terre (Os condenados da terra, 1961), publicado postumamente e escrito durante um período de dez semanas, quando o autor já sofria de leucemia. Peau noire, masques blancs (1952) e L’an V de la révolution algérienne (1959), subseqüentemente lançado como Sociologie d’une révolution: l'an V de la révolution algérienne, foram publicados em vida. Sua esposa, Josie (Marie-Josèphe Dublé) Fanon, editou, também postumamente, uma antologia de seus escritos intitulada Pour la révolution africaine (1964).
+After completing his studies in psychiatry and philosophy in France, he directed the Department of Psychiatry at the Blida-Joinville Hospital in Algeria (now renamed the Frantz Fanon Hospital) and became a member of the National Liberation Front of Algeria, thus landing on the police's most-wanted list across France. The rest of his life was devoted to this battle, emphasizing the importance of the struggle to transform the lives of those condemned by the colonial and racist institutions of the modern world. Fanon died of pneumonia on December 6, 1961, in Bethesda, Maryland, in the United States, while seeking treatment for his leukemia.
 
-> “Outros poderão considerar que sou um idealista. Creio que os outros é que são uns canalhas.” (p. 45)
+There are four books published under his name. Each of them is a classic, marking a significant place in the philosophical canon of the African Diaspora. The most well-known among them is Les damnés de la terre (The Wretched of the Earth, 1961), posthumously published and written over a period of ten weeks while the author was already suffering from leukemia. Peau noire, masques blancs (Black Skin, White Masks, 1952) and L'an V de la révolution algérienne (1959), subsequently released as Sociologie d'une révolution: l'an V de la révolution algérienne, were published during his lifetime. His wife, Josie (Marie-Josèphe Dublé) Fanon, also posthumously edited an anthology of his writings titled Pour la révolution africaine (1964).
+
+
+> “Others may consider me an idealist. I believe it is others who are the scoundrels.” (p. 45)
 
 ---
-### Pele Negra, Máscaras Brancas
+### Black Skin, White Masks
 
-→ Prefácio por Lewis Gordon:
+→ Preface by Lewis Gordon:
 
-Ao ser publicada, esta obra clássica do pensamento sobre a Diáspora Africana, do pensamento psicológico, do pensamento da descolonização,da teoria das ciências humanas, da filosofia e da literatura caribenha foi recebida ao mesmo tempo com escândalo e com indiferença.
+When published, this classic work on African Diaspora thought, psychological thought, decolonization theory, human sciences, philosophy, and Caribbean literature was met with both scandal and indifference.
 
-Fanon oferece uma crítica incisiva à negação do racismo contra o negro na França e em grande parte do mundo moderno. Embora outros escritores também tenham criticado tal comportamento, existem características singulares na análise de Fanon que fizeram com que seu trabalho sobrevivesse ao século XX. Primeiro, ele examina a denegação como algo sintomático em muitas pessoas negras. Segundo, rejeita a tese estrutural ao admitir a tese existencial da contingência e das exceções. Em outras palavras, Fanon não considera todo o mundo como sendo racista. Terceiro, examina o problema em seus níveis subterrâneos e, ao fazê-lo, revela seu significado para o estudo do homem. Quarto, aborda questões disciplinares e problemas de dominação no âmbito epistemológico, na esfera do conhecimento, radicalizando assim sua crítica. Quinto, oferece discussões originais sobre a dinâmica da liberdade e do reconhecimento no cerne das relações humanas. E, sexto, mas não em último lugar, Fanon propõe um conjunto de mecanismos retóricos que implementam as muitas maneiras de abordar o problema.
+Fanon offers a sharp critique of the denial of racism against black people in France and much of the modern world. While other writers also criticized such behavior, there are distinctive features in Fanon's analysis that ensured his work survived the 20th century. First, he examines denial as symptomatic in many black people. Second, he rejects the structural thesis by admitting the existential thesis of contingency and exceptions. In other words, Fanon does not consider the entire world to be racist. Third, he examines the problem on its subterranean levels, and by doing so, reveals its significance for the study of humankind. Fourth, he addresses disciplinary issues and problems of domination within the epistemological sphere, within the realm of knowledge, thus radicalizing his critique. Fifth, he offers original discussions on the dynamics of freedom and recognition at the heart of human relations. And sixth, but not least, Fanon proposes a set of rhetorical mechanisms that implement the many ways to address the problem.
 
-Fanon argumentava que a colonização requer mais do que a subordinação material de um povo. Ela também fornece os meios pelos quais as pessoas são capazes de se expressarem e se entenderem. Ele identifica isso em termos radicais no cerne da linguagem e até nos métodos pelos quais as ciências são construídas. Trata-se do colonialismo epistemológico.
+Fanon argued that colonization requires more than the material subordination of a people. It also provides the means by which people are able to express and understand themselves. He identifies this in radical terms at the core of language and even in the methods by which sciences are constructed. This is epistemological colonialism.
 
-A luta contra o racismo anti-negro não é, portanto, contra ser o Outro. É uma luta para entrar na dialética do Eu e do Outro.
+The fight against anti-black racism, therefore, is not against being the Other. It is a struggle to enter the dialectic of the Self and the Other.
 
-> “De modo algum pretendo preparar o mundo que me sucederá. Pertenço irredutivelmente à minha época. E é para ela que devo viver. O futuro deve ser uma construção sustentável do homem existente. Esta edificação se liga ao presente, na medida em que coloco-o como algo a ser superado.” (p. 29)
+> “I do not intend to prepare the world that will follow me. I irreducibly belong to my time. And it is for it that I must live. The future must be a sustainable construction of the existing man. This construction is linked to the present, in that I place it as something to be overcome.” (p. 29)
 
-### Introdução
+### Introduction
 
-Frantz Fanon apresenta como objetivo de “Pele negra, máscaras brancas” efetuar um diagnóstico psicológico de natureza social. Não trata da “alienação do negro” nem como um problema filogenético (desenvolvimento da espécie) nem como um problema ontogenético (desenvolvimento individual), mas como um problema social, que deve ser analisado por meio de sociogenia.
+Frantz Fanon presents the objective of Black Skin, White Masks as making a psychological diagnosis of a social nature. It does not address the "alienation of the black man" as a phylogenetic problem (development of the species) or as an ontogenetic problem (individual development), but as a social problem that must be analyzed through sociogeny.
 
-Este problema, posto de modo resumido, é o de que ao homem negro é imposto socialmente um complexo de inferioridade que é por ele internalizado (epidermização), de modo que sua constituição como homem negro já pressupõe a necessidade de deixar de ser negro. O corpo negro é constituido para deixar de existir do modo que é. A partir disso, “tentaremos descobrir as diferentes posições que o preto adota diante da civilização branca” (p. 29)
+This problem, stated succinctly, is that the black man is socially imposed with an inferiority complex that he internalizes (epidermization), so that his constitution as a black man already presupposes the need to stop being black. The black body is constituted to cease existing in the way it is. From this, “we will try to discover the different positions that the black man adopts in the face of white civilization” (p. 29).
 
-> “Que quer o homem?
-> Que quer o homem negro?
-> Mesmo expondo-me ao ressentimento de meus irmãos de cor, direi que o negro não é um homem.” (p. 26)
 
-> “O negro é um homem negro; isto quer dizer que, devido a uma série de aberrações afetivas, ele se estabeleceu no seio de um universo de onde será preciso retirá-lo.” (p. 26)
+> “What does man want?
+> What does the black man want?
+> Even exposing myself to the resentment of my brothers of color, I will say that the black man is not a man.” (p. 26)
+
+> “The black man is a black man; this means that, due to a series of emotional aberrations, he has settled within a universe from which he will need to be extracted.” (p. 26)
 > 
-> “Por mais dolorosa que possa ser esta constatação, somos obrigados a fazê-la: para o negro, há apenas um destino. E ele é branco.” (p. 28)
+> “However painful this realization may be, we are obliged to make it: for the black man, there is only one destiny. And it is white.” (p. 28)
 
-> “Só há complexo de inferioridade após um duplo processo: — inicialmente econômico; — em seguida pela interiorização, ou melhor, pela epidermização dessa inferioridade.” (p. 28)
+> “There is only an inferiority complex after a double process: — initially economic; — then through internalization, or rather, through the epidermization of that inferiority.” (p. 28)
 
 
-### O homem negro e a linguagem
+### The Black Man and Language
 
-O primeiro capítulo do livro trata da questão da linguagem, mais especificamente do papel da imposição da língua francesa ao negro antilhano no processo de colonização.
+The first chapter of Black Skin, White Masks addresses the issue of language, specifically the role of the imposition of the French language on the Antillean Black man during the colonization process.
 
-> “O problema que abordaremos neste capítulo é o seguinte: o negro antilhano será tanto mais branco, isto é, se aproximará mais do homem verdadeiro, na medida em que adotar a língua francesa”
+> "The problem we will address in this chapter is as follows: the Antillean Black man will be whiter, that is, will approach the true man, to the extent that he adopts the French language.”
 
-> “O negro tem duas dimensões. Uma com seu semelhante e outra como branco. Um negro comporta-se diferentemente com o branco e com outro negro. Não há dúvida de que esta cissiparidade é uma consequência direta da aventura colonial…” (p. 33)
+> "The Black man has two dimensions. One with his fellow man and another as a white. A Black man behaves differently with a white person and with another Black man. There is no doubt that this cissiparity (division into parts) is a direct consequence of the colonial adventure..." (p. 33)
 
-> “Todo povo colonizado — isto é, todo povo no seio do qual nasceu um complexo de inferioridade devido ao sepultamento de sua originalidade cultural — toma posição diante da linguagem da nação civilizadora, isto é, da cultura metropolitana.” (p. 34)
+> "Every colonized people — that is, every people in whose midst a complex of inferiority was born due to the burial of its cultural originality — takes a position towards the language of the civilizing nation, that is, the metropolitan culture." (p. 34)
 
-Sobre o chamado petit-nègre, linguagem mais burra e infantil utilizada pelos franceses ao conversarem com os negros:
+Regarding the so-called petit-nègre, the broken and infantilized language used by the French when speaking to Black people:
 
-> “Não estamos exagerando: um branco, dirigindo-se a um negro,comporta-se exatamente como um adulto com um menino, usa a mímica, fala sussurrando, cheio de gentilezas e amabilidades artificiosas” (p. 44)
-> “Falar petit-nègre a um preto é afligi-lo, pois ele fica estigmatizado como ‘aquele-que-fala-petit-nègre’. Entretanto, pode-se argumentar que não há intenção nem desejo de afligi-lo. Concordamos, mas é justamente esta ausência de intenção, esta desenvoltura, esta descontração, esta facilidade em enquadrá-lo, em aprisioná-lo, em primitivizá-lo, que é humilhante.” (p. 45)
+> "We are not exaggerating: a white person, addressing a Black man, behaves exactly like an adult with a child, using miming, whispering, full of artificial kindness and niceties." (p. 44)
+> 
+> "Speaking petit-nègre to a Black person is to afflict him, because he becomes stigmatized as 'the one-who-speaks-petit-nègre'. However, one might argue that there is no intention or desire to afflict him. We agree, but it is precisely this lack of intention, this ease, this nonchalance, this facility in framing him, imprisoning him, primitivizing him, that is humiliating." (p. 45)
 
+> "Yes, the Black man is required to be a good Black man; once that is established, the rest follows naturally. Making him speak petit-nègre is to imprison him in an image, to infantilize him, an eternal victim of an essence, of a appearance for which he is not responsible. And naturally, just as a Jew who spends money without counting it is suspicious, the Black man who quotes Montesquieu must be watched. Let them understand us: watched, in the sense that with him something begins." (p. 47)
 
-> “Sim, do negro exige-se que seja um bom preto; isso posto, o resto vem naturalmente. Levá-lo a falar petit-nègre é aprisioná-lo a uma imagem, embebê-lo, vítima eterna de uma essência, de um aparecer pelo qual ele não é responsável. E naturalmente, do mesmo modo que um judeu que gasta dinheiro sem contá-lo é suspeito, o negro que cita Montesquieu deve ser vigiado. Que nos compreendam: vigiado, na medida em que com ele começa algo.” (p. 47)
+ 
+### The Woman of Color and the White Man
 
-### A mulher de cor e o branco
+> "In this chapter, dedicated to the relationship between the woman of color and the European, the question is to determine to what extent authentic love will remain impossible as long as we do not eliminate this feeling of inferiority, or this Adlerian exaltation, this supercompensation, which seem to be the indication of the Black worldview." (p. 54)
 
-> “Neste capítulo, dedicado às relações entre a mulher de cor e o europeu, trata-se de determinar em que medida o amor autêntico permanecerá impossível enquanto não eliminarmos este sentimento de inferioridade, ou esta exaltação adleriana, esta supercompensação, que parecem ser o indicativo da Weltanschauung negra.” (p. 54)
+> "Whether it is Mayotte Capécia, the Martinican, or Nini, the Saint Louisian, we find the same process. A bilateral process, an attempt to acquire by internalization values originally forbidden. The Black woman feels inferior, and therefore aspires to be admitted into the white world. In this attempt, she will be assisted by a phenomenon that we will call affective erotism." (p. 66)
 
-> “Quer se trate de Mayotte Capécia, a martinicana, ou de Nini, a saint-louisiana, reencontramos o mesmo processo. Processo bilateral,tentativa de aquisição por interiorização de valores originalmente proibidos. A preta se sente inferior, por isso aspira a ser admitida no mundo branco. Nessa tentativa ela será auxiliada por um fenômeno que denominaremos eretismo afetivo.” (p. 66)
+> "Whatever the field considered, one thing impressed us: the Black man, a slave to his inferiority, the White man, a slave to his superiority, both behave according to a neurotic line of direction. Thus, we were led to consider their alienation according to psychoanalytic descriptions. The Black man, in his behavior, resembles an obsessive neurotic type, or in other words, he is in full situational neurosis. There is in the man of color an attempt to escape his individuality, to annihilate his being-here." (p. 66)
 
-> “Qualquer que seja o domínio considerado, uma coisa nos impressionou: o preto, escravo de sua inferioridade, o branco, escravo de sua superioridade, ambos se comportam segundo uma linha de orientação neurótica. Assim, fomos levados a considerar a alienação deles conforme descrições psicanalíticas. O preto, no seu comportamento, assemelha-se a um tipo neurótico obsessional, ou, em outras palavras, ele se coloca em plena neurose situacional. Há no homem de cor uma tentativa de fugir à sua individualidade, de aniquilar seu estar-aqui.” (p. 66)
 
+### The Man of Color and the White Woman
 
-### O homem de cor e a branca
+> "When asked, the White man consents to give her the hand of his sister, but protected by a presumption: 'You have nothing to do with the real Blacks. You are not Black, you are 'excessively dark'. This process is well known to students of color in France. They refuse to consider them as real Blacks. The Black man is the savage, while the student is 'evolved.' You are 'one of us,' says Coulanges, and if they consider you Black, it is a mistake, because from Black you only have the appearance. But Jean Veneuse does not accept, he cannot, because he knows." (p. 73)
 
-> “Solicitado, o branco consente em lhe dar a mão da irmã, mas protegido por um pressuposto: você não tem nada a ver com os verdadeiros pretos. Você não é negro, é “excessivamente moreno”. Este processo é bem conhecido pelos estudantes de cor na França. Recusam-se a considerá-los como verdadeiros pretos. O preto é o selvagem,enquanto que o estudante é um “evoluído”. Você é “nós”, lhe diz Coulanges, e se o consideram preto é por equívoco, pois de preto você só tem a aparência. Mas Jean Veneuse não aceita, não pode, pois ele sabe.” (p. 73)
 
+### On the Alleged Dependency Complex of the Colonized
 
-### Sobre o pretenso complexo de dependência do colonizado
+The fourth chapter of Black Skin, White Masks is dedicated to critiquing the work Psychologie de la colonisation by O. Mannoni. Fanon addresses the fallacy that colonized peoples are psychologically predisposed to submission in a "complex of inferiority" or "complex of dependency."
 
-O quarto capítulo de Peles Negras, Máscaras Brancas se dedica à crítica da obra “Psychologie de la colonisation”, de O. Mannoni. Fanon discorre sobre a falácia de que os povos colonizados já apresentam uma predisposição psicológica à submissão em um “complexo de inferioridade”, ou “complexo de dependência”. 
+> "The problem of colonization thus involves not only the intersection of objective and historical conditions but also the attitude of the man toward these conditions." (p. 84)
 
-> “O problema da colonização comporta assim não apenas a intersecção de condições objetivas e históricas, mas também a atitude do homem diante dessas condições.” (p. 84)
+ 
+> "We need the courage to say: it is the racist who creates the inferiorized. With this conclusion, we approach Sartre: 'The Jew is a man whom other men consider a Jew: this is the simple truth from which one must start... It is the anti-Semite who makes the Jew.'" (p. 90)
 
-> “Precisamos ter a coragem de dizer: é o racista que cria o inferiorizado. Com essa conclusão, aproximamo-nos de Sartre: ‘O judeu é um homem que os outros homens consideram judeu: eis a verdade simples de onde se deve partir... É o anti-semita que faz o judeu’” (p. 90)
+Here lies the central point of Fanon: not only is there no predisposition in the Black man to submit to the White, but there is no Black man before the arrival of the colonizer.
 
-Aqui o ponto central de Fanon: não somente não há no homem negro uma predisposição à submissão ao branco, como não há homem negro antes da chegada do colonizador. 
+> "If he is Malagasy, it is because the White man arrived, and if, at a certain point in his history, he was led to question whether he was or was not a man, it is because his humanity was contested. In other words, I begin to suffer for not being White, to the extent that the White man imposes discrimination on me, makes me a colonized subject, strips me of any value, any originality, and expects me to be a parasite in the world, urging me to catch up with the White world as quickly as possible, 'that I am a wild beast, that my people and I are walking dung, repugnant providers of soft sugarcane and silky cotton, that I have no place in the world.' Then I will simply try to make myself White, that is, I will force the White man to recognize my humanity." (p. 94)
 
-> “Se ele é malgaxe, é porque o branco chegou, e se, em um dado momento da sua história, ele foi levado a se questionar se era ou não um homem, é que lhe contestavam sua humanidade. Em outras palavras, começo a sofrer por não ser branco, na medida que o homem branco me impõe uma discriminação, faz de mim um colonizado, me extirpa qualquer valor, qualquer originalidade, pretende que seja um parasita no mundo, que é preciso que eu acompanhe o mais rapidamente possível o mundo branco, “que sou uma besta fera, que meu povo e eu somos um esterco ambulante, repugnantemente fornedor de cana macia e de algodão sedoso, que não tenho nada a fazer no mundo”. Então tentarei simplesmente fazer-me branco, isto é, obrigarei o branco a reconhecer minha humanidade.” (p. 94)
+> "In other words, the Black man should no longer be placed before this dilemma: whiten or disappear, he must be able to become aware of a new possibility of existence; or, if society creates difficulties for him because of his color, if I find in his dreams the expression of an unconscious desire to change color, my objective will not be to dissuade him, advising him to 'keep his distance'; on the contrary, my objective will be, once the causes are clarified, to make him capable of choosing action (or passivity) regarding the true origin of the conflict, that is, the social structures." (p. 95 - 96)
 
-> “Em outras palavras, o negro não deve mais ser colocado diante deste dilema: branquear ou desaparecer, ele deve poder tomar consciência de uma nova possibilidade de existir; ou ainda, se a sociedade lhe cria dificuldades por causa de sua cor, se encontro em seus sonhos a expressão de um desejo inconsciente de mudar de cor, meu objetivo não será dissuadi-lo, aconselhando-o a “manter as distâncias”; ao contrário, meu objetivo será, uma vez esclarecidas as causas, torná-lo capaz de escolhera ação (ou a passividade) a respeito da verdadeira origem do conflito,isto é, as estruturas sociais.” (p. 95 - 96)
+Fanon then discusses what he calls the “racial division of guilt,” in which, among the French colonies, Arabs were placed against Blacks, Blacks against Jews, Jews against Arabs, etc., in a move that absolves the White French of the guilt for the ills of colonialism.
 
-Fanon trata, então, do que ele chama de “repartição racial da culpa”, em que dentre as colônias francesas sempre se colocavam os árabes contra os negros, os negros contra os judeus, os judeus contra os árabes, etc. em um movimento que isenta o francês branco de culpa pelas mazelas do colonialismo.
 
-Fanon cita também P. Naville:
-> “Falar dos sonhos da sociedade como se fossem os sonhos do indivíduo, dos desejos coletivos de potência como se fossem o instinto sexual pessoal, é inverter ainda uma vez a ordem natural das coisas, uma vez que, pelo contrário, são as condições econômicas e sociais das lutas de classes que explicam e determinam as condições reais nas quais se exprime a sexualidade individual, e que o conteúdo dos sonhos de um ser humano depende também, no fim das contas, das condições gerais da civilização na qual ele vive.” → Pierre Naville, Psychologie, marxisme, matérialisme, Marcel Rivière Éditeur, 2ª edição, p.151.
+Fanon also cites Pierre Naville:
 
-### A experiência vivida do negro
+> "Talking about the dreams of society as if they were the dreams of the individual, collective desires for power as if they were personal sexual instincts, is once again reversing the natural order of things, since, on the contrary, it is the economic and social conditions of class struggles that explain and determine the real conditions in which individual sexuality is expressed, and that the content of a human being’s dreams ultimately depends on the general conditions of the civilization in which he lives." → Pierre Naville, Psychologie, marxisme, matérialisme, Marcel Rivière Éditeur, 2nd edition, p. 151.
 
-> “Cheguei ao mundo pretendendo descobrir um sentido nas coisas, minha alma cheia do desejo de estar na origem do mundo, e eis que me descubro objeto em meio a outros objetos.” (p. 103)
+### The Lived Experience of the Black Man
 
-O quinto capítulo da obra trata exatamente sobre a natureza do “ser negro”, ou a (falta da) natureza do ser enquanto negro. Porém, “qualquer ontologia torna-se irrealizável em uma sociedade colonizada e civilizada.”
+> "I came into the world intending to discover a meaning in things, my soul filled with the desire to be at the origin of the world, and here I find myself an object among other objects." (p. 103)
 
-> “Aos olhos do branco, o negro não tem resistência ontológica. De um dia para o outro, os pretos tiveram de se situar diante de dois sistemas de referência. Sua metafísica ou, menos pretensiosamente, seus costumes e instâncias de referência foram abolidos porque estavam em contradição com uma civilização que não conheciam e que lhes foi imposta.” (p. 104)
+The fifth chapter of the work addresses precisely the nature of "being Black," or the (lack of) nature of being as a Black person. However, "any ontology becomes unachievable in a colonized and civilized society."
 
-> “No mundo branco, o homem de cor encontra dificuldades na elaboração de seu esquema corporal. O conhecimento do corpo é unicamente uma atividade de negação. É um conhecimento em terceira pessoa. Em torno do corpo reina uma atmosfera densa de incertezas.”
+> "In the eyes of the White man, the Black man has no ontological resistance. From one day to the next, Blacks had to position themselves before two systems of reference. Their metaphysics, or less pretentiously, their customs and points of reference, were abolished because they were in contradiction with a civilization they did not know and which was imposed on them." (p. 104)
 
-Fanon trata sobre como sua ida à Europa desestabilizou seu esquema corporal, cedendo lugar a um esquema epidérmico racial. O momento em que uma criança francesa grita “Mamãe, olhe o preto, estou com medo” escancara em Fanon sua existência como negro na dicotomia negro-branco criada pelo colonialismo. 
+> "In the White world, the man of color faces difficulties in developing his body schema. The knowledge of the body is solely an activity of negation. It is third-person knowledge. Around the body, there is a dense atmosphere of uncertainty."
 
-> “Eu era ao mesmo tempo responsável pelo meu corpo, responsável pela minha raça, pelos meu ancestrais. Lancei sobre mim um olhar objetivo, descobri minha negridão, minhas características étnicas, – e então detonaram meu tímpano com a antropofagia, com o atraso mental, o fetichismo, as taras raciais, os negreiros, e sobretudo com “y’a bon banania”. (p. 105-106)
+Fanon discusses how his journey to Europe destabilized his body schema, giving way to a racial epidermal schema. The moment when a French child shouts "Mom, look at the Black man, I'm scared" reveals to Fanon his existence as Black within the Black-White dichotomy created by colonialism.
 
-Este encontro com o racismo francês e com sua própria posição como homem negro fez com que se delimitasse para Fanon o campo de batalha. 
-> “Tendo o campo de batalha sido delimitado, entrei na luta.” (p. 107)
+> "I was at the same time responsible for my body, responsible for my race, for my ancestors. I cast an objective gaze on myself, discovered my Blackness, my ethnic characteristics—and then my eardrum was detonated with cannibalism, mental retardation, fetishism, racial perversions, slave traders, and above all, 'y’a bon banania.'" (p. 105-106)
 
-> “Desde que era impossível livrar-me de um complexo inato, decidi me afirmar como Negro. Uma vez que o outro hesitava em me reconhecer, só havia uma solução: fazer-me conhecer.” (p. 108)
-> “O judeu só não é amado a partir do momento em que é detectado. Mas comigo tudo toma um aspecto novo. Nenhuma chance me é oferecida. Sou sobredeterminado pelo exterior. Não sou escravo da “idéia” que os outros fazem de mim, mas da minha aparição” (p. 108)
+This encounter with French racism and Fanon's own position as a Black man defined his battleground. As he wrote:
 
-> “Quando me amam, dizem que o fazem apesar da minha cor. Quando me detestam, acrescentamque não é pela minha cor…” (p.109)
+> “Once the battleground was delineated, I entered the struggle.” (p. 107)
 
-> “Eu era odiado, detestado, desprezado, não pelo vizinho da frente ou pelo primo materno, mas por toda uma raça. Estava exposto a algo irracional. Os psicanalistas dizem que não há nada de mais traumatizante para a criança do que o contato com o racional. Pessoalmente eu diria que, para um homem que só tem como arma a razão, não há nada de mais neurotizante do que o contato com o irracional.” (p.110)
+Fanon's response to the inescapable complex of his identity as Black was to assert it proudly: 
 
-O capítulo relata a trajetória de Fanon frente ao se descobrir negro, culminando em sua decisão de reação, que vem a condicionar sua atuação não só como escritor mas também como militante e revolucionário. 
+> “Since it was impossible to rid myself of an inborn complex, I decided to assert myself as Black. Once the other hesitated to recognize me, there was only one solution: to make myself known.” (p. 108)
+> "The Jew is only unloved from the moment he is detected. But with me, everything takes on a new aspect. No chance is offered to me. I am overdetermined by the outside. I am not a slave to the 'idea' others have of me, but to my appearance." (p. 108)
 
-> “Senti nascer em mim lâminas de aço. Tomei a decisão de me defender. Como boa tática, quis racionalizar o mundo, mostrar ao branco que ele estava errado.”(p.110)
+> "When they love me, they say they do so despite my color. When they hate me, they add that it's not because of my color..." (p. 109)
 
-Porém, a razão fugia de Fanon na medida em que a ciência e os cientistas também são impregnados pelo racismo:
+> "I was hated, detested, despised, not by the neighbor in front or by the maternal cousin, but by an entire race. I was exposed to something irrational. Psychoanalysts say there is nothing more traumatizing for a child than contact with the rational. Personally, I would say that for a man whose only weapon is reason, nothing is more neuroticizing than contact with the irrational." (p. 110)
 
-> “A razão assegurava a vitória em todas as frentes. Eu era readmitido nas assembléias. Mas tive de perder as ilusões. A vitória brincava de gato e rato; ela zombava de mim. Como diz o outro, quando estou lá, ela não está, quando ela está, não estou mais. No plano das idéias, estávamos de acordo: o negro é um ser humano. Isto é, acrescentavam os menos convencidos, ele tem como nós o coração à esquerda. Mas o branco, em determinadas questões, continuava irredutível. (...) Vocês chegaram muito tarde, tarde demais. Sempre haverá um mundo – branco – entre vocês e nós...” (p. 111)
+The chapter describes Fanon’s journey as he discovers himself as a Black man, culminating in his decision to react, which shaped his role not only as a writer but also as an activist and revolutionary.
 
-> “Foi meu professor de filosofia, de origem antilhana, quem um dia me chamou a atenção: “Quando você ouvir falar mal dos judeus, preste bem atenção, estão falando de você”. E eu pensei que ele tinha universalmente razão, querendo com isso dizer que eu era responsável, de corpo e alma, pela sorte reservada a meu irmão. Depois compreendi que ele quis simplesmente dizer: um anti-semita é seguramente um negrófobo.” (p.112) 
+> "I felt blades of steel being born in me. I made the decision to defend myself. As a good tactic, I wanted to rationalize the world, show the White man that he was wrong." (p. 110)
 
-> “Eu tinha racionalizado o mundo e o mundo tinha me rejeitado em nome do preconceito de cor. Desde que, no plano da razão, o acordo não era possível, lancei-me na irracionalidade. Culpa do branco, por ser mais irracional do que eu!” (p. 113)
+However, reason eluded Fanon as science and scientists were also tainted by racism:
 
-> “Caso-me com o mundo! Eu sou o mundo! O branco nunca compreendeu esta substituição mágica. O branco quer o mundo; ele o quer só para si. Ele se considera o senhor predestinado deste mundo. Ele o submete, estabelece-se entre ele e o mundo uma relação de apropriação.” (p. 117)
+> “Reason ensured victory on all fronts. I was readmitted into the assemblies. But I had to lose my illusions. Victory played cat and mouse; it mocked me. As the other says, when I am there, it is not; when it is there, I am no longer. On the level of ideas, we agreed: the Black man is a human being. That is, added the less convinced, he has, like us, his heart on the left. But the white man, on certain issues, remained unyielding. (...) You came too late, too late. There will always be a world – a white world – between you and us...” (p. 111)
 
-> “Logo haveria de perder as ilusões. O branco, por um instante baratinado, demonstrou-me que, geneticamente, eu representava um estágio: “As qualidades de vocês foram exploradas até o esgotamento por nós. Tivemos místicas da terra como vocês não terão jamais. Debruce-se sobre nossa história, e compreenderá até onde foi esta fusão”. Tive então a impressão de repetir um ciclo. Minha originalidade me foi extorquida. Chorei por muito tempo e depois recomecei a vida.” (p. 118) 
+> "It was my philosophy teacher, of Antillean origin, who once called my attention: 'When you hear people speak ill of the Jews, pay close attention, they are speaking of you.' And I thought he was universally right, meaning that I was responsible, body and soul, for the fate reserved for my brother. Later, I understood that he simply meant: an anti-Semite is surely a Negro-phobe." (p. 112)
 
-Após a desilusão de que seu reconhecimento com a Terra era, para os brancos, somente um “estágio” anterior de evolução, Fanon torna seu olhar e suas esperanças para a história e a antiguidade negra.
+> “I had rationalized the world, and the world had rejected me in the name of color prejudice. Since, on the level of reason, agreement was not possible, I plunged into irrationality. It is the white man's fault, for being more irrational than I!” (p. 113)
 
-> “O branco estava enganado, eu não era um primitivo,nem tampouco um meio-homem, eu pertencia a uma raça que há dois mil anos já trabalhava o ouro e a prata.” (p. 119)
+> “I marry the world! I am the world! The white man never understood this magical substitution. The white man wants the world; he wants it only for himself. He considers himself the predestined master of this world. He submits it, establishes a relationship of appropriation between himself and the world.” (p. 117)
 
-> “Eu colocava o branco no seu lugar; encorajado, eu o enfrentava e jogava-lhe na cara: adapte-se a mim, eu não me adapto a ninguém! Sacaneava abertamente. O branco, visivelmente, bronqueava. Mas seu tempo de reação ia ficando cada vez mais lento... Eu tinha ganho. Exultava.” (p. 120)
+> “Soon I would lose my illusions. The white man, momentarily stunned, showed me that, genetically, I represented a stage: 'Your qualities were exploited to exhaustion by us. We had earth mystics like you will never have. Study our history, and you will understand how far this fusion went.' I then had the impression of repeating a cycle. My originality was extorted from me. I cried for a long time, and then I began life again.” (p. 118)
 
-Porém, em resposta à exultação das civilizações antigas, o branco respondia a Fanon que isto era passado, e que a civilização em seu estágio mais avançado, industrializada, científica, estava à frente das civilizações negras já há tempo perdidas. 
 
-> “Assim, a meu irracional, opunham o racional. A meu racional, o “verdadeiro racional”. Eu sempre recomeçava um jogo previamente perdido. Experimentei minha hereditariedade. Fiz um balanço completo de minha doença. Queria ser tipicamente negro – mas isso não era mais possível. Queria ser branco – era melhor rir. E, quando tentava, no plano das idéias e da atividade intelectual, reivindicar minha negritude, arrancavam-na de mim.” (p. 120)
+After the disillusionment that his recognition with the Earth was, for the whites, merely an "evolutionary stage," Fanon turns his gaze and hopes toward the history and antiquity of Black civilization.
 
-Fanon cita e critica a noção apresentada por Sartre de que, na visão dialética marxista, negritude é um fato “concreto e particular” e classe é “universal e abstrato”, e que os negros e seu movimento são “a preparação da síntese ou a realização do humano em uma sociedade sem raças. Assim, a negritude existe para se destruir; é passagem e ponto de chegada, meio e não fim último.”  
+> "The white man was wrong, I was not a primitive, nor a half-man, I belonged to a race that, two thousand years ago, was already working with gold and silver." (p. 119)
 
-> “Não sou uma potencialidade de algo, sou plenamente o que sou. Não tenho de recorrer ao universal. No meu peito nenhuma probabilidade tem lugar. Minha consciência negra não se assume como a falta de algo. Ela é. Ela é aderente a si própria.” (p. 122)
+> "I put the white man in his place; encouraged, I confronted him and threw it in his face: adapt to me, I don’t adapt to anyone! I openly mocked him. The white man, visibly, bristled. But his reaction time grew slower and slower... I had won. I exulted." (p. 120)
 
-> “Ainda sem ser branco, já não mais negro, eu era um condenado. Jean-Paul Sartre esqueceu que o negro sofre em seu corpo de outro modo que o branco. Entre o branco e eu, há irremediavelmente uma relação de transcendência" (p. 123)
+However, in response to the exultation of ancient civilizations, the white man responded to Fanon that this was the past, and that civilization, in its most advanced stage—industrialized, scientific—had long been ahead of the lost Black civilizations.
 
-### O preto e a psicopatologia
+> "Thus, to my irrationality, they opposed rationality. To my rationality, the 'true rationality.' I was always starting over a game that was already lost. I experienced my heredity. I took a full inventory of my illness. I wanted to be typically Black—but that was no longer possible. I wanted to be white—it was better to laugh. And, when I tried, on the level of ideas and intellectual activity, to claim my Blackness, they tore it from me." (p. 120)
 
-> “Nunca se salientará suficientemente que a psicanálise, como se sabe, se propõe a compreender determinados comportamentos no seio de um grupo específico representado pela família.” (p. 127)
+Fanon cites and critiques the notion presented by Sartre that, in the Marxist dialectical view, Blackness is a "concrete and particular" fact, and class is "universal and abstract," and that Black people and their movement are "the preparation of the synthesis or the realization of the human in a society without races. Thus, Blackness exists to destroy itself; it is a passage and a point of arrival, a means, not the final end."
 
-Porém, Fanon aponta que na Europa as estruturas e os valores das famílias são repetidos ou repetem as estruturas e valores da nação, de modo que: 
+> "I am not a potentiality of something, I am fully what I am. I don’t need to resort to the universal. In my chest, no probability has a place. My Black consciousness does not present itself as the lack of something. It is. It adheres to itself." (p. 122)
 
-> “A criança que deixa o meio familiar reencontra as mesmas leis, os mesmos princípios, os mesmos valores. Uma criança normal, crescida em uma família normal, será um homem normal.” (p.128)
+> "Still not white, no longer black, I was a condemned man. Jean-Paul Sartre forgot that the black man suffers in his body in a way different from the white man. Between the white man and me, there is irreparably a relation of transcendence." (p. 123)
 
-> “Ora, e isto é muito importante, constatamos o inverso no caso do homem de cor. Uma criança negra, normal, tendo crescido no seio de uma família normal, ficará anormal ao menor contacto com o mundo branco.” (p. 129)
+### The Black and Psychopathology
 
-Considerando o exemplo de um jovem negro que adota uma posição de defesa frente aos brancos (que nunca conheceu) antes mesmo de chegar na Europa, Fanon nega a ideia de que um filho negro pode “herdar” do pai traumas com brancos. 
+> "It cannot be emphasized enough that psychoanalysis, as is known, aims to understand certain behaviors within a specific group represented by the family." (p. 127)
 
-> “Se quisermos responder corretamente, somos obrigados a lançar mão da noção de catharsis coletiva. Em toda sociedade, em toda coletividade,existe, deve existir um canal, uma porta de saída, através do qual as energias acumuladas, sob forma de agressividade, possam ser liberadas” (p. 130)
+However, Fanon points out that in Europe, the structures and values of families are repeated or mirror the structures and values of the nation, so that:
 
-Essa catharsis coletiva é materializada na cultura, nos livros, histórias, contos, etc. repassados às crianças.
+> "The child who leaves the family environment encounters the same laws, the same principles, the same values. A normal child, raised in a normal family, will be a normal man." (p. 128)
 
-> “Nas Antilhas, o jovem negro que, na escola, não para de repetir “nossos pais, os gauleses”, identifica-se com o explorador, com o civilizador, como branco que traz a verdade aos selvagens, uma verdade toda branca. Há identificação, isto é, o jovem negro adota subjetivamente uma atitude de branco.” (p. 132)
+> "Now, and this is very important, we observe the opposite in the case of the man of color. A normal Black child, having grown up in a normal family, will become abnormal at the slightest contact with the white world." (p. 129)
 
-> “Mas é que o antilhano não se considera negro; ele se considera antilhano. O preto vive na África. Subjetivamente, intelectualmente, o antilhano se comporta como um branco. Ora, ele é um preto. E só o perceberá quando estiver na Europa; e quando por lá alguém falar de preto, ele saberá que está se referindo tanto a ele quanto ao senegalês. Que conclusão tirar de tudo isso?” (p. 132)
+Considering the example of a young Black man who adopts a defensive stance toward whites (whom he has never met) even before arriving in Europe, Fanon denies the idea that a Black child can "inherit" trauma from their father regarding whites.
 
-> “Qual a nossa proposição? Simplesmente esta: quando os pretos abordam o mundo branco, há uma certa ação sensibilizante. Se a estrutura psíquica se revela frágil, tem-se um desmoronamento do ego. O negro cessa de se comportar como indivíduo acional. O sentido de sua ação estará no Outro (sob a forma do branco), pois só o Outro pode valorizá-lo.” (p. 136)
+> "If we are to answer correctly, we are obliged to resort to the notion of collective catharsis. In every society, in every collective, there exists, there must exist, a channel, an outlet, through which the accumulated energies, in the form of aggression, can be released." (p. 130)
 
-Por meio da análise da psicopatologia, Fanon estuda a noção do negro como representação do pênis, do biológico, da potência sexual, assim como o judeu como representação da ganância, da esperteza. Os dois juntamente são representações do Mal no inconsciente da sociedade. 
+This collective catharsis is materialized in culture, in books, stories, tales, etc., passed down to children.
 
-> “A civilização européia, no seio do que Jung chama de inconsciente coletivo, caracteriza-se pela presença de um arquétipo: expressão dos maus instintos, do lado obscuro inerente a qualquer ego, do selvagem não civilizado, do preto adormecido em cada branco. E Jung afirma ter constatado nos povos não civilizados a mesma estrutura psíquica que reproduz seu diagrama. Pessoalmente, penso que Jung se enganou. Aliás, todos os povos que ele conheceu –índios pueblos do Arizona ou negros do Quênia, na África Oriental britânica, tiveram contatos mais ou menos traumatizantes com os brancos. Dissemos anteriormente que, nas suas salavinizações, o jovem antilhano nunca é negro, e tentamos mostrar a que corresponde este fenômeno. Jung situa o inconsciente coletivo na substância cerebral herdada. Mas o inconsciente coletivo, sem que haja necessidade de recorrer aos genes, é simplesmente o conjunto dos preconceitos, mitos, atitudes coletivas de um grupo determinado.” (p. 159)
+> "In the Antilles, the young Black student who, in school, keeps repeating 'our fathers, the Gauls,' identifies himself with the explorer, with the civilizer, as a white man who brings the truth to the savages, a truth that is all white. There is identification, that is, the young Black adopts a subjective attitude of whiteness." (p. 132)
 
-> “O inconsciente coletivo não depende de uma herança cerebral: é a consequência do que eu chamaria de imposição cultural irrefletida. Nada de surpreendente, pois que o antilhano, submetido ao método do sonho em vigília, reviva as mesmas fantasias de um europeu. É que o antilhano tem o mesmo inconsciente coletivo do europeu. Se o que acabou de ser dito faz sentido, estamos em condições de anunciar a conclusão seguinte: é normal que o antilhano seja negrófobo.” (p. 162)
+> "But the Antillean does not consider himself Black; he considers himself Antillean. The Black man lives in Africa. Subjectively, intellectually, the Antillean behaves like a white man. However, he is Black. And he will only realize this when he is in Europe; and when someone there speaks of 'Black,' he will know they are referring to him as well as to the Senegalese. What conclusion can we draw from all this?" (p. 132)
 
-> “Como percebo que o preto é o símbolo do pecado, começo a odiá-lo. Porém constato que sou negro. Para escapar ao conflito, duas soluções. Ou peço aos outros que não prestem atenção à minha cor, ou, ao contrário, quero que eles a percebam. Tento, então, valorizar o que é ruim – visto que, irrefletidamente, admiti que o negro é a cor do Mal. Para pôr um termo a esta situação neurótica, na qual sou obrigado a escolher uma solução insana, conflitante, alimentada por fantasmagorias, antagônica, desumana enfim, – só tenho uma solução: passar por cima deste drama absurdo que os outros montaram ao redor de mim, afastar estes dois termos que são igualmente inaceitáveis e, através de uma particularidade humana, tender ao universal.” (p. 166)
-> “O problema negro não se limita ao dos negros que vivem entre os brancos, mas sim ao dos negros explorados, escravizados, humilhados por uma sociedade capitalista, colonialista, apenas acidentalmente branca. (p. 170)
+> "What is our proposition? Simply this: when Blacks approach the white world, there is a certain sensitizing action. If the psychic structure reveals itself to be fragile, there is a collapse of the ego. The Black man ceases to behave as an active individual. The meaning of his action will be in the Other (in the form of the white), for only the Other can value him." (p. 136)
 
+Through his analysis of psychopathology, Fanon studies the notion of the Black man as a representation of the penis, the biological, the sexual power, as well as the Jew as a representation of greed and cunning. Both are, together, representations of Evil in the unconscious of society.
 
-### O preto e o reconhecimento
+> "European civilization, within what Jung calls the collective unconscious, is characterized by the presence of an archetype: the expression of bad instincts, the dark side inherent in every ego, the uncivilized savage, the Black man asleep in every white. And Jung claims to have observed in uncivilized peoples the same psychic structure that reproduces his diagram. Personally, I think Jung was wrong. Moreover, all the peoples he encountered—Pueblo Indians from Arizona or Blacks from Kenya in British East Africa—had more or less traumatizing encounters with whites. We said earlier that, in their salvation, the young Antillean is never Black, and we tried to show what this phenomenon corresponds to. Jung locates the collective unconscious in the inherited brain substance. But the collective unconscious, without the need to resort to genes, is simply the set of prejudices, myths, and collective attitudes of a given group." (p. 159)
 
-O último capítulo do livro é dedicado a uma análise psicológica dos pretos antilhanos. Para Fanon, do ponto de vista da psicologia adleriana os pretos são comparação, de modo que qualquer posicionamento de si mantém relações de dependência como desmantelamento do outro. 
+> “The collective unconscious does not depend on a cerebral inheritance: it is the consequence of what I would call an unreflected cultural imposition. Nothing surprising, since the Antillean, subjected to the method of waking dream, relives the same fantasies as a European. The fact is that the Antillean has the same collective unconscious as the European. If what has just been said makes sense, we are in a position to announce the following conclusion: it is normal for the Antillean to be Black-phobic.” (p. 162)
 
-> “A sociedade antilhana é uma sociedade neurótica, uma sociedade “comparação”. Então passamos do indivíduo à estrutura social. Se há um vício, ele não está na “alma” do indivíduo e sim na “alma” do meio.” (p. 177)
+> “As I realize that the Black is the symbol of sin, I begin to hate it. However, I notice that I am Black. To escape the conflict, there are two solutions. Either I ask others not to pay attention to my color, or, on the contrary, I want them to notice it. I then try to value what is bad—since, unreflectively, I admitted that Black is the color of Evil. To put an end to this neurotic situation, in which I am forced to choose an insane, conflicting solution, fed by fantasies, antagonistic, ultimately inhuman, I have only one solution: to step over this absurd drama that others have created around me, to push aside these two equally unacceptable terms and, through a human particularity, tend towards the universal.” (p. 166)
 
-Do ponto de vista individual:
-> “Como o preto sempre foi um inferior, ele tenta reagir por intermédio de um complexo de superioridade.” (p. 177)
+> “The Black problem is not limited to the Blacks who live among whites, but to those Blacks who are exploited, enslaved, humiliated by a capitalist, colonialist society, which is only incidentally white.” (p. 170)
 
-Porém Fanon considera que a análise deste complexo à partir do individual leva a conclusões como as já criticadas de Mannoni de que a posição de inferior é decorrente do próprio indivíduo, e não a ele imposta pela realidade material do seu entorno. “É o meio, é a sociedade que é responsável pela sua mistificação”. (p.180)
 
-### O preto e Hegel
+### The Black and Recognition
 
-> “O homem só é humano na medida em que ele quer se impor a um outro homem, a fim de ser reconhecido. Enquanto ele não é efetivamente reconhecido pelo outro, é este outro que permanece o tema de sua ação. É deste outro, do reconhecimento por este outro que dependem seu valor e sua realidade humana. É neste outro que se condensa o sentido de sua vida.” (p. 180)
+The last chapter of the book is dedicated to a psychological analysis of Antillean Blacks. For Fanon, from the perspective of Adlerian psychology, Blacks are in a state of comparison, so any self-positioning remains dependent on the dismantling of the other.
 
-Considerando que o preto (ao menos o antilhano) não lutou de fato por sua liberdade no sentido hegeliano da luta pelo reconhecimento, uma vez que a liberdade veio como uma concessão branca e não como uma conquista negra (visão de Fanon), o autor afirma que esta situação deixa uma marca nos pretos, como se estes tivessem perdido a oportunidade de se auto afirmarem livres no momento em que os senhores os afirmaram livres. 
+> “The Antillean society is a neurotic society, a 'comparison' society. So we move from the individual to the social structure. If there is a flaw, it is not in the 'soul' of the individual, but in the 'soul' of the environment.” (p. 177)
 
-> “O antigo escravo exige que lhe contestem sua humanidade, ele deseja uma luta, uma refrega. Mas é tarde demais: o preto francês está condenado a morder e a se morder.” (p. 184)
+From the individual point of view:
+> “As the Black person has always been an inferior, they try to react through a sense of superiority.” (p. 177)
 
-> “Para o negro francês, a situação é intolerável. Não estando jamais seguro de que o branco o considera como consciência em-si-para-si, ele se preocupa continuamente em descobrir a resistência, a oposição, a contestação.” (p. 184)
+However, Fanon argues that analyzing this complex from an individual perspective leads to conclusions similar to those criticized in Mannoni’s work, which suggests that the position of inferiority is due to the individual rather than imposed by the material reality of their surroundings. “It is the environment, it is society that is responsible for their mystification.” (p. 180)
 
-> “Conduzir o homem a ser acional, mantendo na sua esfera de influência o respeito aos valores fundamentais que fazem um mundo humano, tal é primeira urgência daquele que, após ter refletido, se prepara para agir.” (p. 184)
+### The Black and Hegel
 
-### Conclusão
+> “A man is only human to the extent that he wants to impose himself on another man in order to be recognized. As long as he is not effectively recognized by the other, it is this other who remains the object of his action. It is from this other, from recognition by this other, that his value and human reality depend. It is in this other that the meaning of his life is condensed.” (p. 180)
 
-A conclusão da obra é um chamado para a luta:
+Considering that the Black person (at least the Antillean) did not truly fight for their freedom in the Hegelian sense of the struggle for recognition, since freedom came as a white concession rather than a Black conquest (according to Fanon), the author argues that this situation leaves a mark on Black individuals, as if they missed the opportunity to assert themselves as free at the moment when their masters declared them free.
 
-> “Não levamos a ingenuidade até o ponto de acreditar que os apelos à razão ou ao respeito pelo homem possam mudar a realidade. Para o preto que trabalha nas plantações de cana em Robert só há uma solução, a luta. E essa luta, ele a empreenderá e a conduzirá não após uma análise marxista ou idealista, mas porque, simplesmente, ele só poderá conceber sua existência através de um combate contra a exploração, a miséria e a fome.” (p. 186)
+> “The former slave demands that his humanity be contested; he desires a struggle, a confrontation. But it is too late: the French Black person is condemned to bite and to be bitten.” (p. 184)
 
-De fato, esta luta não é decorrente de raciocínio intelectual, de análise marxista ou idealista ou mesmo das ponderações que Fanon faz no livro sobre suas experiências buscando reconhecimento no passado. 
+> “For the French Black person, the situation is intolerable. Never sure that the white person considers them as a consciousness-in-itself-for-itself, they are continually concerned with discovering resistance, opposition, and contestation.” (p. 184)
 
-> “Os poucos companheiros operários que tive a ocasião de encontrar em Paris nunca se preocuparam com a descoberta de um passado negro. Sabiam que eram negros, mas, diziam-me, isso não muda nada de nada. No que tinham totalmente razão. (...) a alienação intelectual é uma criação da sociedade burguesa.” (p. 186)
+> “To lead a person to be active, while maintaining within their sphere of influence the respect for fundamental values that make a human world—this is the primary urgency of one who, after having reflected, prepares to act.” (p. 184)
 
-> “Todas as vezes em que um homem fizer triunfar a dignidade do espírito, todas as vezes em que um homem disser não a qualquer tentativa de opressão do seu semelhante, sinto-me solidário com seu ato.” (p. 187)
+### Conclusion
 
-> “De modo algum devo me empenhar em ressuscitar uma civilização negra injustamente ignorada. Não sou homem de passados. Não quero cantar o passado às custas do meu presente e do meu devir.” (p. 187)
+The conclusion of the work is a call to action:
 
-> “O indochinês não se revoltou porque descobriu uma cultura própria, mas “simplesmente” porque, sob diversos aspectos, não lhe era mais possível respirar. (... Os vietnamitas que morrem diante do pelotão de fuzilamento não esperam que seu sacrifício faça reaparecer o passado. É em nome do presente e do futuro que eles aceitam morrer.” (pp. 187-188)
+> “We do not carry naïveté to the point of believing that appeals to reason or respect for humanity can change reality. For the Black person who works in the sugarcane plantations in Robert, there is only one solution: the struggle. And this struggle, he will undertake and lead not after a Marxist or idealistic analysis, but simply because he can only conceive of his existence through a fight against exploitation, misery, and hunger.” (p. 186)
 
-> “Não existe missão negra. Não existe fardo branco. Desperto um dia em um mundo onde as coisas machucam; um mundo onde exigem que eu lute; um mundo onde sempre estão em jogo o aniquilamento ou a vitória.” (p. 189)
+Indeed, this struggle is not the result of intellectual reasoning, Marxist or idealist analysis, or even the considerations Fanon makes in the book about his past experiences seeking recognition.
 
-> “Desperto um belo dia no mundo e me atribuo um único direito: exigir do outro um comportamento humano. Um único dever: o de nunca, através de minhas opções, renegar minha liberdade.” (p. 189)
+> “The few working-class companions I had the occasion to meet in Paris never concerned themselves with discovering a Black past. They knew they were Black, but they told me, that doesn’t change anything. And they were completely right. (...) Intellectual alienation is a creation of bourgeois society.” (p. 186)
 
-> “Não quero, acima de tudo, ser mal compreendido. Estou convencido de que há grande interesse em entrar em contato com uma literatura ou uma arquitetura negras do século III a.C.. Ficaríamos muito felizes em saber que existe uma correspondência entre tal filósofo preto e Platão. Mas não vemos, absolutamente, em que este fato poderia mudar a situação dos meninos de oito anos que trabalham nas plantações de cana da Martinica ou de Guadalupe.” (p. 190)
+> “Every time a man makes the dignity of the spirit triumph, every time a man says no to any attempt at oppression of his fellow, I feel solidarity with his act.” (p. 187)
+
+> “In no way should I strive to resurrect an unjustly ignored Black civilization. I am not a man of the past. I do not want to sing the past at the expense of my present and future.” (p. 187)
+
+> “The Indo-Chinese did not revolt because they discovered their own culture, but ‘simply’ because, in various ways, it was no longer possible for them to breathe. (... The Vietnamese who die before the firing squad do not expect their sacrifice to bring back the past. It is in the name of the present and the future that they accept death.” (pp. 187-188)
+
+> “There is no Black mission. There is no White burden. One day I wake up in a world where things hurt; a world where they demand that I fight; a world where annihilation or victory are always at stake.” (p. 189)
+
+> “I wake up one fine day in the world and assign myself a single right: to demand human behavior from the other. A single duty: never, through my choices, to renounce my freedom.” (p. 189)
+
+> “I do not want, above all, to be misunderstood. I am convinced that there is great interest in contacting Black literature or Black architecture from the 3rd century BC. We would be very happy to know that there is a correspondence between such a Black philosopher and Plato. But we do not see, at all, how this fact could change the situation of the eight-year-old children who work in the sugarcane fields of Martinique or Guadeloupe.” (p. 190)
