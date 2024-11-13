@@ -1,5 +1,5 @@
 ---
-title: Regulating Digita Technologies
+title: Regulating Digital Technologies
 ---
 
 [[A Declaration of the Independence of Cyberspace - John Perry Barlow]]
