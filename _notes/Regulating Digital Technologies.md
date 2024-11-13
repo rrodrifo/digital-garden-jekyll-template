@@ -10,7 +10,7 @@ title: Regulating Digita Technologies
 
 [[Nodes and Gravity in Virtual Space - Andrew Murray]]
 
-[[Nudge - Improving Decisions About Health, Wealth, and Happiness - Thaler and Sunstein (Chapters 1-5)]]
+[[Nudge: Improving Decisions About Health, Wealth, and Happiness - Thaler and Sunstein (Chapters 1-5)]]
 
 [[Nudge and Manipulation of Choice - Hansen and Jespersen]]
 
