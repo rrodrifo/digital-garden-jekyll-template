@@ -5,6 +5,8 @@ title: What Larry Doesn’t Get: Code, Law and Liberty in Cyberspace - David Pos
 
 [[code 2.0]]
 
+[[Regulating Digital Technologies]]
+
 - Lessig's Argument: Politics and collective decision-making, rather than the market, should shape cyberspace to protect fundamental values.
 
 - Alternative View: Individual, uncoordinated choice in the market allows for diverse values to emerge, and this is preferable to a single collective plan.
