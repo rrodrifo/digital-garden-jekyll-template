@@ -3,7 +3,7 @@
 title: Hypernudge Big Data as a Mode of Regulation by Design - Yeung
 ---
 
-[[Nudge: Improving Decisions About Health, Wealth, and Happiness - Thaler and Sunstein (Chapters 1-5)]]
+[[Nudge Improving Decisions About Health, Wealth, and Happiness - Thaler and Sunstein (Chapters 1-5)]]
 
 - Big Data & Algorithms: Big Data combines technology and processes to analyze unstructured data using machine learning, converting data into actionable knowledge.
 
