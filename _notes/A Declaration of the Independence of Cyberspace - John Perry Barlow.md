@@ -1,6 +1,7 @@
 ---
 title: A Declaration of the Independence of Cyberspace - John Perry Barlow
 ---
+[[Regulating Digital Technologies]]
 
 - Governments have no moral right to rule cyberspace nor the methods of enforcement necessary to rule
 
