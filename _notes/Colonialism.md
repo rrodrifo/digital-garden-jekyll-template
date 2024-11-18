@@ -11,6 +11,7 @@ Repositories of links, texts, and articles on colonialism and data colonialism.
 [[Paul Gilroy]]
 
 [[Renata Avila]]
+
 > <a href="https://sur.conectas.org/en/digital-sovereignty-or-digital-colonialism/">Digital Sovereignity or Digital Colonialism</a>
 
 [[Syed Mustafa Ali]]
