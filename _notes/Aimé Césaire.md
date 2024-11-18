@@ -72,3 +72,4 @@ Césaire’s conclusion offers a brief reflection on how the power vacuum caused
 
 Comparing colonial Europe to Ancient Rome, the author recalls that the obvious reason for Rome’s fall was that, by fighting neighboring peoples who once formed a complex network of protection through non-intervention, the Romans opened the doors to attacks from other peoples with whom no balance had been established. For the author, with the end of the Second World War, a historic opportunity emerged for the United States to fill the power vacuum created by the imminent fall of European colonialism, thus becoming the new center of equally racist and violent colonialism.
 
+[[colonialism]]
