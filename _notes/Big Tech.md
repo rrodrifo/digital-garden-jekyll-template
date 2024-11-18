@@ -4,8 +4,6 @@ title: Big Tech
 
 Repository of links to texts, articles, and materials about the Big Techs.
 
-[[FloC]]
-
 
 - [[Essential Platforms - Nikolas Guggenberger]]:
 
@@ -44,3 +42,5 @@ For the author, just like the railway network, the infrastructure developed by d
 
 - The smoking gun in the Facebook Antitrust Case
 > <a href="https://www.wired.com/story/facebook-ftc-antitrust-case-smoking-gun/">Link para o artigo</a>
+
+[[Regulating Digital Technologies]]
