@@ -2,65 +2,66 @@
 title: Paul Gilroy
 ---
 
-### O Atlântico Negro e dupla consciência
+### The Black Atlantic and Double Consciousness
 
 > “The time has come for the primal history of modernity to be reconstructed from the slaves' points of view.” (p. 55)
 
 > “It is the struggle to have blacks perceived as agents, as people with cognitive capacities and even with an intellectual history - attributes denied by modern racism - that is for me the primary reason for writing this book.” (p. 6)
 
-### Prefácio
+### Preface
 
-A obra parte da tentativa de Gilroy de situar os pensadores negros em relação ao iluminismo, constatando a influência do movimento filosófico e intelectual em seus pensamentos mas também a posição única dos pensadores negros frente ao paradigma moderno. 
+The work begins with Gilroy's attempt to situate Black thinkers in relation to the Enlightenment, acknowledging the influence of the philosophical and intellectual movement on their ideas, but also the unique position of Black thinkers within the modern paradigm.
 
 > “The Black Atlantic developed from my uneven attempts to show these students that the experiences of black people were part of the abstract modernity they found so puzzling and to produce as evidence some of the things that black intellectuals had said - sometimes as defenders of the West, sometimes as its sharpest critics - about their sense of embeddedness in the modern world.” (p. ix)
 
-Gilroy avisa que espera que sua obra não seja lida a partir de lentes de “pureza racial”, até porque o texto é essencialmente um ensaio sobre a hibridez inescapável e a mistura de ideias. Além disso, clama contra a limitação das identidades, as quais o Atlântico Negro demonstra como sempre inacabadas e sendo recriadas. 
+Gilroy cautions readers against interpreting his work through the lens of "racial purity," particularly because the text is essentially an essay on inescapable hybridity and the blending of ideas. Moreover, he challenges the limitation of identities, which The Black Atlantic demonstrates as perpetually unfinished and constantly being re-created.
 
-O prefácio da edição brasileira da obra demonstra, porém, uma das principais críticas que podem ser feitas ao livro de Gilroy. A edição original do "Atlântico Negro" foi severamente criticada por ignorar completamente o Brasil, a América Latina e basicamente toda a diáspora que não seja contida nos EUA, na Inglaterra e, quando muito, no Caribe.
+The preface to the Brazilian edition of the work, however, highlights one of the main criticisms that can be made of Gilroy's book. The original edition of The Black Atlantic was heavily criticized for completely ignoring Brazil, Latin America, and essentially the entire diaspora beyond the U.S., England, and, at most, the Caribbean.
 
-Em resposta às críticas Gilroy escreve uma autocrítica em seu prefácio à edição brasileira do livro. Nesta autocrítica, porém, um dos pontos mais relevantes de serem observados é o de que de certo modo uma das discussões centrais da obra é, segundo o próprio autor, irrelevante para o contexto brasileiro. Gilroy nos indica que toda sua crítica ao essencialismo racial não faz sentido em um país no qual os Movimentos Negros ainda lutam por se reconhecerem e serem reconhecidos como negros. Em um país que nega a negritude e força goela abaixo discursos de mestiçagem e democracia racial, talvez não seja produtivo questionar o essencialismo. 
+In response to these criticisms, Gilroy writes a self-critical preface for the Brazilian edition of the book. In this self-criticism, one of the most relevant points to observe is that, in some ways, one of the central discussions of the work is, according to the author himself, irrelevant to the Brazilian context. Gilroy points out that his critique of racial essentialism does not make sense in a country where Black Movements are still fighting to recognize themselves and be recognized as Black. In a country that denies Blackness and forcefully promotes discourses of mestizaje and racial democracy, questioning essentialism may not be a productive endeavor. 
 
-Ainda assim continua relevante a crítica à adoção de uma africanidade ou negritude de tamanho único, com um único molde, vinda dos EUA, que de acordo com ele destoa da realidade da sociedade globalizada. 
+Nonetheless, the critique of adopting a one-size-fits-all model of Africanness or Blackness, shaped by the U.S. and, according to Gilroy, misaligned with the reality of a globalized society, remains relevant.
 
 ### The Black Atlantic as a Counterculture of Modernity
 
 
-O capítulo tem como objetivo apresentar alguns argumentos polêmicos que serão desenvolvidos em detalhe mais para frente no livro. Parte da demonstração de como os paradigmas nacionalistas não são suficientes quando confrontados pela formação intercultural e transnacional do Atlântico Negro.
+The chapter aims to introduce some controversial arguments that will be explored in greater detail later in the book. It begins by demonstrating how nationalist paradigms fall short when confronted with the intercultural and transnational formation of the Black Atlantic.
 
-O texto se inicia a partir da constatação de que a junção das identidades de negro e europeu exige algumas formas específicas de dupla consciência. Ser negro e europeu ao mesmo tempo é um ato de insubordinação política frente aos discursos racistas e nacionalistas de absolutismo étnico. Porém também é uma causa de um stress constante causado pela tentativa de olhar para dois lados distintos ao mesmo tempo. 
+The text opens with the observation that the merging of Black and European identities necessitates specific forms of double consciousness. Being both Black and European simultaneously constitutes an act of political insubordination against the racist and nationalist discourses of ethnic absolutism. However, it is also a source of constant tension, stemming from the effort to navigate two distinct perspectives at once.
 
-A caracterização de identidades (por vezes supostamente excludentes) a partir de cores e tons de pele é uma característica essencial da modernidade:
+The characterization of identities—often perceived as mutually exclusive—based on skin colors and tones is an essential feature of modernity.
 
 > “Though largely ignored by recent debates over modernity and its discontents, these ideas about nationality, ethnicity, authenticity, and cultural integrity are characteristically modern phenomena that have profound implications for cultural criticism and cultural history.” (p. 2)
 
-Porém:
+However:
 
 > “Any shift towards a postmodern condition should not, however, mean that the conspicuous power of these modern subjectivities and the movements they articulated has been left behind. Their power has, if anything, grown, and their ubiquity as a means to make political sense of the world is currently unparalleled by the languages of class and socialism by which they once appeared to have been surpassed.” (p. 2)
 
-Em contraponto às ideias de nacionalismo cultural que o autor vê se reproduzindo por todo o espectro político, Gilroy reflete sobre a “mestiçagem” e hibridez de culturas. Afinal, noções de nacionalidade, etnicidade, integridade cultural são subjetividades modernas pautadas pelo racismo e colonialismo.
+In contrast to the ideas of cultural nationalism, which the author sees reproduced across the political spectrum, Gilroy reflects on the "mestizaje" and hybridity of cultures. After all, notions of nationality, ethnicity, and cultural integrity are modern subjectivities shaped by racism and colonialism.
 
-Gilroy apresenta então os navios, sistemas vivos, micro-culturais e micro-políticos móveis, representações do movimento, da ida e do retorno, da exportação e importação de ideias, e artefatos, como eixo central de sua conceituação da identidade:
+Gilroy then introduces ships—living systems, mobile micro-cultural and micro-political entities—as representations of movement, departure and return, and the export and import of ideas and artifacts. These serve as the central axis of his conceptualization of identity:
  
 > “I have settled on the image of ships in motion across the spaces between Europe, America, Africa, and the Caribbean as a central organising symbol for this enterprise and as my starting point.” (p. 4)
 
-O Atlântico Negro é, para Gilroy, uma formação transcultural e internacional, composta de uma estrutura rizomática e fractal. 
+For Gilroy, The Black Atlantic represents a transcultural and international formation, characterized by a rhizomatic and fractal structure.
 
-→ Estudos culturais em preto e branco
+→ Cultural Studies in Black and White
 
-Gilroy aponta para os problemas conspícuos dos chamados “estudos culturais” referentes ao nacionalismo e etnocentrismo. A própria questão de “a cultura de quem?” por muitas vezes define a atenção que será dada aos estudos culturais. 
-Há, para o autor, uma disputa entre negar estudos culturais que sejam pautados pela racialização do outro como objeto de conhecimento, de poder e de crítica cultural e entre valorizar a importância de as expressões culturais negras serem levadas a sério na academia. 
+Gilroy highlights the glaring issues within so-called “cultural studies,” particularly their ties to nationalism and ethnocentrism. The very question of “whose culture?” often determines the focus and scope of cultural studies.
+
+According to Gilroy, there is a tension between rejecting cultural studies that racialize the “other” as an object of knowledge, power, and cultural critique, and recognizing the importance of taking Black cultural expressions seriously within academia.
 
 > “It is significant that prior to the consolidation of scientific racism in the nineteenth century the term "race" was used very much in the way that the word "culture" is used today. (...) As far as the future of cultural studies is concerned, it should be equally important that both were centrally employed in those European attempts to think through beauty, taste, and aesthetic judgement that are the precursors of contemporary cultural criticism.” (p. 8)
 
-Gilroy propõe a superação das perspectivas nacionais e nacionalistas de análise da cultura negra: 
+Gilroy proposes transcending national and nationalist perspectives in the analysis of Black culture:
 
 > “Getting beyond these national and nationalistic perspectives has become essential for two additional reasons. The first arises from the urgent obligation to reevaluate the significance of the modern nation state as a political, economic, and cultural unit. (...) The second reason relates to the tragic popularity of ideas about the integrity and purity of cultures. In particular, it concerns the relationship between nationality and ethnicity.” (p. 7)
 
-O autor começa a expor a importância do Atlântico, das navegações e do intercâmbio de leituras radicais e vivências entre os negros marinheiros e/ou que viajam entre o novo e velho mundo para a formação intelectual das identidades. 
+The author begins to highlight the importance of the Atlantic, navigation, and the exchange of radical ideas and experiences among Black sailors and travelers moving between the New and Old Worlds in shaping intellectual identities.
 
 > “the Morant Bay Rebellion in Jamaica in 1865 (...) is doubly significant because it represents an instance of metropolitan, internal conflict that emanates directly from an external colonial experience. These crises in imperial power demonstrate their continuity. It is part of my argument that this inside/outside relationship should be recognised as a more powerful, more complex, and more contested element in the historical, social, and cultural memory of our glorious nation than has previously been supposed.” (p. 11)
 
-Neste sistema, o navio toma posição central: 
+In this system, the ship assumes a central position:
 
 > Linebaugh: "the ship remained perhaps the most important conduit of Pan-African communication before the appearance of the long-playing record." (p. 13)
 
@@ -72,101 +73,100 @@ Neste sistema, o navio toma posição central:
 
 > “In opposition to both of these nationalist or ethnically absolute approaches, I want to develop the suggestion that cultural historians could take the Atlantic as one single, complex unit of analysis in their discussions of the modern world and use it to produce an explicitly transnational and intercultural perspective.” (p. 15)
 
-Gilroy cita diversos autores e figuras históricas negras que, partindo de diferentes países, tiveram o contato com o estrangeiro como parte formante de suas visões que futuramente viriam a pautar o pensamento negro moderno. Exemplo mais extensamente tratado disso é a vida de Martin Delany. 
+Gilroy references several Black authors and historical figures who, originating from different countries, found their contact with foreign cultures to be a formative element of their perspectives, which later shaped modern Black thought. The most extensively discussed example is the life of Martin Delany.
 
 > “The specificity of the modern political and cultural formation I want to call the black Atlantic can be defined, on one level, through this desire to transcend both the structures of the nation state and the constraints of ethnicity and national particularity.” (p. 19)
 
-Gilroy relata como a viagem de Delany para África trouxe sentimentos sóbrios de que uma conexão espiritual com a terra não seriam fonte de uma conexão automática e consistente entre todos os negros diaspóricos. A noção iluminista de “civilização” já estava de certo modo impregnada na visão de Delany, inclusive em suas utopias e planos futuros para a população negra norte-americana. Como diz Gilroy, o simples retorno à África não serviria. 
+Gilroy recounts how Delany’s journey to Africa brought sobering realizations that a spiritual connection to the land would not automatically or consistently forge a bond among all members of the Black diaspora. The Enlightenment notion of "civilization" had, to some extent, already permeated Delany’s vision, including his utopias and future plans for the Black population in the United States. As Gilroy states, a simple return to Africa would not suffice.
 
-Na obra “Blake”, de Delany, Gilroy encontra a negritude como uma questão de política mais do que de condição cultural comum (p. 27). 
+In Delany's work Blake, Gilroy sees Blackness as more of a political issue than a matter of shared cultural condition (p. 27).
 
 → Black Politics and Modernity
 
-Este tópico do livro trata das nuances sobre a possibilidade do nacionalismo servir como fonte e forma de resistência negra. 
+This section of the book explores the nuances surrounding the possibility of nationalism serving as a source and form of Black resistance.
 
 > “The recent history of blacks, as people in but not necessarily of the modern, western world, a history which involves processes of political organisation that are explicitly transnational and international in nature, demands that this question is considered very carefully.” (p. 29)
 
 > “Are the inescapable pluralities involved in the movements of black peoples, in Africa and in exile, ever to be synchronised?” (p. 30)
 
-Ainda usando Delany como exemplo, Gilroy apresenta duas visões que para ele são duas facetas do essencialismo:
+Still using Delany as an example, Gilroy presents two views that, for him, represent two facets of essentialism:
 
 > “They can be loosely identified as the essentialist and the pluralist standpoints though they are in fact two different varieties of essentialism: one ontological, the other strategic." (p. 31)
 
-Sobre a posição essencialista ontológica:
+About the ontological essentialist view:
 
 > “The ontological essentialist view has often been characterised by a brute pan-Africanism. It has proved unable to specifY precisely where the highly prized but doggedly evasive essence of black artistic and political sensibility is currently located, but that is no obstacle to its popular circulation. ” (p. 31)
 
-E sobre a visão pluralista:
+And about the pluralistic position
 
 > “This perspective currently confronts a pluralistic position which affirms blackness as an open signifier and seeks to celebrate complex representations of a black particularity that is internally divided: by class, sexuality, gender, age, ethnicity, economics, and political consciousness. The difficulty with this second tendency is that in leaving racial essentialism behind by viewing "race" itself as a social and cultural construction, it has been insufficiently alive to the lingering power of specifically racialised forms of power and subordination. ” (p. 32)
 
 > “No less than their predecessor Martin Delany, today's black intellectuals have persistently succumbed to the lure of those romantic conceptions of "race," "people," and "nation" which place themselves, rather than the people they supposedly represent, in charge of the strategies for nation building, state formation, and racial uplift” (p. 34)
 
-Essencialismo e pluralismo como perspectivas distintas mas simbióticas. Para Gilroy, ambas são variedades de essencialismo, uma ontológica e outra estratégica. A visão ontológica é caracterizada por um pan-Africanismo bruto, na qual há um descompasso entre “o intelectual” e a “massa”, e que é o trabalho do intelectual apresentar às massas a consciência racial. Por outro lado, a posição pluralista afirma a negritude como um significante aberto, podendo ser o negro internamente dividido por classe, sexualidade, gênero, etc. Não há uma noção unitária de comunidade negra. 
+Essentialism and pluralism are presented as distinct but symbiotic perspectives. For Gilroy, both are varieties of essentialism—one ontological and the other strategic. The ontological view is characterized by a crude Pan-Africanism, where there is a disconnect between “the intellectual” and “the masses,” with the intellectual’s task being to present racial consciousness to the masses. On the other hand, the pluralist position sees Blackness as an open signifier, acknowledging that Black identity can be internally divided by class, sexuality, gender, etc. There is no unified notion of the Black community.
 
-A noção dos negros como um grupo nacional ou proto-nacional com sua cultura própria isolada serve a função de mistificação, que para o autor impede e censura quaisquer debates sobre as inconsistências e incoerências do discurso Africológico. 
+The notion of Black people as a national or proto-national group with its own isolated culture serves a mystifying function, which, according to the author, prevents and censors any discussions about the inconsistencies and contradictions within Africological discourse.
 
 
-
-Para concluir o capítulo o autor afirma que a expressão musical negra foi responsável pela reprodução do que Bauman chama de uma contracultura da modernidade. 
+To conclude the chapter, the author asserts that Black musical expression was responsible for reproducing what Bauman refers to as a counterculture of modernity.
 
 > “The vitality and complexity of this musical culture offers a means to get beyond the related oppositions between essentialists and pseudo-pluralists on the one hand and between totalising conceptions of tradition, modernity, and post-modernity on the other.” (p. 36)
 
-Gilroy resume as dinâmicas filosóficas dessa contracultura a partir de dois pontos: do caráter normativo e das aspirações utópicas. 
+Gilroy summarizes the philosophical dynamics of this counterculture in two key points: its normative character and its utopian aspirations.
 
-O caráter normativo consiste da exigência pelo cumprimento das promessas não cumpridas na sociedade. Por meio da expressão das incongruências e hipocrisias da sociedade, a arte dessa contracultura aponta para as falhas da sociedade, para a injustiça racializada, etc. Para Gilroy, consiste das políticas de concretização (politics of fulfillment). 
+The normative character involves the demand for the fulfillment of unkept promises in society. Through the expression of societal incongruities and hypocrisies, the art of this counterculture highlights the flaws of society, such as racialized injustice, among others. For Gilroy, this aligns with the politics of fulfillment.
 
-A questão das utopias, porém, é mais complexa. Nas chamadas políticas de transfiguração, a contracultura negra exprime novos desejos, novas relações sociais, novos modos de associação com a interpretação e resistência racial e entre grupos e frente aos opressores. Estas políticas de transfiguração permitem imaginar um passado anti-moderno e um futuro pós-moderno. 
+The question of utopias, however, is more complex. In what are called politics of transfiguration, Black counterculture expresses new desires, new social relations, and new ways of associating with racial interpretation and resistance, both within groups and against oppressors. These politics of transfiguration allow for imagining an anti-modern past and a post-modern future.
 
 > “The politics of transfiguration therefore reveals the hidden internal fissures in the concept of modernity.” (p. 38)
 
-Sobre a posição do marxismo para a interpretação da situação desta sociedade em que se ergue a contracultura negra:
+Regarding the Marxist position on interpreting the situation of the society in which Black counterculture arises:
 
 > “However, where lived crisis and systemic crisis come together, Marxism allocates priority to the latter while the memory of slavery insists on the priority of the former.” (p. 40)
 
 ### Masters, Mistresses, Slaves, and the Antinomies of Modernity 
 
-O segundo capítulo da obra trata principalmente de como os conceitos teóricos de modernidade ignoram de forma gritante a questão da “raça”. Para o autor, a escravidão racial foi essencial para a civilização ocidental e para a própria formação da modernidade. 
+The second chapter of the work mainly addresses how theoretical concepts of modernity glaringly ignore the issue of "race." For the author, racial slavery was essential to Western civilization and to the very formation of modernity.
 
-A discussão se inicia pelas teorias contemporâneas à Gilroy sobre a pós-modernidade, como as trazidas por Habermas e Lyotard, entre outros. Gilroy aponta que alguns destes teóricos retornaram à modernidade como meio de identificar e demarcar o que seria novo ou original na chamada pós-modernidade. Outros, como Lyotard, analisam o pós-moderno como uma simples substituição do moderno, sem maior aprofundamento entre os momentos históricos que separam a modernidade da pós-modernidade ou a relação desta com os processos de modernização.
+The discussion begins with theories contemporary to Gilroy on postmodernity, such as those presented by Habermas and Lyotard, among others. Gilroy points out that some of these theorists returned to modernity as a way to identify and delineate what would be new or original in the so-called postmodernity. Others, like Lyotard, analyze the postmodern as a simple replacement of the modern, without delving into the historical moments that separate modernity from postmodernity or the relationship between the two and the processes of modernization.
 
 > “Defenders and critics of modernity seem to be equally unconcerned that the history and expressive culture of the African diaspora, the practice of racial slavery, or the narratives of European imperial conquest may require all simple periodisations of the modern and the postmodern to be drastically rethought.” (p. 42)
 
-Analisando a pós-modernidade como o que Habermas chama de “continuidade do projeto iluminista”, Gilroy questiona se a chamada crise da modernidade e dos valores modernos não seria realmente uma crise dos intelectuais cuja consciência era anteriormente embasada nestes valores. 
+Analyzing postmodernity as what Habermas calls the “continuation of the Enlightenment project,” Gilroy questions whether the so-called crisis of modernity and modern values might actually be a crisis of intellectuals whose consciousness was previously grounded in these values.
 
 > “It can be argued that much of the supposed novelty of the post-modern evaporates when it is viewed in the unforgiving historical light of the brutal encounters between Europeans and those they conquered, slaughtered, and enslaved. The periodisation of the modern and the postmodern is thus of the most profound importance for the history of blacks in the West and for chronicling the shifting relations of domination and subordination between Europeans and the rest of the world. It is essential for our understanding of the category of "race" itself and of the genesis and development of successive forms of racist ideology. It is relevant, above all, in elaborating an interpretation of the origins and evolution of black politics. A concept of modernity that is worth its salt ought, for example, to have something 'to contribute to an analysis of how the particular varieties of radicalism articulated through the revolts of enslaved people made selective use of the ideologies of the western Age of Revolution and then flowed into social movements of an anti-colonial and decidedly anti-capitalist type. Lastly, the overcoming of scientific racism (one of modernity's more durable intellectual products) and its post-war transmutation into newer, cultural forms that stress complex difference rather than simple biological hierarchy may provide a telling, concrete example of what scepticism towards the grand narratives of scientific reason adds up to.” (p. 43)
 
-A análise de modernidade para Gilroy não deve somente incluir os intelectuais negros relegados ao esquecimento ou propositalmente omitidos, mas também inverter a relação entre margem e centro presente dentro dos discursos de supremacia racial. Para tal, faz-se necessário repensar a relação moderna entre o mestre e o escravo. 
+For Gilroy, the analysis of modernity should not only include Black intellectuals who have been relegated to obscurity or intentionally omitted, but also invert the relationship between margin and center found within discourses of racial supremacy. To achieve this, it is necessary to rethink the modern relationship between master and slave.
 
 → Slavery and the Enlightenment Project
 
 > “I propose that the history of the African diaspora and a reassessment of the relationship between modernity and slavery may require a more complete revision of the terms in which the modernity debates have been constructed than any of its academic participants may be willing to concede.” (p. 46)
 
-Em contraposição à Berman, Gilroy afirma que a modernidade não pode ser vista como um movimento uniforme e que atingia a todos, mas como experiências cheias de variação e descontinuidade, e com uma inescapável pluralidade de subjetividades e identidades. 
+n contrast to Berman, Gilroy argues that modernity cannot be seen as a uniform movement that affected everyone, but rather as experiences full of variation and discontinuity, with an inescapable plurality of subjectivities and identities.
 
-Gilroy demonstra como Berman em sua obra anexa as formas culturais do Atlântico Negro à imagem da classe trabalhadora ocidental, por meio de uma inabilidade de dar o devido peso à pluralidade que, para Gilroy, é integral para o moderno e contraria a proposta de Berman de uma identidade moderna totalizante. Existem diversas identidades possíveis, e as diferenças entre a “identidade negra” e a identidade homogênea moderna não se dão pela exclusão dos negros do esquema da modernidade. Afinal, as expressões culturais da identidade negra surgem das plantações e engenhos de cana, instituições distintivamente modernas. 
+Gilroy demonstrates how Berman, in his work, links the cultural forms of the Black Atlantic to the image of the Western working class, due to his inability to give proper weight to the plurality that, for Gilroy, is integral to modernity and contradicts Berman's proposal of a totalizing modern identity. There are multiple possible identities, and the differences between "Black identity" and the homogeneous modern identity are not defined by the exclusion of Black people from the modern framework. After all, the cultural expressions of Black identity emerge from the plantations and sugar mills, institutions that are distinctly modern.
 
 > “The key to comprehending this lies not in the overhasty separation of the cultural forms particular to both groups into some ethnic typology but in a detailed and comprehensive grasp of their complex interpenetration. The intellectual and cultural achievements of the black Atlantic populations exist partly inside and not always against the grand narrative of Enlightenment and its operational principles” (p. 48)
 
-Definição de Modernidade para Gilroy:
+Gilroys definition of modernity:
 
 > “Modernity is understood as a distinct configuration with its own spatial and temporal characteristics defined above all through the consciousness of novelty that surrounds the emergence of civil society, the modern state, and industrial capitalism.” (p. 49)
 
-O autor comenta sobre o apagamento de questões e temas referentes ao colonialismo e à escravidão como parte formante da modernidade, indissociável até mesmo da vida e obra dos exponentes filosóficos do iluminismo e das grandes figuras históricas. Este apagamento, bem como a hipocrisia dos autores iluministas ao tratar das colônias e dos escravizados é tratado de modo profundo em [[Susan Buck-Morss]].
+The author comments on the erasure of issues and themes related to colonialism and slavery as foundational elements of modernity, inseparable even from the lives and works of Enlightenment philosophers and major historical figures. This erasure, as well as the hypocrisy of Enlightenment authors in addressing the colonies and enslaved people, is deeply explored in [[Susan Buck-Morss]].
 
-Este apagamento faz com que, por esta ótica, a escravidão seja vista como parte da história dos negros, e não como parte da história da Europa:
+This erasure causes, from this perspective, slavery to be seen as part of the history of Black people, rather than as part of the history of Europe:
 
 > “In this setting, it is hardly surprising that if it is perceived to be relevant at all, the history of slavery is somehow assigned to blacks. It becomes our special property rather than a part of the ethical and intellectual heritage of the West as a whole. This is only just preferable to the conventional alternative response which views plantation slavery as a premodern residue that disappears once it is revealed to be fundamentally incompatible with enlightened rationality and capitalist industrial production.” (p. 49)
 
-Gilroy encontra dois pontos significativos a serem analisados na “fenomenologia da mente” de Hegel. Primeiro, afirma que o início da obra aponta diretamente para a associação íntima entre a modernidade e a escravidão. O segundo ponto relevante diz respeito aos conflitos e formas de dependência inerentes à relação entre senhor e escravo trabalhados pelo autor que abrem caminho para tratar do brutalismo e do terror modernos que são comumente ignorados. 
+Gilroy identifies two significant points to be analyzed in Hegel's Phenomenology of Spirit. First, he argues that the beginning of the work directly points to the intimate association between modernity and slavery. The second relevant point concerns the conflicts and forms of dependency inherent in the master-slave relationship, as explored by Hegel, which pave the way for addressing the modern brutalism and terror that are commonly ignored.
 
 > “Taken together, these problems offer an opportunity to transcend the unproductive debate between a Eurocentric rationalism which banishes the slave experience from its accounts of modernity while arguing that the crises of modernity can be resolved from within, and an equally occidental anti-humanism which locates the origins of modernity's current crises in the shortcomings of the Enlightenment project” (p. 54)
   
-A força criativa das populações do Atlântico Negro oferece uma saída para esta situação:
+The creative force of the populations of the Black Atlantic offers a way out of this situation:
 
 > “The way these populations continue to make creative, communicative use of the memory of slavery points constructively away from the twin positions that have overdetermined the debate on modernity so far - an uncritical and complacent rationalism and a self-conscious and rhetorical anti-humanism which simply trivialises the potency of the negative.” (p. 55)
 
-Sobre a escravidão e a forma econômica das Plantations:
+About slavery and the Plantation economic system:
 
 > “Plantation slavery was more than just a system of labour and a distinct mode of racial domination. Whether it encapsulates the inner essence of capitalism or was a vestigial, essentially precapitalist element in a dependant relationship to capitalism proper, it provided the foundations for a distinctive network of economic, social, and political relation” (p. 54-55)
 
@@ -180,48 +180,50 @@ Sobre a escravidão e a forma econômica das Plantations:
 
 → Lord and bondsman in a Black Idiom
 
-Gilroy trata da vida e das autobiografias de Frederick Douglass, afirmando que sua relação com a modernidade era uma complexa e mutável. 
+Gilroy discusses the life and autobiographies of Frederick Douglass, asserting that his relationship with modernity was complex and mutable.
 
-Tratando da viagem de Douglass ao Egito, Gilroy apresenta o poder da civilização egípcia sobre o imaginário diaspórico:
+Regarding Douglass's trip to Egypt, Gilroy highlights the power of Egyptian civilization over the diasporic imagination:
  
 > “Egypt also provided the symbolic means to locate the diaspora's critique of Enlightenment universals outside the philosophical repertoire of the West.”  (p. 60)
 
-Sobre Hegel, Gilroy afirma que Douglass inverteu a metanarrativa do poder de Hegel em uma metanarrativa de emancipação.
+Regarding Hegel, Gilroy asserts that Douglass inverted Hegel's metanarrative of power into a metanarrative of emancipation.
 
 > “Douglass can be read as if he is systematically reworking the encounter between master and slave in a striking manner which inverts Hegel's own allegorical scheme. It is the slave rather than the master who emerges from Douglass's account possessed of "consciousness that exists for itself," while his master becomes the representative of a "consciousness that is repressed within itself."” (p. 60)
 
 > “In Hegel's allegory, which correctly places slavery at the natal core of modern sociality, we see that one solipsistic combatant in the elemental struggle prefers his conqueror's version of reality to death and submits. He becomes the slave while the other achieves mastery. Douglass's version is quite different. For him, the slave actively prefers the possibility of death to the continuing condition of inhumanity on which plantation slavery depends.” (p. 63)
 
-Sobre a violência e a luta:
+About violence and struggle: 
 
 “Douglass's departure from the pacifism that had marked his early work is directly relevant to his critical understanding of modernity. It underscored the complicity of civilisation and brutality while emphasising that the order of authority on which the slave plantation relied cannot be undone Without recourse to the counter-violence of the oppressed.” (p. 63)
 
-A partir dos relatos da vida de Douglass e de outros escravizados fugidos, incluindo o trágico caso de uma mãe escravizada que, encurralada pelos capatazes de seu senhor após uma fuga mal sucedida, mata a própria filha, Gilroy demonstra como a realidade dos escravos contradiz a tese de Hegel de que estes prefeririam a submissão à morte, de modo a concluir a inversão da teoria Hegeliana a partir da vivência de Frederick Douglass. 
+From the accounts of Douglass's life and other escaped slaves, including the tragic case of an enslaved mother who, cornered by her master's overseers after a failed escape, kills her own daughter, Gilroy demonstrates how the reality of slaves contradicts Hegel's thesis that they would prefer submission to death. This serves to conclude the inversion of Hegelian theory based on the lived experience of Frederick Douglass.
 
 
 ### Jewels Brought from Bondage: Black Music and the Politics of Authenticity
 
-Este capítulo traz os conceitos tratados pela obra a partir dos exemplos e da análise com a música negra. A partir desta conexão, o capítulo tenta demonstrar as razões pelas quais uma polarização entre as visões “essencialistas” e “não essencialistas” sobre raça não são mais úteis, propondo a utilização de conceitos anti-anti-essencialistas. 
+This chapter presents the concepts discussed in the work through examples and analysis of Black music. From this connection, the chapter attempts to demonstrate why a polarization between "essentialist" and "non-essentialist" views on race is no longer useful, proposing the use of anti-anti-essentialist concepts.
 
 > “Through a discussion of music and its attendant social relations, I want to clarify some of the distinctive attributes of black cultural forms which are both modern and modernist. They are modern because they have been marked by their hybrid, creole origins in the West, because they have struggled to escape their status as commodities and the position within the cultural industries it specifies, and because they are produced by artists whose understanding of their own position relative to the racial group and of the role of art in mediating individual creativity with social dynamics is shaped by a sense of artistic practice as an autonomous domain either reluctantly or happily divorced from the everyday lifeworld.” (p. 73)
 
-Essas obras musicais tem um poder especial que deriva de uma duplicidade, de sua localização incerta simultaneamente dentro e fora das convenções e regras estéticas da modernidade. 
+These musical works have a special power that derives from a duality, from their uncertain location, simultaneously inside and outside the conventions and aesthetic rules of modernity.
 
-Gilroy critica a noção moderna de que há uma primazia das conquistas políticas da burguesia em relação à ideologia e aos discursos culturais, criticando também o enfoque que essa visão dá à textualidade. 
+Gilroy criticizes the modern notion that the political achievements of the bourgeoisie take precedence over ideology and cultural discourses, also criticizing the emphasis this view places on textuality.
 
-O autor afirma que trabalhar com as formas contemporâneas de cultura expressiva negra envolve um problema em particular, que é o problema de qual status analítico deve ser dado à variação presente entre comunidades negras e culturas negras que é revelada pelos seus hábitos culturais e musicais. 
+The author states that working with contemporary forms of Black expressive culture involves a particular problem, which is the issue of what analytical status should be given to the variation present among Black communities and Black cultures, revealed through their cultural and musical practices.
 
-Esta questão nos leva diretamente à questão sobre o essencialismo do ser negro e novamente ao problema do nacionalismo na formação das identidades negras. 
+This issue leads us directly to the question of the essentialism of Black being and again to the problem of nationalism in the formation of Black identities. 
 
 > “With a few noble exceptions, critical accounts of the dynamics of black subordination and resistance have been doggedly monocultural, national, and ethnocentric. This impoverishes modern black cultural history because the transnational structures which brought the black Atlantic world into being have themselves developed and now articulate its myriad forms into a system of global communications constituted by flows. ” (p. 80)
 
-Gilroy apresenta a proliferação de uma nova ortodoxia analítica que, em nome do anti-essencialismo e do rigor teórico, considera que como a particularidade negra é social e historicamente construída e a pluralidade é inescapável, não há então razão nem espaço para a tentativa de identificação de alguma dinâmica, estrutura ou sentimento unificador na cultura negra contemporânea. Periferia é periferia em todo lugar?
+Gilroy presents the proliferation of a new analytical orthodoxy that, in the name of anti-essentialism and theoretical rigor, argues that since Black particularity is socially and historically constructed and plurality is inescapable, there is no reason or space for attempting to identify any unifying dynamics, structure, or sentiment in contemporary Black culture. 
 
-Concordando que a consideração das similaridades e diferenças entre as culturas negras continua sendo uma necessidade urgente, Gilroy afirma que a ortodoxia analítica acima citada é prematura em sua rejeição do problema da teorização da identidade negra. 
+Periferia é periferia em todo lugar. 
+
+Agreeing that the consideration of similarities and differences between Black cultures remains an urgent need, Gilroy asserts that the aforementioned analytical orthodoxy is premature in its rejection of the problem of theorizing Black identity. 
 
 → UK Blak 
 
-As comunidades negras no Reino Unido, por seu histórico de serem majoritariamente comunidades surgidas após a Segunda Guerra Mundial, acabam por ter mais em comum em relação à imigração do que à escravidão. Por essa razão é possível identificar subculturas dentro destas comunidades decorrentes de influências diretas do Caribe e da América negra. 
+Black communities in the United Kingdom, due to their history of being predominantly formed after World War II, tend to have more in common in terms of immigration than slavery. For this reason, it is possible to identify subcultures within these communities that result from direct influences from the Caribbean and Black America.
 
 > “In dealing with the relationship of race to class it has been commonplace to recall Stuart Hall's suggestive remark that the former is the modality in which the latter is lived.” (p. 85)
 
