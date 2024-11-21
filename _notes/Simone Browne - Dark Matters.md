@@ -2,21 +2,19 @@
 title: Simone Browne - Dark Matters
 ---
 
-A obra "Dark Matters" publicada por Simone Browne em 2015 rapidamente se tornou um dos mais importantes e influentes estudos acerca dos Surveillance Studies. Ao envolver sua revisão completa dos textos seminais da área de estudos com seu recorte racial, a autora reestrutura as discussões acerca dos modelos panópticos e pós-panópticos de maneira a revolucionar seus significados e potencialidades de compreensão. Uma vez desvelado, o poder exercido pelos mecanismos de controle racial em cima dos mecanismos de vigilânicias não pode ser mais ignorado, motivo pelo qual o presente texto, ainda que recente, já se torna leitura obrigatória que deve influenciar todos os estudos sobre vigilância posteriores à sua publicação. 
+The work Dark Matters, published by Simone Browne in 2015, quickly became one of the most important and influential studies on Surveillance Studies. By involving a comprehensive review of the seminal texts in the field with her racial perspective, the author restructures the discussions surrounding panoptic and post-panoptic models in a way that revolutionizes their meanings and potential for understanding. Once revealed, the power exerted by racial control mechanisms over surveillance mechanisms can no longer be ignored, which is why this text, though recent, already becomes essential reading that should influence all surveillance studies published after it.
 
 <img src="/assets/browne.jpeg"/>
 
 
-Browne se utiliza de diversos mecanismos didáticos para demonstrar como os dispositivos de vigilância moderno são indissociáveis do policiamento e perseguição da população negra durante e após a escravidão. Com base nos conceitos de [[Frantz Fanon]] a autora desenvolve seu conceito principal de digital epidermalization, que resume a experiência de inserção da raça no corpo do sujeito a partir desta inserção em seus dados, que são tornados racializados. 
+Browne uses various educational mechanisms to demonstrate how modern surveillance devices are inseparable from the policing and persecution of Black populations during and after slavery. Based on the concepts of [[Frantz Fanon]], the author develops her main concept of digital epidermalization, which encapsulates the experience of race being inserted into the body of the subject through the insertion of race into their data, which are then racialized.
+
+One example of how the insertion of this key of understanding modifies our comprehension of these devices and exposes the incompleteness of any analysis of surveillance devices that does not consider the dimension of racism in the formulation and implementation of surveillance is the case of Bentham's Panopticon.
 
 
-Um exemplo de como a inserção desta chave de compreensão modifica a nossa compreensão acerca destes dispositivos e escancara a incompletude de qualquer análise dos dispositivos de vigilância que não considere a dimensão do racismo na formulação e implementação da vigilância é o caso do Panóptico de Bentham. 
+In academic circles, it is attributed to Foucault's reinterpretation of Bentham's Panopticon the emergence of what is called "Surveillance Studies" as an autonomous discipline. However, Browne shows us that even before the emergence of the Panopticon or the modern prison on European soil, surveillance technologies structured in a modern way and seeking ubiquity were already being imposed on the enslaved Black bodies. This fact is exacerbated by comparing the layout of the slave ship Brooks with the layout of the Panopticon-style prisons developed by Bentham, or by the realization that the English utilitarian had spent the years prior to developing the Panopticon studying and commenting on the methods of torture, punishment, and surveillance imposed on the enslaved in his diaries and letters to his brother.
 
-
-Nos meios acadêmicos se atribui à releitura do panóptico de Bentham por Foucault o surgimento dos chamados “Surveillance Studies”, ou estudos sobre vigilância, como disciplina autônoma. Porém, Browne nos demonstra que, antes mesmo do surgimento do panóptico ou mesmo da prisão moderna em solo europeu, tecnologias de vigilância estruturadas de maneira moderna e buscando a ubiquidade já eram impostas aos corpos negros que eram escravizados, fato que é exacerbado pela comparação da planta do navio negreiro Brooks com a planta das prisões em formato panóptico desenvolvida por Bentham, ou pela constatação de que o utilitarista inglês havia passado os anos anteriores ao desenvolvimento do panóptico estudando e comentando os métodos de tortura, punição e vigilância impostos aos escravizados em seus diários e cartas com seu irmão. 
-
-
-Apresento aqui algumas citações da obra de Browne que considero relevantes:
+Here, I present some relevant quotes from Browne's work that I find important:
 
 > “Fanon put forth the idea that modernity can be characterized by the “mise en fiches de l’homme.” These are the records, files, time sheets, and identity documents that together form a biography, and sometimes an unauthorized one, of the modern subject.”
 
