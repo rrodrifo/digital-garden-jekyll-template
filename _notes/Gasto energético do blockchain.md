@@ -1,33 +1,34 @@
 ---
-title: Gasto energético do Blockchain
+title: Blockchain Energy Consumption
 ---
 
-Ainda que promissora, a tecnologia do blockchain deve ser analisada com cuidado. Por seu verdadeiro potencial de solucionar problemas em diversas áreas, mas também por todo o marketing e até mesmo pela propaganda exagerada ou enganosa em cima de seu potencial, sem contar pela complexidade do processo em que funciona o blockchain, é possível que alguns aspectos negativos da tecnologia tenham sido ignorados em parte pela academia, mas principalmente pelo mercado.
+Although promising, blockchain technology must be analyzed carefully. This is due to its genuine potential to solve problems across various fields, but also because of all the marketing and even exaggerated or misleading claims about its potential. Additionally, considering the complexity of how blockchain operates, it is possible that some negative aspects of the technology have been overlooked, partly by academia but especially by the market.
 
-O principal destes aspectos negativos diz respeito ao impacto ambiental gerado pelo desenvolvimento e pela expansão do blockchain, em especial em questão do gasto energético exigido para se implementar e manter em funcionamento a tecnologia. 
+The most significant of these negative aspects concerns the environmental impact caused by the development and expansion of blockchain, particularly regarding the energy consumption required to implement and maintain the technology.
 
-Para comprovar a autenticidade de cada bloco dentro de um blockchain, de modo a gerar um consenso e confiança nos resultados do processo, as principais aplicações de blockchain se utilizam de um processo intitulado Proof-of-Work (PoW).
+To verify the authenticity of each block within a blockchain and to establish consensus and trust in the process's results, the main blockchain applications use a process called Proof-of-Work (PoW).
+
 > <a href="https://www.researchgate.net/publication/335993117_Cryptodamages_Monetary_value_estimates_of_the_air_pollution_and_human_health_impacts_of_cryptocurrency_mining">Crypto Damages: monetary value estimates of the air pollution and human health impacts of cryptocurrency</a>
 
-Este processo, de modo resumido e simplificado, consiste em uma “corrida” entre diferentes “miners” que, utilizando de seus poderes computacionais, participam de rounds em que o primeiro miner a conseguir comprovar a autenticidade de um bloco de dados recebe uma recompensa financeira. 
+This process, in a simplified summary, involves a "race" among different "miners" who, using their computational power, participate in rounds where the first miner to successfully verify the authenticity of a data block receives a financial reward. 
 
-Esta comprovação se dá por meio de técnicas de “brute force”, que buscam encontrar o valor original que, criptografado em uma função tipo hash, equivale ao valor informado no bloco. O grande problema com as técnicas de PoW é o de que, conforme a oferta dos ativos que o blockchain busca autenticar diminui, por exemplo, conforme diminui a oferta de bitcoin em relação à sua demanda, o poder computacional exigido para que o “mining” continue gerando dinheiro e trazendo resultados necessariamente se torna maior. 
+This verification is achieved through "brute force" techniques, which aim to find the original value that, when encrypted through a hash function, matches the value provided in the block. The major issue with PoW techniques is that as the supply of the assets the blockchain aims to authenticate decreases—for instance, as the supply of Bitcoin diminishes relative to its demand—the computational power required for mining to remain profitable and yield results necessarily increases.
 
-Com o drástico aumento da utilização do blockchain entre 2016-2018, também foi drástico o aumento da força computacional necessária para manter o modelo do Proof-of-Work funcional, igualmente sendo drástico o aumento do gasto energético para manter o funcionamento da atividade. 
+With the drastic rise in blockchain use between 2016 and 2018, there was an equally dramatic increase in the computational power needed to sustain the Proof-of-Work model, along with a sharp rise in the energy consumption required to keep the activity operational. 
 
-Para título exemplificativo, em 2016 cada Bitcoin “minado” exigia um gasto energético de 1005 kWh, valor que, em junho de 2018, havia crescido para 60,461 kWh por moeda, gerando um aumento de mais de 60 vezes, de modo que somente a mineração do bitcoin em 2017 consumiu mais energia do que países como a Irlanda ou Hong Kong. 
+For illustrative purposes, in 2016, each Bitcoin mined required an energy expenditure of 1,005 kWh. By June 2018, this figure had grown to 60,461 kWh per coin, representing an increase of over 60 times. As a result, Bitcoin mining alone in 2017 consumed more energy than countries like Ireland or Hong Kong.
 > <a href="https://www.nature.com/articles/s41893-018-0152-7">Quantification of energy and carbon costs for mining cryptocurrencies</a>
 
 
-Este aumento no gasto energético traz diversos problemas ambientais, existindo estimativas de que anualmente as emissões de CO2 relacionadas à mineração de blockchain ultrapassam as 20 toneladas, problema que traz também graves efeitos para a saúde da população.
+This increase in energy consumption brings numerous environmental problems, with estimates suggesting that annual CO2 emissions related to blockchain mining exceed 20 tons. This issue also has severe impacts on public health.
 > <a href="https://www.researchgate.net/publication/331407183_The_Carbon_Footprint_of_Bitcoin">The Carbon Footprint of Bitcoin</a>
 
 > <a href="https://www.sciencedirect.com/science/article/abs/pii/S2214629618301750">Decarbonizing Bitcoin: Law and policy choices for reducing the energy consumption of Blockchain technologies and digital currencies</a>
 
 
-A utilização do Proof-of-Work, ainda que continue dominando o mercado do blockchain, em especial por ser utilizada pelas 4 principais criptomoedas (Bitcoin, Ethereum, Litecoin e Monero), já é categorizada por especialistas na área como insustentável, e o próprio Ethereum, por exemplo, busca já a mais de 5 anos criar alternativas para o Proof-of-Work e implementar novas técnicas. 
+The use of Proof-of-Work, although it continues to dominate the blockchain market—especially as it is used by the four leading cryptocurrencies (Bitcoin, Ethereum, Litecoin, and Monero)—is already categorized by experts in the field as unsustainable. Ethereum itself, for example, has been working for over five years to develop alternatives to Proof-of-Work and implement new techniques.
 > <a href="https://www.cell.com/joule/pdf/S2542-4351(19)30169-2.pdf">Blockchain’s First Consensus Implementation Is Unsustainable</a>
 
-Assim, se a indústria busca no blockchain uma solução para seus problemas, também é necessário que esteja a par dos próprios problemas do blockchain, considerando a importância do desenvolvimento de alternativas sustentáveis para a tecnologia, como a implementação de outros métodos de implementação de consenso, como o proof-of-stake, delegated proof-of-stake, practical byzantine fault tolerance ou até mesmo opções que deixem de lado o consenso descentralizado, confiando em padrões de consenso por meio da confiança em autoridades transparente de certificação, nos moldes da Certificate Transparency da Google. 
+Thus, if the industry seeks blockchain as a solution to its problems, it is also essential to recognize the inherent issues within blockchain itself. This includes the importance of developing sustainable alternatives for the technology, such as implementing other consensus methods like Proof-of-Stake, Delegated Proof-of-Stake, Practical Byzantine Fault Tolerance, or even approaches that move away from decentralized consensus. These could rely on consensus standards based on trust in transparent certification authorities, following models like Google’s Certificate Transparency.
 
-A construção soluções por meio do blockchain deve ser feita em conjunto com a construção de uma solução para a certificação de consenso ecologicamente sustentável, buscando e acreditando em novas alternativas e projetos de blockchain que tenham como enfoque a sustentabilidade e a defesa do [[Meio ambiente]] 
+The development of solutions through blockchain must go hand in hand with creating environmentally sustainable consensus certification systems. This requires pursuing and investing in new blockchain alternatives and projects that focus on sustainability and environmental protection.
